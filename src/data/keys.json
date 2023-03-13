@@ -1,0 +1,821 @@
+[
+     {
+          "full": "the key of addiction: you like to go out on the town; having a drink or two helps you relax. hit your key when your character gets another character to go out on the town with him. buyoff: go sober and quit the drink.",
+          "activate": "When your character gets another character to go out on the town with him.",
+          "description": "You like to go out on the town; having a drink or two helps you relax.",
+          "buyoff": "Go sober and quit the drink.",
+          "name": "The Key of Addiction",
+          "id": "k4",
+          "type": "key"
+     },
+     {
+          "full": "the key of the amnesiac: you have lost your memories. hit your key when you learn more of your past. buyoff: forge a new identity.",
+          "activate": "When you learn more of your past.",
+          "description": "You have lost your memories.",
+          "buyoff": "Forge a new identity.",
+          "name": "The Key of the Amnesiac",
+          "id": "k7",
+          "type": "key"
+     },
+     {
+          "full": "the key of banter: you have a knack for snappy comments. hit your key when you say something that makes the other players laugh or when you explain something using your pilot techno jargon. buyoff: everyone groans at one of your comments.",
+          "activate": "When you say something that makes the other players laugh or when you explain something using your pilot techno jargon.",
+          "description": "You have a knack for snappy comments.",
+          "buyoff": "Everyone groans at one of your comments.",
+          "name": "The Key of Banter",
+          "id": "k12",
+          "type": "key"
+     },
+     {
+          "full": "the key of the bastard: you never knew your father. on her deathbed your mother revealed his identity and you've been pursuing him ever since. hit your key when you pursue meeting him. buyoff: give up on ever knowing your father.",
+          "activate": "When you pursue meeting him.",
+          "description": "You never knew your father. On her deathbed your mother revealed his identity and you've been pursuing him ever since.",
+          "buyoff": "Give up on ever knowing your father.",
+          "name": "The Key of the Bastard",
+          "id": "k17",
+          "type": "key"
+     },
+     {
+          "full": "the key of the best friend: you have a best friend from when you were in diapers. you'd help him hide bodies. hit your key whenever your friendship is important in a scene. buyoff: put someone or something else first.",
+          "activate": "Whenever your friendship is important in a scene.",
+          "description": "You have a best friend from when you were in diapers. You'd help him hide bodies.",
+          "buyoff": "Put someone or something else first.",
+          "name": "The Key of the Best Friend",
+          "id": "k21",
+          "type": "key"
+     },
+     {
+          "full": "the key of betrayal: you are deeply self-interested. hit your key when you abandon your companions to ensure your own safety or pursue your own ends. buyoff: stick with your companions when you don't have to.",
+          "activate": "When you abandon your companions to ensure your own safety or pursue your own ends.",
+          "description": "You are deeply self-interested.",
+          "buyoff": "Stick with your companions when you don't have to.",
+          "name": "The Key of Betrayal",
+          "id": "k25",
+          "type": "key"
+     },
+     {
+          "full": "the key of bloodlust: you have a passionate disposition and love a good scrap. as an imperial soldier you've seen more than your share. buyoff: avoid a fight.",
+          "activate": "You have a passionate disposition and love a good scrap. as an imperial soldier you've seen more than your share.",
+          "description": "You have a passionate disposition and love a good scrap. As an imperial soldier you've seen more than your share. BUYOFF: Avoid a fight.",
+          "buyoff": "Avoid a fight.",
+          "name": "The Key of Bloodlust",
+          "id": "k27",
+          "type": "key"
+     },
+     {
+          "full": "the key of the brokenhearted: you no longer form bonds of love or friendship. hit your key when you succumb to nostalgia or rebuff the affection of others. buyoff: fall in love.",
+          "activate": "When you succumb to nostalgia or rebuff the affection of others.",
+          "description": "You no longer form bonds of love or friendship.",
+          "buyoff": "Fall in love.",
+          "name": "The Key of the Brokenhearted",
+          "id": "k31",
+          "type": "key"
+     },
+     {
+          "full": "the key of the broker: you like to make deals and trade favors. hit your key when you bargain, make a new contact, or exchange a favor. buyoff: cut yourself off from your network of contacts.",
+          "activate": "When you bargain, make a new contact, or exchange a favor.",
+          "description": "You like to make deals and trade favors.",
+          "buyoff": "Cut yourself off from your network of contacts.",
+          "name": "The Key of the Broker",
+          "id": "k34",
+          "type": "key"
+     },
+     {
+          "full": "the key of the charming scoundrel: you can't resist a sucker or a pretty face. hit your key whenever you turn your considerable charm on someone for your own ends. buyoff: tell the truth about one of your lies.",
+          "activate": "Whenever you turn your considerable charm on someone for your own ends.",
+          "description": "You can't resist a sucker or a pretty face.",
+          "buyoff": "Tell the truth about one of your lies.",
+          "name": "The Key of the Charming Scoundrel",
+          "id": "k38",
+          "type": "key"
+     },
+     {
+          "full": "the key of cleverness: you were always the smartest kid on your world. hit your key whenever you come up with a clever plan or point out something no one else knew. buyoff: have a clever plan fail.",
+          "activate": "Whenever you come up with a clever plan or point out something no one else knew.",
+          "description": "You were always the smartest kid on your world.",
+          "buyoff": "Have a clever plan fail.",
+          "name": "The Key of Cleverness",
+          "id": "k41",
+          "type": "key"
+     },
+     {
+          "full": "the key of the commander: you are accustomed to giving orders and having them obeyed. hit your trait when you come up with a plan and give orders to make it happen. buyoff: acknowledge someone else as the leader.",
+          "activate": "You are accustomed to giving orders and having them obeyed. hit your trait when you come up with a plan and give orders to make it happen.",
+          "description": "You are accustomed to giving orders and having them obeyed. Hit your trait when you come up with a plan and give orders to make it happen. BUYOFF: Acknowledge someone else as the leader.",
+          "buyoff": "Acknowledge someone else as the leader.",
+          "name": "The Key of the Commander",
+          "id": "k45",
+          "type": "key"
+     },
+     {
+          "full": "the key of conscience: you don't like to see anyone suffer, even enemies. hit your key when you help someone who is in trouble or when you change someone's life for the better. buyoff: ignore a request for help.",
+          "activate": "When you help someone who is in trouble or when you change someone's life for the better.",
+          "description": "You don't like to see anyone suffer, even enemies.",
+          "buyoff": "Ignore a request for help.",
+          "name": "The Key of Conscience",
+          "id": "k49",
+          "type": "key"
+     },
+     {
+          "full": "the key of the could-have-been: once, you were a hometown hero, the hope of your world. now you're just another cloud in the blue. hit your key whenever you give up on a course of action because it seems unrealistic. buyoff: succeed at something unlikely.",
+          "activate": "Whenever you give up on a course of action because it seems unrealistic.",
+          "description": "Once, you were a hometown hero, the hope of your world. Now you're just another cloud in the Blue.",
+          "buyoff": "Succeed at something unlikely.",
+          "name": "The Key of the Could-Have-Been",
+          "id": "k54",
+          "type": "key"
+     },
+     {
+          "full": "the key of the coward: despite your dreadful reputation, fighting secretly terrifies you. hit your key when you avoid a potentially dangerous situation, or when you stop a combat using means besides violence. buyoff: leap into combat.",
+          "activate": "When you avoid a potentially dangerous situation, or when you stop a combat using means besides violence.",
+          "description": "Despite your dreadful reputation, fighting secretly terrifies you.",
+          "buyoff": "Leap into combat.",
+          "name": "The Key of the Coward",
+          "id": "k59",
+          "type": "key"
+     },
+     {
+          "full": "the key of crazy: you've got more than a few leaks in the brainpan. hit your key whenever you do something crazy and awesome. buyoff: let the kids play on your lawn or give away your cats.",
+          "activate": "Whenever you do something crazy and awesome.",
+          "description": "You've got more than a few leaks in the brainpan.",
+          "buyoff": "Let the kids play on your lawn or give away your cats.",
+          "name": "The Key of Crazy",
+          "id": "k62",
+          "type": "key"
+     },
+     {
+          "full": "the key of curiosity: hit your key whenever you investigate something new. buyoff: ignore an opportunity to learn something new.",
+          "activate": "Whenever you investigate something new.",
+          "description": "",
+          "buyoff": "Ignore an opportunity to learn something new.",
+          "name": "The Key of Curiosity",
+          "id": "k64",
+          "type": "key"
+     },
+     {
+          "full": "the key of the daredevil: you thrive in dangerous situations. hit your key when you do something cool that is risky or reckless (especially piloting stunts). buyoff: be very very careful.",
+          "activate": "When you do something cool that is risky or reckless (especially piloting stunts).",
+          "description": "You thrive in dangerous situations.",
+          "buyoff": "Be very very careful.",
+          "name": "The Key of the Daredevil",
+          "id": "k67",
+          "type": "key"
+     },
+     {
+          "full": "the key of the deal: you love making deals and getting things just right. hit your key whenever you bargain, exchange favors, or strike a deal. buyoff: pass up a good deal.",
+          "activate": "Whenever you bargain, exchange favors, or strike a deal.",
+          "description": "You love making deals and getting things just right.",
+          "buyoff": "Pass up a good deal.",
+          "name": "The Key of the Deal",
+          "id": "k71",
+          "type": "key"
+     },
+     {
+          "full": "the key of the destined: you are fated for great things. hit your key when you act like a hero. buyoff: give up on a quest or act craven.",
+          "activate": "When you act like a hero.",
+          "description": "You are fated for great things.",
+          "buyoff": "Give up on a quest or act craven.",
+          "name": "The Key of the Destined",
+          "id": "k74",
+          "type": "key"
+     },
+     {
+          "full": "the key of disguise: after being left by the regulators you crawled to a mission and took up the godly life 'til you could heal. now you use your frock as a disguise to avoid the law and the rest of the gang. hit your key when you perform well enough to fool someone. buyoff: reveal your true identity.",
+          "activate": "When you perform well enough to fool someone.",
+          "description": "After being left by the Regulators you crawled to a mission and took up the Godly life 'til you could heal. Now you use your frock as a disguise to avoid the law and the rest of the gang.",
+          "buyoff": "Reveal your true identity.",
+          "name": "The Key of Disguise",
+          "id": "k79",
+          "type": "key"
+     },
+     {
+          "full": "the key of the dispossessed: you have been disinherited or have had your birthright stolen from you. hit your key when you take action to restore your rightful title or property. buyoff: give up on restoring your birthright.",
+          "activate": "When you take action to restore your rightful title or property.",
+          "description": "You have been disinherited or have had your birthright stolen from you.",
+          "buyoff": "Give up on restoring your birthright.",
+          "name": "The Key of the Dispossessed",
+          "id": "k83",
+          "type": "key"
+     },
+     {
+          "full": "the key of domination: you are driven to assert your power over others by bending them to your will. hit your key when you convince someone to do something that is against their best interests. buyoff: go along with someone else.",
+          "activate": "When you convince someone to do something that is against their best interests.",
+          "description": "You are driven to assert your power over others by bending them to your will.",
+          "buyoff": "Go along with someone else.",
+          "name": "The Key of Domination",
+          "id": "k88",
+          "type": "key"
+     },
+     {
+          "full": "the key of doom: you are doomed to a terrible fate. hit your key every time you act without regard to your safety, especially when you enter battle against superior enemies. buyoff: retreat from an overwhelming battle or fight.",
+          "activate": "Every time you act without regard to your safety, especially when you enter battle against superior enemies.",
+          "description": "You are doomed to a terrible fate.",
+          "buyoff": "Retreat from an overwhelming battle or fight.",
+          "name": "The Key of Doom",
+          "id": "k93",
+          "type": "key"
+     },
+     {
+          "full": "the key of eldritch learning: you are in search of a rare cursed tome. hit your key when you take an action to reclaim that tome from dusty antiquity. buyoff: give up your search.",
+          "activate": "When you take an action to reclaim that tome from dusty antiquity.",
+          "description": "You are in search of a rare cursed tome.",
+          "buyoff": "Give up your search.",
+          "name": "The Key of Eldritch Learning",
+          "id": "k97",
+          "type": "key"
+     },
+     {
+          "full": "the key of the empire: you are an imperial. long live the emperess! hit your key when you serve the empire's interests, make contact with other imperials, or reveal your imperial medals. buyoff: betray the empire.",
+          "activate": "When you serve the empire's interests, make contact with other imperials, or reveal your imperial medals.",
+          "description": "You are an Imperial. Long live the Emperess!",
+          "buyoff": "Betray the Empire.",
+          "name": "The Key of the Empire",
+          "id": "k100",
+          "type": "key"
+     },
+     {
+          "full": "the key of the evangelist: you bring the word of the good book wherever you go. hit your key when you speak the word or try to bring someone into the faith. buyoff: fall into apostasy.",
+          "activate": "When you speak the word or try to bring someone into the faith.",
+          "description": "You bring the word of the Good Book wherever you go.",
+          "buyoff": "Fall into apostasy.",
+          "name": "The Key of the Evangelist",
+          "id": "k104",
+          "type": "key"
+     },
+     {
+          "full": "the key of the exile: the empire exiled you for high treason. hit your key when you are threatened by or defy the empire. buyoff: return to ilysium.",
+          "activate": "When you are threatened by or defy the empire.",
+          "description": "The Empire exiled you for high treason.",
+          "buyoff": "Return to Ilysium.",
+          "name": "The Key of the Exile",
+          "id": "k107",
+          "type": "key"
+     },
+     {
+          "full": "the key of fame: you will make a name for yourself or die trying. hit your key whenever you brag or put yourself at risk to do something unnecessary or foolish that will add to your reputation. buyoff: pass up the opportunity to boast.",
+          "activate": "Whenever you brag or put yourself at risk to do something unnecessary or foolish that will add to your reputation.",
+          "description": "You will make a name for yourself or die trying.",
+          "buyoff": "Pass up the opportunity to boast.",
+          "name": "The Key of Fame",
+          "id": "k110",
+          "type": "key"
+     },
+     {
+          "full": "the key of the father: you hate everything your son has done since he went out on his own; but no matter how he acts he'll always be blood. hit your key when he influences your decision. buyoff: disown your son.",
+          "activate": "When he influences your decision.",
+          "description": "You hate everything your son has done since he went out on his own; but no matter how he acts he'll always be blood.",
+          "buyoff": "Disown your son.",
+          "name": "The Key of the Father",
+          "id": "k114",
+          "type": "key"
+     },
+     {
+          "full": "the key of fraternity: you are sworn to one of your companions in a bond of brotherhood. hit your key when your character is influenced by him or when you show how deep your bond is. buyoff: sever the relationship.",
+          "activate": "When your character is influenced by him or when you show how deep your bond is.",
+          "description": "You are sworn to one of your companions in a bond of brotherhood.",
+          "buyoff": "Sever the relationship.",
+          "name": "The Key of Fraternity",
+          "id": "k118",
+          "type": "key"
+     },
+     {
+          "full": "the key of the gambler: you can't pass up a chance at something great, no matter the odds, and it's put you in debt. hit your key when you take a wild chance or when you act to get money to pay off your losses. buyoff: play it safe or pay off your debt.",
+          "activate": "When you take a wild chance or when you act to get money to pay off your losses.",
+          "description": "You can't pass up a chance at something great, no matter the odds, and it's put you in debt.",
+          "buyoff": "Play it safe or pay off your debt.",
+          "name": "The Key of the Gambler",
+          "id": "k123",
+          "type": "key"
+     },
+     {
+          "full": "the key of the great-aunt: that damn whore broke your favorite nephew's heart and then stole his children. hit your key whenever you act to find, protect, or help his kids. buyoff: sit back while she keeps the kids.",
+          "activate": "Whenever you act to find, protect, or help his kids.",
+          "description": "That damn whore broke your favorite nephew's heart and then stole his children.",
+          "buyoff": "Sit back while she keeps the kids.",
+          "name": "The Key of the Great-Aunt",
+          "id": "k127",
+          "type": "key"
+     },
+     {
+          "full": "the key of greed: you like the shiny things. hit your key when you steal something cool or score a big payoff. buyoff: swear off stealing forever.",
+          "activate": "When you steal something cool or score a big payoff.",
+          "description": "You like the shiny things.",
+          "buyoff": "Swear off stealing forever.",
+          "name": "The Key of Greed",
+          "id": "k130",
+          "type": "key"
+     },
+     {
+          "full": "the key of the guardian: you have sworn to protect one of your companions. hit your key when you protect him from harm. buyoff: sever your relationship.",
+          "activate": "When you protect him from harm.",
+          "description": "You have sworn to protect one of your companions.",
+          "buyoff": "Sever your relationship.",
+          "name": "The Key of the Guardian",
+          "id": "k133",
+          "type": "key"
+     },
+     {
+          "full": "the key of the half-breed: you are half ilysian and half havenite. hit your key when your mixed free and imperial heritage causes you trouble or is important in a scene. buyoff: disavow one side of your ancestry or the other.",
+          "activate": "When your mixed free and imperial heritage causes you trouble or is important in a scene.",
+          "description": "You are half Ilysian and half Havenite.",
+          "buyoff": "Disavow one side of your ancestry or the other.",
+          "name": "The Key of the Half-Breed",
+          "id": "k137",
+          "type": "key"
+     },
+     {
+          "full": "the key of the hero: you do what needs to be done, no matter the cost. you like to be considered one of the good guys. hit your key when you act on behalf of others. buyoff: act selfishly.",
+          "activate": "When you act on behalf of others.",
+          "description": "You do what needs to be done, no matter the cost. You like to be considered one of the good guys.",
+          "buyoff": "Act selfishly.",
+          "name": "The Key of the Hero",
+          "id": "k140",
+          "type": "key"
+     },
+     {
+          "full": "the key of hidden family: you are the long-lost sibling of one of your companions, though he doesn't know it yet. hit your key when you protect or nurture him. buyoff: disown or betray your sibling.",
+          "activate": "When you protect or nurture him.",
+          "description": "You are the long-lost sibling of one of your companions, though he doesn't know it yet.",
+          "buyoff": "Disown or betray your sibling.",
+          "name": "The Key of Hidden Family",
+          "id": "k144",
+          "type": "key"
+     },
+     {
+          "full": "the key of hidden longing: you are completely enthralled by one of your companions but you don't want him to know it. hit your key when you make a decision based on this secret affection or when you somehow show it indirectly. buyoff: give up on your secret desire or make it public.",
+          "activate": "When you make a decision based on this secret affection or when you somehow show it indirectly.",
+          "description": "You are completely enthralled by one of your companions but you don't want him to know it.",
+          "buyoff": "Give up on your secret desire or make it public.",
+          "name": "The Key of Hidden Longing",
+          "id": "k149",
+          "type": "key"
+     },
+     {
+          "full": "the key of the honest man: your father made his money skirting the law, but you always made a fair day's pay for a fair day's work. hit your key whenever you deal fairly with someone else or follow the law at your own expense. buyoff: cheat, lie or steal.",
+          "activate": "Whenever you deal fairly with someone else or follow the law at your own expense.",
+          "description": "Your father made his money skirting the law, but you always made a fair day's pay for a fair day's work.",
+          "buyoff": "Cheat, lie or steal.",
+          "name": "The Key of the Honest Man",
+          "id": "k154",
+          "type": "key"
+     },
+     {
+          "full": "the key of honor: you abide by a strict code of honor. hit your key whenever you make a decision influenced by your code of honor or keep your word. buyoff: do something underhanded and dishonorable.",
+          "activate": "Whenever you make a decision influenced by your code of honor or keep your word.",
+          "description": "You abide by a strict code of honor.",
+          "buyoff": "Do something underhanded and dishonorable.",
+          "name": "The Key of Honor",
+          "id": "k158",
+          "type": "key"
+     },
+     {
+          "full": "the key of the hunter: you are accustomed to leading men in the hunt against creatures of the depths. hit your key when you come up with a plan and give orders to make it happen. buyoff: swear off hunting forever.",
+          "activate": "When you come up with a plan and give orders to make it happen.",
+          "description": "You are accustomed to leading men in the hunt against creatures of the depths.",
+          "buyoff": "Swear off hunting forever.",
+          "name": "The Key of the Hunter",
+          "id": "k161",
+          "type": "key"
+     },
+     {
+          "full": "the key of the idiot: you were dropped on your head as a child and now it doesn't work right. hit your key when you say something stupid or incorrectly or when you act based on faulty reasoning. buyoff: demonstrate your latent intelligence.",
+          "activate": "When you say something stupid or incorrectly or when you act based on faulty reasoning.",
+          "description": "You were dropped on your head as a child and now it doesn't work right.",
+          "buyoff": "Demonstrate your latent intelligence.",
+          "name": "The Key of the Idiot",
+          "id": "k166",
+          "type": "key"
+     },
+     {
+          "full": "the key of the impostor: you are in disguise, passing yourself off as commoner. hit your key when you perform well enough to fool someone with your disguise. buyoff: reveal your true identity to someone you fooled.",
+          "activate": "When you perform well enough to fool someone with your disguise.",
+          "description": "You are in disguise, passing yourself off as commoner.",
+          "buyoff": "Reveal your true identity to someone you fooled.",
+          "name": "The Key of the Impostor",
+          "id": "k170",
+          "type": "key"
+     },
+     {
+          "full": "the key of intolerance: you have a deep-seated intolerance for those that are different from yourself. hit your key when you demonstrate your disdain, or when your intolerance causes problems. buyoff: approve of something someone different did.",
+          "activate": "When you demonstrate your disdain, or when your intolerance causes problems.",
+          "description": "You have a deep-seated intolerance for those that are different from yourself.",
+          "buyoff": "Approve of something someone different did.",
+          "name": "The Key of Intolerance",
+          "id": "k175",
+          "type": "key"
+     },
+     {
+          "full": "the key of kindness: you are a compassionate person, however much you might try to hide it. hit your key whenever you show kindness or mercy. buyoff: hurt someone you didn't have to.",
+          "activate": "Whenever you show kindness or mercy.",
+          "description": "You are a compassionate person, however much you might try to hide it.",
+          "buyoff": "Hurt someone you didn't have to.",
+          "name": "The Key of Kindness",
+          "id": "k179",
+          "type": "key"
+     },
+     {
+          "full": "the key of the law: you have a deep and abiding respect for the law. hit your key when you act to uphold the law or prevent a crime. buyoff: break the law.",
+          "activate": "When you act to uphold the law or prevent a crime.",
+          "description": "You have a deep and abiding respect for the law.",
+          "buyoff": "Break the law.",
+          "name": "The Key of the Law",
+          "id": "k182",
+          "type": "key"
+     },
+     {
+          "full": "the key of longing: you are certain there is a perfect match for you. hit your key when you pursue true love or open your heart to someone. buyoff: vow to lead a life of chastity.",
+          "activate": "When you pursue true love or open your heart to someone.",
+          "description": "You are certain there is a perfect match for you.",
+          "buyoff": "Vow to lead a life of chastity.",
+          "name": "The Key of Longing",
+          "id": "k186",
+          "type": "key"
+     },
+     {
+          "full": "the key of the lover: you have more lovers than you can count and more kids than you care to know. hit your key whenever you pursue or develop a relationship with a woman. buyoff: take a wife and forsake all others.",
+          "activate": "Whenever you pursue or develop a relationship with a woman.",
+          "description": "You have more lovers than you can count and more kids than you care to know.",
+          "buyoff": "Take a wife and forsake all others.",
+          "name": "The Key of the Lover",
+          "id": "k190",
+          "type": "key"
+     },
+     {
+          "full": "the key of love: you have a deep love for one of your companions. hit your key when you are near him or whenever you make a decision that is influenced by him. buyoff: sever the relationship.",
+          "activate": "When you are near him or whenever you make a decision that is influenced by him.",
+          "description": "You have a deep love for one of your companions.",
+          "buyoff": "Sever the relationship.",
+          "name": "The Key of Love",
+          "id": "k194",
+          "type": "key"
+     },
+     {
+          "full": "the key of the loving father: you love your kids more than anything else. hit your key whenever you act to nurture, protect, or help your kids. buyoff: disown your children.",
+          "activate": "Whenever you act to nurture, protect, or help your kids.",
+          "description": "You love your kids more than anything else.",
+          "buyoff": "Disown your children.",
+          "name": "The Key of the Loving Father",
+          "id": "k198",
+          "type": "key"
+     },
+     {
+          "full": "the key of loyalty: back in the day, someone had your back in every fight, you owe him your life. if it weren't for him, you'd still be digging mines for the empire. hit your key whenever you act out of your sense of debt or do something he would approve of. buyoff: pass up a chance to meet.",
+          "activate": "Whenever you act out of your sense of debt or do something he would approve of.",
+          "description": "Back in the day, someone had your back in every fight, you owe him your life. If it weren't for him, you'd still be digging mines for the Empire.",
+          "buyoff": "Pass up a chance to meet.",
+          "name": "The Key of Loyalty",
+          "id": "k202",
+          "type": "key"
+     },
+     {
+          "full": "the key of lust: your great weakness is debauchery and licentiousness. hit your key when you give in to temptation instead of helping your companions. buyoff: say no to a good time.",
+          "activate": "When you give in to temptation instead of helping your companions.",
+          "description": "Your great weakness is debauchery and licentiousness.",
+          "buyoff": "Say no to a good time.",
+          "name": "The Key of Lust",
+          "id": "k206",
+          "type": "key"
+     },
+     {
+          "full": "the key of the manipulator: you work behind the scenes manipulating others in order to be a shadow leader. hit your key whenever you exert your will over the leader, even over minor matters'especially over minor matters. buyoff: accept the mantle of power yourself.",
+          "activate": "Whenever you exert your will over the leader, even over minor matters'especially over minor matters.",
+          "description": "You work behind the scenes manipulating others in order to be a shadow leader.",
+          "buyoff": "Accept the mantle of power yourself.",
+          "name": "The Key of the Manipulator",
+          "id": "k211",
+          "type": "key"
+     },
+     {
+          "full": "the key of the mean stare: you enjoys intimidating others. hit your key whenever you cow or defeat an opponent. buyoff: be intimidated by someone else or swallow your pride.",
+          "activate": "Whenever you cow or defeat an opponent.",
+          "description": "You enjoys intimidating others.",
+          "buyoff": "Be intimidated by someone else or swallow your pride.",
+          "name": "The Key of the Mean Stare",
+          "id": "k215",
+          "type": "key"
+     },
+     {
+          "full": "the key of the missionary: your faith requires you to come to the aid of all in need. hit your key when you take action to protect the weak and less fortunate. buyoff: put the greater good before those in need.",
+          "activate": "When you take action to protect the weak and less fortunate.",
+          "description": "Your faith requires you to come to the aid of all in need.",
+          "buyoff": "Put the greater good before those in need.",
+          "name": "The Key of the Missionary",
+          "id": "k219",
+          "type": "key"
+     },
+     {
+          "full": "the key of the mission: you have a critical, pressing mission. hit your key when you take action to complete the mission. buyoff: give up on your mission.",
+          "activate": "When you take action to complete the mission.",
+          "description": "You have a critical, pressing mission.",
+          "buyoff": "Give up on your mission.",
+          "name": "The Key of the Mission",
+          "id": "k221",
+          "type": "key"
+     },
+     {
+          "full": "the key of the mysterious past: though no one can put his finger on it, you are not quite who you appear to be. hit your key when you allude to your former life or use an unexpected skill. buyoff: tell someone your life story.",
+          "activate": "When you allude to your former life or use an unexpected skill.",
+          "description": "Though no one can put his finger on it, you are not quite who you appear to be.",
+          "buyoff": "Tell someone your life story.",
+          "name": "The Key of the Mysterious Past",
+          "id": "k224",
+          "type": "key"
+     },
+     {
+          "full": "the key of the naif: you are especially naive. hit your key whenever you are taken advantage of. buyoff: get the better of someone.",
+          "activate": "Whenever you are taken advantage of.",
+          "description": "You are especially naive.",
+          "buyoff": "Get the better of someone.",
+          "name": "The Key of the Naif",
+          "id": "k226",
+          "type": "key"
+     },
+     {
+          "full": "the key of the outcast: you got exiled from the empire. hit your key when your outcast status causes you trouble or is important in a scene. buyoff: regain your former standing or join a new group.",
+          "activate": "When your outcast status causes you trouble or is important in a scene.",
+          "description": "You got exiled from the Empire.",
+          "buyoff": "Regain your former standing or join a new group.",
+          "name": "The Key of the Outcast",
+          "id": "k230",
+          "type": "key"
+     },
+     {
+          "full": "the key of the pacifist: you abhor violence and will take no part in it, no matter the cost. hit your key when you avoid using violence to solve your problems or disapprove of someone who does. buyoff: commit an act of violence.",
+          "activate": "When you avoid using violence to solve your problems or disapprove of someone who does.",
+          "description": "You abhor violence and will take no part in it, no matter the cost.",
+          "buyoff": "Commit an act of violence.",
+          "name": "The Key of the Pacifist",
+          "id": "k233",
+          "type": "key"
+     },
+     {
+          "full": "the key of the paragon: as a noble you're a cut above the common man. hit your key when you demonstrate your superiority or when your noble traits overcome a problem. buyoff: disown your noble heritage.",
+          "activate": "When you demonstrate your superiority or when your noble traits overcome a problem.",
+          "description": "As a noble you're a cut above the common man.",
+          "buyoff": "Disown your noble heritage.",
+          "name": "The Key of the Paragon",
+          "id": "k237",
+          "type": "key"
+     },
+     {
+          "full": "the key of the pastor: you take your responsibilities as a man of god seriously. you do what you can for the least of humanity. hit your key when you help the sick the friendless and the needy. buyoff: ignore a cry for help.",
+          "activate": "When you help the sick the friendless and the needy.",
+          "description": "You take your responsibilities as a man of God seriously. You do what you can for the least of humanity.",
+          "buyoff": "Ignore a cry for help.",
+          "name": "The Key of the Pastor",
+          "id": "k241",
+          "type": "key"
+     },
+     {
+          "full": "the key of the patriot: you are a loyal servant of the crown. hit your key when you do something to benefit the empire. buyoff: act against the interests of the empire.",
+          "activate": "When you do something to benefit the empire.",
+          "description": "You are a loyal servant of the crown.",
+          "buyoff": "Act against the interests of the Empire.",
+          "name": "The Key of the Patriot",
+          "id": "k244",
+          "type": "key"
+     },
+     {
+          "full": "the key of the phenom: you are lauded as the next great prospect. hit your key whenever you fulfill this expectation even though it causes you harm. buyoff: let the pressure break you down or give up.",
+          "activate": "Whenever you fulfill this expectation even though it causes you harm.",
+          "description": "You are lauded as the next great prospect.",
+          "buyoff": "Let the pressure break you down or give up.",
+          "name": "The Key of the Phenom",
+          "id": "k248",
+          "type": "key"
+     },
+     {
+          "full": "the key of the pirate: you pillage, raid, and terrorize the wild blue. hit your key when you impress someone with your piratical nature or do something to add to your reputation. buyoff: turn over a new leaf and go straight.",
+          "activate": "When you impress someone with your piratical nature or do something to add to your reputation.",
+          "description": "You pillage, raid, and terrorize the Wild Blue.",
+          "buyoff": "Turn over a new leaf and go straight.",
+          "name": "The Key of the Pirate",
+          "id": "k252",
+          "type": "key"
+     },
+     {
+          "full": "the key of the poet: you have a way with words and a romantic soul. hit your key when you say something that moves the other players at the table. buyoff: you realize life is nasty, brutal, and short.",
+          "activate": "When you say something that moves the other players at the table.",
+          "description": "You have a way with words and a romantic soul.",
+          "buyoff": "You realize life is nasty, brutal, and short.",
+          "name": "The Key of the Poet",
+          "id": "k256",
+          "type": "key"
+     },
+     {
+          "full": "the key of poverty: you've never had more than a few coins to your name, since your father left mom to raise you alone. you've taken on all kinds of jobs, but never made much cash. hit your key when you screw someone over to get ahead. buyoff: give away something valuable.",
+          "activate": "When you screw someone over to get ahead.",
+          "description": "You've never had more than a few coins to your name, since your father left Mom to raise you alone. You've taken on all kinds of jobs, but never made much cash.",
+          "buyoff": "Give away something valuable.",
+          "name": "The Key of Poverty",
+          "id": "k260",
+          "type": "key"
+     },
+     {
+          "full": "the key of power: you desire power above all else. hit your key when you pursue your own ascendancy over the safety and security of your companions. buyoff: relinquish all your authority.",
+          "activate": "When you pursue your own ascendancy over the safety and security of your companions.",
+          "description": "You desire power above all else.",
+          "buyoff": "Relinquish all your authority.",
+          "name": "The Key of Power",
+          "id": "k264",
+          "type": "key"
+     },
+     {
+          "full": "the key of prudence: you are focused on doing the little things that help your companions succeed, playing conservatively to the odds. buyoff: take a big risk or go for glory.",
+          "activate": "You are focused on doing the little things that help your companions succeed, playing conservatively to the odds.",
+          "description": "You are focused on doing the little things that help your companions succeed, playing conservatively to the odds. BUYOFF: Take a big risk or go for glory.",
+          "buyoff": "Take a big risk or go for glory.",
+          "name": "The Key of Prudence",
+          "id": "k268",
+          "type": "key"
+     },
+     {
+          "full": "the key of the quick draw: you're the fastest gun because you don't bother to think between slapping leather and pulling the trigger. hit your key whenever you jump into action. buyoff: stop and think.",
+          "activate": "Whenever you jump into action.",
+          "description": "You're the fastest gun because you don't bother to think between slapping leather and pulling the trigger.",
+          "buyoff": "Stop and think.",
+          "name": "The Key of the Quick Draw",
+          "id": "k271",
+          "type": "key"
+     },
+     {
+          "full": "the key of the rake: you like the ladies. hit your key whenever you make a pass, make a proposition, or get busy. buyoff: behave honorably toward a woman.",
+          "activate": "Whenever you make a pass, make a proposition, or get busy.",
+          "description": "You like the ladies.",
+          "buyoff": "Behave honorably toward a woman.",
+          "name": "The Key of the Rake",
+          "id": "k275",
+          "type": "key"
+     },
+     {
+          "full": "the key of the rebel: the empire is your greatest foe. hit your key whenever you strike a blow against them or kill am imperial agent. buyoff: make peace with the empire.",
+          "activate": "Whenever you strike a blow against them or kill am imperial agent.",
+          "description": "The Empire is your greatest foe.",
+          "buyoff": "Make peace with the Empire.",
+          "name": "The Key of the Rebel",
+          "id": "k279",
+          "type": "key"
+     },
+     {
+          "full": "the key of the regulator: what's right and what's lawful aren't always the same in your eyes. you do what you think's right, courts-be-damned. hit your key when you take the law into your own hands. buyoff: abide the law when you know it's wrong.",
+          "activate": "When you take the law into your own hands.",
+          "description": "What's right and what's lawful aren't always the same in your eyes. You do what you think's right, courts-be-damned.",
+          "buyoff": "Abide the law when you know it's wrong.",
+          "name": "The Key of the Regulator",
+          "id": "k284",
+          "type": "key"
+     },
+     {
+          "full": "the key of the reluctant leader: as the highest ranking survivor, you were obliged to take command. hit your key when your orders are obeyed and when you risk your life for your men. buyoff: leave your men to die.",
+          "activate": "When your orders are obeyed and when you risk your life for your men.",
+          "description": "As the highest ranking survivor, you were obliged to take command.",
+          "buyoff": "Leave your men to die.",
+          "name": "The Key of the Reluctant Leader",
+          "id": "k288",
+          "type": "key"
+     },
+     {
+          "full": "the key of revenge: someone left you for dead as he saved himself, and you've never forgiven him for it. hit your key when you act against him or take action to confront and kill him. buyoff: forgive him face to face.",
+          "activate": "When you act against him or take action to confront and kill him.",
+          "description": "Someone left you for dead as he saved himself, and you've never forgiven him for it.",
+          "buyoff": "Forgive him face to face.",
+          "name": "The Key of Revenge",
+          "id": "k291",
+          "type": "key"
+     },
+     {
+          "full": "the key of the revolutionary: you are dedicated to establishing a new world order and throwing off the yoke of tyranny. hit your key when you speak or act against your imperial masters. buyoff: stand mute before injustice or accept favors from the empire.",
+          "activate": "When you speak or act against your imperial masters.",
+          "description": "You are dedicated to establishing a new world order and throwing off the yoke of tyranny.",
+          "buyoff": "Stand mute before injustice or accept favors from the Empire.",
+          "name": "The Key of the Revolutionary",
+          "id": "k296",
+          "type": "key"
+     },
+     {
+          "full": "the key of the rival: you hate someone. hit your key when you outperform or outfox him in any arena. buyoff: decline to compete against him.",
+          "activate": "When you outperform or outfox him in any arena.",
+          "description": "You hate someone.",
+          "buyoff": "Decline to compete against him.",
+          "name": "The Key of the Rival",
+          "id": "k299",
+          "type": "key"
+     },
+     {
+          "full": "the key of the secret mission: you have a mission that you keep secret from your companions. hit your key when this puts you in conflict with your companions or when you take an action that is a step toward fulfilling your mission. buyoff: give up on your mission or reveal it to your companions.",
+          "activate": "When this puts you in conflict with your companions or when you take an action that is a step toward fulfilling your mission.",
+          "description": "You have a mission that you keep secret from your companions.",
+          "buyoff": "Give up on your mission or reveal it to your companions.",
+          "name": "The Key of the Secret Mission",
+          "id": "k304",
+          "type": "key"
+     },
+     {
+          "full": "the key of the showoff: if someone doesn't already know you're the best shot in this slice of the blue they should be listening closer. hit your key whenever you talk yourself up or do something to try to impress others. buyoff: don't take credit for an accomplishment.",
+          "activate": "Whenever you talk yourself up or do something to try to impress others.",
+          "description": "If someone doesn't already know you're the best shot in this slice of the Blue they should be listening closer.",
+          "buyoff": "Don't take credit for an accomplishment.",
+          "name": "The Key of the Showoff",
+          "id": "k309",
+          "type": "key"
+     },
+     {
+          "full": "the key of the son: you left your father to make an honest living, but now you're forced to work with him again. hit your key when your relation to your father influences a decision. buyoff: give up the family name.",
+          "activate": "When your relation to your father influences a decision.",
+          "description": "You left your father to make an honest living, but now you're forced to work with him again.",
+          "buyoff": "Give up the family name.",
+          "name": "The Key of the Son",
+          "id": "k313",
+          "type": "key"
+     },
+     {
+          "full": "the key of the spotlight: you live for the moment to take the critical action to save the day. hit your key when you are credited with the success of the group. buyoff: cause your team to fail.",
+          "activate": "When you are credited with the success of the group.",
+          "description": "You live for the moment to take the critical action to save the day.",
+          "buyoff": "Cause your team to fail.",
+          "name": "The Key of the Spotlight",
+          "id": "k317",
+          "type": "key"
+     },
+     {
+          "full": "the key of swagger: as a nobleman adventurer, you're a cut above the common man. hit your key when you demonstrate your superiority or when your noble traits overcome a problem. buyoff: disown your house firefly heritage.",
+          "activate": "When you demonstrate your superiority or when your noble traits overcome a problem.",
+          "description": "As a nobleman adventurer, you're a cut above the common man.",
+          "buyoff": "Disown your House Firefly heritage.",
+          "name": "The Key of Swagger",
+          "id": "k321",
+          "type": "key"
+     },
+     {
+          "full": "the key of team spirit: you have sworn yourself to the success of your team. hit your key whenever you make a decision influenced by the team. buyoff: sever the relationship with your teammates.",
+          "activate": "Whenever you make a decision influenced by the team.",
+          "description": "You have sworn yourself to the success of your team.",
+          "buyoff": "Sever the relationship with your teammates.",
+          "name": "The Key of Team Spirit",
+          "id": "k325",
+          "type": "key"
+     },
+     {
+          "full": "the key of the tinkerer: you just can't leave it alone. hit your key when you modify, improve, repair, or patch some tech. buyoff: pass up the opportunity to mess around with technology.",
+          "activate": "When you modify, improve, repair, or patch some tech.",
+          "description": "You just can't leave it alone.",
+          "buyoff": "Pass up the opportunity to mess around with technology.",
+          "name": "The Key of the Tinkerer",
+          "id": "k329",
+          "type": "key"
+     },
+     {
+          "full": "the key of the traveler: you love exploring new places and meeting new people. hit your key when you share an interesting detail about a person, place, or thing or when you go somewhere exciting and new. buyoff: pass up the opportunity to see something new.",
+          "activate": "When you share an interesting detail about a person, place, or thing or when you go somewhere exciting and new.",
+          "description": "You love exploring new places and meeting new people.",
+          "buyoff": "Pass up the opportunity to see something new.",
+          "name": "The Key of the Traveler",
+          "id": "k334",
+          "type": "key"
+     },
+     {
+          "full": "the key of the unquiet grave: you are charged with helping restless souls enter the afterlife. hit your key when you take action to end the suffering of a ghost. buyoff: bind a soul to it's body.",
+          "activate": "When you take action to end the suffering of a ghost.",
+          "description": "You are charged with helping restless souls enter the afterlife.",
+          "buyoff": "Bind a soul to it's body.",
+          "name": "The Key of the Unquiet Grave",
+          "id": "k338",
+          "type": "key"
+     },
+     {
+          "full": "the key of vengeance: the empire enslaved you and made you kill for sport. you will have your revenge on them and watch their cities burn. hit your key when you strike a blow against the empire (especially by killing an imperial). buyoff: forgive them for what they did to you.",
+          "activate": "When you strike a blow against the empire (especially by killing an imperial).",
+          "description": "The Empire enslaved you and made you kill for sport. You will have your revenge on them and watch their cities burn.",
+          "buyoff": "Forgive them for what they did to you.",
+          "name": "The Key of Vengeance",
+          "id": "k342",
+          "type": "key"
+     },
+     {
+          "full": "the key of vice: you are a closet alcoholic. hit your key whenever alcohol makes its way into the scene, when you make a decision based on the vice or when alcohol causes you or someone you care about great harm or great success. buyoff: sober up, come clean, and renounce alcohol for good.",
+          "activate": "Whenever alcohol makes its way into the scene, when you make a decision based on the vice or when alcohol causes you or someone you care about great harm or great success.",
+          "description": "You are a closet alcoholic.",
+          "buyoff": "Sober up, come clean, and renounce alcohol for good.",
+          "name": "The Key of Vice",
+          "id": "k347",
+          "type": "key"
+     },
+     {
+          "full": "the key of the vow: you have a vow of personal behavior that you have sworn not to break. hit your key when your vow significantly impacts your decisions. buyoff: break your vow.",
+          "activate": "When your vow significantly impacts your decisions.",
+          "description": "You have a vow of personal behavior that you have sworn not to break.",
+          "buyoff": "Break your vow.",
+          "name": "The Key of the Vow",
+          "id": "k351",
+          "type": "key"
+     },
+     {
+          "full": "the key of the warrior: you crave the crash and roar of battle the tougher the better. hit your key when you do battle with worthy or superior foes. buyoff: pass up an opportunity for a good fight.",
+          "activate": "When you do battle with worthy or superior foes.",
+          "description": "You crave the crash and roar of battle the tougher the better.",
+          "buyoff": "Pass up an opportunity for a good fight.",
+          "name": "The Key of the Warrior",
+          "id": "k355",
+          "type": "key"
+     }
+]

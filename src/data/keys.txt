@@ -1,0 +1,359 @@
+﻿The Key of Addiction
+You like to go out on the town; having a drink or two helps you relax.
+Hit your Key when your character gets another character to go out on
+the town with him. BUYOFF: Go sober and quit the drink.
+The Key of the Amnesiac
+You have lost your memories. Hit your key when you learn more of
+your past. BUYOFF: Forge a new identity.
+The Key of Banter
+You have a knack for snappy comments. Hit your key when you say
+something that makes the other players laugh or when you explain
+something using your pilot techno jargon. BUYOFF: Everyone groans
+at one of your comments.
+The Key of the Bastard
+You never knew your father. On her deathbed your mother revealed
+his identity and you’ve been pursuing him ever since. Hit your key
+when you pursue meeting him. BUYOFF: Give up on ever knowing
+your father.
+The Key of the Best Friend
+You have a best friend from when you were in diapers. You’d help him
+hide bodies. Hit your key whenever your friendship is important in a
+scene. BUYOFF: Put someone or something else first.
+The Key of Betrayal
+You are deeply self-interested. Hit your key when you abandon your
+companions to ensure your own safety or pursue your own ends.
+BUYOFF: Stick with your companions when you don’t have to.
+The Key of Bloodlust
+You have a passionate disposition and love a good scrap. As an imperial soldier you’ve seen more than your share. BUYOFF: Avoid a fight.
+The Key of the Brokenhearted
+You no longer form bonds of love or friendship. Hit your key when you
+succumb to nostalgia or rebuff the affection of others. BUYOFF: Fall in
+love.
+The Key of the Broker
+You like to make deals and trade favors. Hit your key when you bargain, make a new contact, or exchange a favor. BUYOFF: Cut yourself
+off from your network of contacts.
+The Key of the Charming Scoundrel
+You can’t resist a sucker or a pretty face. Hit your key whenever you
+turn your considerable charm on someone for your own ends. BUYOFF:
+Tell the truth about one of your lies.
+The Key of Cleverness
+You were always the smartest kid on your world. Hit your key whenever you come up with a clever plan or point out something no one
+else knew. BUYOFF: Have a clever plan fail.
+The Key of the Commander
+You are accustomed to giving orders and having them obeyed. Hit
+your trait when you come up with a plan and give orders to make it
+happen. BUYOFF: Acknowledge someone else as the leader.
+The Key of Conscience
+You don’t like to see anyone suffer, even enemies. Hit your key when
+you help someone who is in trouble or when you change someone’s life
+for the better. BUYOFF: Ignore a request for help.
+The Key of the Could-Have-Been
+Once, you were a hometown hero, the hope of your world. Now you’re
+just another cloud in the Blue. Hit your key whenever you give up on
+a course of action because it seems unrealistic. BUYOFF: Succeed at
+something unlikely.
+The Key of the Coward
+Despite your dreadful reputation, fighting secretly terrifies you. Hit
+your key when you avoid a potentially dangerous situation, or when
+you stop a combat using means besides violence. BUYOFF: Leap into
+combat.
+The Key of Crazy
+You’ve got more than a few leaks in the brainpan. Hit your key whenever you do something crazy and awesome. BUYOFF: Let the kids
+play on your lawn or give away your cats.
+The Key of Curiosity
+Hit your key whenever you investigate something new. BUYOFF: Ignore an opportunity to learn something new.
+The Key of the Daredevil
+You thrive in dangerous situations. Hit your key when you do something cool that is risky or reckless (especially piloting stunts). BUYOFF:
+Be very very careful.
+The Key of the Deal
+You love making deals and getting things just right. Hit your key
+whenever you bargain, exchange favors, or strike a deal. BUYOFF:
+Pass up a good deal.
+The Key of the Destined
+You are fated for great things. Hit your key when you act like a hero.
+BUYOFF: Give up on a quest or act craven.
+The Key of Disguise
+After being left by the Regulators you crawled to a mission and took
+up the Godly life ’til you could heal. Now you use your frock as a disguise to avoid the law and the rest of the gang. Hit your key when
+you perform well enough to fool someone. BUYOFF: Reveal your true
+identity.
+The Key of the Dispossessed
+You have been disinherited or have had your birthright stolen from
+you. Hit your key when you take action to restore your rightful title
+or property. BUYOFF: Give up on restoring your birthright.
+The Key of Domination
+You are driven to assert your power over others by bending them to
+your will. Hit your key when you convince someone to do something
+that is against their best interests. BUYOFF: Go along with someone
+else.
+The Key of Doom
+You are doomed to a terrible fate. Hit your key every time you
+act without regard to your safety, especially when you enter battle
+against superior enemies. BUYOFF: Retreat from an overwhelming
+battle or fight.
+The Key of Eldritch Learning
+You are in search of a rare cursed tome. Hit your key when you take
+an action to reclaim that tome from dusty antiquity. BUYOFF: Give
+up your search.
+The Key of the Empire
+You are an Imperial. Long live the Emperess! Hit your key when you
+serve the Empire’s interests, make contact with other Imperials, or reveal your Imperial medals. BUYOFF: Betray the Empire.
+The Key of the Evangelist
+You bring the word of the Good Book wherever you go. Hit your
+key when you speak the word or try to bring someone into the faith.
+BUYOFF: Fall into apostasy.
+The Key of the Exile
+The Empire exiled you for high treason. Hit your key when you are
+threatened by or defy the Empire. BUYOFF: Return to Ilysium.
+The Key of Fame
+You will make a name for yourself or die trying. Hit your key whenever you brag or put yourself at risk to do something unnecessary or
+foolish that will add to your reputation. BUYOFF: Pass up the opportunity to boast.
+The Key of the Father
+You hate everything your son has done since he went out on his own;
+but no matter how he acts he’ll always be blood. Hit your key when
+he influences your decision. BUYOFF: Disown your son.
+The Key of Fraternity
+You are sworn to one of your companions in a bond of brotherhood.
+Hit your key when your character is influenced by him or when you
+show how deep your bond is. BUYOFF: Sever the relationship.
+The Key of the Gambler
+You can’t pass up a chance at something great, no matter the odds,
+and it’s put you in debt. Hit your key when you take a wild chance
+or when you act to get money to pay off your losses. BUYOFF: Play it
+safe or pay off your debt.
+The Key of the Great-Aunt
+That damn whore broke your favorite nephew’s heart and then stole
+his children. Hit your key whenever you act to find, protect, or help
+his kids. BUYOFF: Sit back while she keeps the kids.
+The Key of Greed
+You like the shiny things. Hit your key when you steal something cool
+or score a big payoff. BUYOFF: Swear off stealing forever.
+The Key of the Guardian
+You have sworn to protect one of your companions. Hit your key when
+you protect him from harm. BUYOFF: Sever your relationship.
+The Key of the Half-Breed
+You are half Ilysian and half Havenite. Hit your key when your mixed
+Free and Imperial heritage causes you trouble or is important in a
+scene. BUYOFF: Disavow one side of your ancestry or the other.
+The Key of the Hero
+You do what needs to be done, no matter the cost. You like to be considered one of the good guys. Hit your key when you act on behalf of
+others. BUYOFF: Act selfishly.
+The Key of Hidden Family
+You are the long-lost sibling of one of your companions, though he
+doesn’t know it yet. Hit your key when you protect or nurture him.
+BUYOFF: Disown or betray your sibling.
+The Key of Hidden Longing
+You are completely enthralled by one of your companions but you
+don’t want him to know it. Hit your key when you make a decision
+based on this secret affection or when you somehow show it indirectly.
+BUYOFF: Give up on your secret desire or make it public.
+The Key of the Honest Man
+Your father made his money skirting the law, but you always made
+a fair day’s pay for a fair day’s work. Hit your key whenever you
+deal fairly with someone else or follow the law at your own expense.
+BUYOFF: Cheat, lie or steal.
+The Key of Honor
+You abide by a strict code of honor. Hit your key whenever you make a
+decision influenced by your code of honor or keep your word. BUYOFF:
+Do something underhanded and dishonorable.
+The Key of the Hunter
+You are accustomed to leading men in the hunt against creatures of
+the depths. Hit your key when you come up with a plan and give orders to make it happen. BUYOFF: Swear off hunting forever.
+The Key of the Idiot
+You were dropped on your head as a child and now it doesn’t work
+right. Hit your key when you say something stupid or incorrectly or
+when you act based on faulty reasoning. BUYOFF: Demonstrate your
+latent intelligence.
+The Key of the Impostor
+You are in disguise, passing yourself off as commoner. Hit your key
+when you perform well enough to fool someone with your disguise.
+BUYOFF: Reveal your true identity to someone you fooled.
+The Key of Intolerance
+You have a deep-seated intolerance for those that are different from
+yourself. Hit your key when you demonstrate your disdain, or when
+your intolerance causes problems. BUYOFF: Approve of something
+someone different did.
+The Key of Kindness
+You are a compassionate person, however much you might try to hide
+it. Hit your key whenever you show kindness or mercy. BUYOFF: Hurt
+someone you didn’t have to.
+The Key of the Law
+You have a deep and abiding respect for the law. Hit your key when
+you act to uphold the law or prevent a crime. BUYOFF: Break the law.
+The Key of Longing
+You are certain there is a perfect match for you. Hit your key when
+you pursue true love or open your heart to someone. BUYOFF: Vow to
+lead a life of chastity.
+The Key of the Lover
+You have more lovers than you can count and more kids than you care
+to know. Hit your key whenever you pursue or develop a relationship
+with a woman. BUYOFF: Take a wife and forsake all others.
+The Key of Love
+You have a deep love for one of your companions. Hit your key when
+you are near him or whenever you make a decision that is influenced
+by him. BUYOFF: Sever the relationship.
+The Key of the Loving Father
+You love your kids more than anything else. Hit your key whenever
+you act to nurture, protect, or help your kids. BUYOFF: Disown your
+children.
+The Key of Loyalty
+Back in the day, someone had your back in every fight, you owe him
+your life. If it weren’t for him, you’d still be digging mines for the Empire. Hit your key whenever you act out of your sense of debt or do
+something he would approve of. BUYOFF: Pass up a chance to meet.
+The Key of Lust
+Your great weakness is debauchery and licentiousness. Hit your key
+when you give in to temptation instead of helping your companions.
+BUYOFF: Say no to a good time.
+The Key of the Manipulator
+You work behind the scenes manipulating others in order to be a
+shadow leader. Hit your key whenever you exert your will over
+the leader, even over minor matters—especially over minor matters.
+BUYOFF: Accept the mantle of power yourself.
+The Key of the Mean Stare
+You enjoys intimidating others. Hit your key whenever you cow or
+defeat an opponent. BUYOFF: Be intimidated by someone else or
+swallow your pride.
+The Key of the Missionary
+Your faith requires you to come to the aid of all in need. Hit your key
+when you take action to protect the weak and less fortunate. BUYOFF:
+Put the greater good before those in need.
+The Key of the Mission
+You have a critical, pressing mission. Hit your key when you take action to complete the mission. BUYOFF: Give up on your mission.
+The Key of the Mysterious Past
+Though no one can put his finger on it, you are not quite who you appear to be. Hit your key when you allude to your former life or use an
+unexpected skill. BUYOFF: Tell someone your life story.
+The Key of the Naif
+You are especially naive. Hit your key whenever you are taken advantage of. BUYOFF: Get the better of someone.
+The Key of the Outcast
+You got exiled from the Empire. Hit your key when your outcast status
+causes you trouble or is important in a scene. BUYOFF: Regain your
+former standing or join a new group.
+The Key of the Pacifist
+You abhor violence and will take no part in it, no matter the cost. Hit
+your key when you avoid using violence to solve your problems or disapprove of someone who does. BUYOFF: Commit an act of violence.
+The Key of the Paragon
+As a noble you’re a cut above the common man. Hit your key when
+you demonstrate your superiority or when your noble traits overcome
+a problem. BUYOFF: Disown your noble heritage.
+The Key of the Pastor
+You take your responsibilities as a man of God seriously. You do what
+you can for the least of humanity. Hit your key when you help the sick
+the friendless and the needy. BUYOFF: Ignore a cry for help.
+The Key of the Patriot
+You are a loyal servant of the crown. Hit your key when you do something to benefit the Empire. BUYOFF: Act against the interests of
+the Empire.
+The Key of the Phenom
+You are lauded as the next great prospect. Hit your key whenever you
+fulfill this expectation even though it causes you harm. BUYOFF: Let
+the pressure break you down or give up.
+The Key of the Pirate
+You pillage, raid, and terrorize the Wild Blue. Hit your key when you
+impress someone with your piratical nature or do something to add to
+your reputation. BUYOFF: Turn over a new leaf and go straight.
+The Key of the Poet
+You have a way with words and a romantic soul. Hit your key when
+you say something that moves the other players at the table. BUYOFF:
+You realize life is nasty, brutal, and short.
+The Key of Poverty
+You’ve never had more than a few coins to your name, since your father left Mom to raise you alone. You’ve taken on all kinds of jobs, but
+never made much cash. Hit your key when you screw someone over
+to get ahead. BUYOFF: Give away something valuable.
+The Key of Power
+You desire power above all else. Hit your key when you pursue your
+own ascendancy over the safety and security of your companions.
+BUYOFF: Relinquish all your authority.
+The Key of Prudence
+You are focused on doing the little things that help your companions
+succeed, playing conservatively to the odds. BUYOFF: Take a big risk
+or go for glory.
+The Key of the Quick Draw
+You’re the fastest gun because you don’t bother to think between slapping leather and pulling the trigger. Hit your key whenever you jump
+into action. BUYOFF: Stop and think.
+The Key of the Rake
+You like the ladies. Hit your key whenever you make a pass, make
+a proposition, or get busy. BUYOFF: Behave honorably toward a
+woman.
+The Key of the Rebel
+The Empire is your greatest foe. Hit your key whenever you strike a
+blow against them or kill am Imperial agent. BUYOFF: Make peace
+with the Empire.
+The Key of the Regulator
+What’s right and what’s lawful aren’t always the same in your eyes.
+You do what you think’s right, courts-be-damned. Hit your key when
+you take the law into your own hands. BUYOFF: Abide the law when
+you know it’s wrong.
+The Key of the Reluctant Leader
+As the highest ranking survivor, you were obliged to take command.
+Hit your key when your orders are obeyed and when you risk your life
+for your men. BUYOFF: Leave your men to die.
+The Key of Revenge
+Someone left you for dead as he saved himself, and you’ve never forgiven him for it. Hit your key when you act against him or take action
+to confront and kill him. BUYOFF: Forgive him face to face.
+The Key of the Revolutionary
+You are dedicated to establishing a new world order and throwing off
+the yoke of tyranny. Hit your key when you speak or act against your
+Imperial masters. BUYOFF: Stand mute before injustice or accept
+favors from the Empire.
+The Key of the Rival
+You hate someone. Hit your key when you outperform or outfox him
+in any arena. BUYOFF: Decline to compete against him.
+The Key of the Secret Mission
+You have a mission that you keep secret from your companions. Hit
+your key when this puts you in conflict with your companions or
+when you take an action that is a step toward fulfilling your mission.
+BUYOFF: Give up on your mission or reveal it to your companions.
+The Key of the Showoff
+If someone doesn’t already know you’re the best shot in this slice of the
+Blue they should be listening closer. Hit your key whenever you talk
+yourself up or do something to try to impress others. BUYOFF: Don’t
+take credit for an accomplishment.
+The Key of the Son
+You left your father to make an honest living, but now you’re forced to
+work with him again. Hit your key when your relation to your father
+influences a decision. BUYOFF: Give up the family name.
+The Key of the Spotlight
+You live for the moment to take the critical action to save the day. Hit
+your key when you are credited with the success of the group. BUYOFF:
+Cause your team to fail.
+The Key of Swagger
+As a nobleman adventurer, you’re a cut above the common man. Hit
+your key when you demonstrate your superiority or when your noble traits overcome a problem. BUYOFF: Disown your House Firefly
+heritage.
+The Key of Team Spirit
+You have sworn yourself to the success of your team. Hit your key
+whenever you make a decision influenced by the team. BUYOFF: Sever
+the relationship with your teammates.
+The Key of the Tinkerer
+You just can’t leave it alone. Hit your key when you modify, improve,
+repair, or patch some tech. BUYOFF: Pass up the opportunity to
+mess around with technology.
+The Key of the Traveler
+You love exploring new places and meeting new people. Hit your key
+when you share an interesting detail about a person, place, or thing
+or when you go somewhere exciting and new. BUYOFF: Pass up the
+opportunity to see something new.
+The Key of the Unquiet Grave
+You are charged with helping restless souls enter the afterlife. Hit
+your key when you take action to end the suffering of a ghost. BUYOFF:
+Bind a soul to it’s body.
+The Key of Vengeance
+The Empire enslaved you and made you kill for sport. You will have
+your revenge on them and watch their cities burn. Hit your key when
+you strike a blow against the Empire (especially by killing an Imperial). BUYOFF: Forgive them for what they did to you.
+The Key of Vice
+You are a closet alcoholic. Hit your key whenever alcohol makes its
+way into the scene, when you make a decision based on the vice or
+when alcohol causes you or someone you care about great harm or
+great success. BUYOFF: Sober up, come clean, and renounce alcohol for good.
+The Key of the Vow
+You have a vow of personal behavior that you have sworn not to break.
+Hit your key when your vow significantly impacts your decisions.
+BUYOFF: Break your vow.
+The Key of the Warrior
+You crave the crash and roar of battle the tougher the better. Hit your
+key when you do battle with worthy or superior foes. BUYOFF: Pass up
+an opportunity for a good fight.
+The Key of Xenophobic Bigotry
+You are convinced that these good-for-nothing green goblins from the
+outer rim are a bad influence. Hit your key whenever you act with
+xenophobia or bigotry. BUYOFF: Become true friends with a goblin.

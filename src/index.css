@@ -1,13 +1,128 @@
 body {
   margin: 0;
+  
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: #ffdb9453;
+  color: #4e3329;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.main {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: 2rem auto auto;
+  gap: 20px;
+  padding: 30px;
+  grid-template-areas:
+    "overview overview"
+    "header header"
+    "saved discover";
+}
+
+.overview {
+  display:flex;
+  grid-area: overview;
+  justify-content: center;
+}
+
+.f {
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+.saved {
+  grid-area: saved;
+  justify-self: end;
+}
+
+.discover {
+  grid-area: discover;
+  justify-self: start;
+}
+
+.navbar {
+  width: 1fr;
+  height: 3rem;
+  display: flex;
+  justify-content: center;
+
+  grid-area: header;
+}
+
+.nav {
+  border-style: double;
+  text-align: center;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+button.nav  {
+  background-color: #ebd07e69; 
+  margin: 0 1rem;
+}
+
+input {
+  background-color: #FFFBEF;
+  border: double;
+  color: #4e3329;
+  font-weight: bold
+}
+
+.block {
+  background-color: #FFFBEF;
+  border-style: double;
+  display: flex;
+  flex-direction: column;
+  grid-template-columns: 1fr;
+  margin: 2rem 0.4rem;
+  padding: 1.2rem;
+  max-width: 25rem;
+  flex-basis: 100%;
+  flex: 1 1 0;
+  grid-template-areas: 
+    "title"
+    "info";
+}
+
+.title{
+  grid-area: title;
+  font-size: larger;
+  font-weight: 700;
+}
+
+.info {
+  grid-area: info
+}
+
+.ui {
+  grid-area: input
+}
+s
+.trait{
+  background-color: rgb(208, 100, 183);
+}
+
+button {
+  background: none;
+  color: inherit;
+  border: none;
+  padding: 0;
+  font: inherit;
+  cursor: pointer;
+  outline: inherit;
+  text-align: left;
+  opacity: 0.3 ease-in-out;
+}
+
+.description {
+  font-style: italic;
+}
+

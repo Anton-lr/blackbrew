@@ -1,0 +1,1640 @@
+[
+     {
+          "full": "activist: accusation, anarchist, communist, conspiracy, contacts, criminal, determined, factions, honest, inspire, leaflets, organize, propaganda, rabble, radical, speech, yell",
+          "description": "Accusation, Anarchist, Communist, Conspiracy, Contacts, Criminal, Determined, Factions, Honest, Inspire, Leaflets, Organize, Propaganda, Rabble, Radical, Speech, Yell",
+          "name": "Activist",
+          "id": "t3",
+          "type": "trait"
+     },
+     {
+          "full": "administrator: accounting, banking, bureaucracy, carbon paper, credit, details, double check, finance, irritable, loopholes, organization, politics, research, stingy, stocks, taxes",
+          "description": "Accounting, Banking, Bureaucracy, Carbon Paper, Credit, Details, Double Check, Finance, Irritable, Loopholes, Organization, Politics, Research, Stingy, Stocks, Taxes",
+          "name": "Administrator",
+          "id": "t7",
+          "type": "trait"
+     },
+     {
+          "full": "adventuress: scandal, excitement, danger, disaster, escape, lack of decorum, wilderness, aborigines, fire, justice served, true love, curiosity, heart's desire, mojo",
+          "description": "Scandal, Excitement, Danger, Disaster, Escape, Lack of Decorum, Wilderness, Aborigines, Fire, Justice Served, True Love, Curiosity, Heart's Desire, Mojo",
+          "name": "Adventuress",
+          "id": "t11",
+          "type": "trait"
+     },
+     {
+          "full": "alchemist: bleeding, brewing, curatives, folklore, formulas, hallucinogens, healing, herbs, humours, leech jar, legends, natural, old ways, poisoning, potions, research, strange",
+          "description": "Bleeding, Brewing, Curatives, Folklore, Formulas, Hallucinogens, Healing, Herbs, Humours, Leech Jar, Legends, Natural, Old Ways, Poisoning, Potions, Research, Strange",
+          "name": "Alchemist",
+          "id": "t14",
+          "type": "trait"
+     },
+     {
+          "full": "alienist: analyze, behavior, crackpot, delusions, ground-breaking, inured, mesmerise, methodical, motivations, observe, pocket watch, soothing voice, therapy, torture, trauma, unorthodox",
+          "description": "Analyze, Behavior, Crackpot, Delusions, Ground-breaking, Inured, Mesmerise, Methodical, Motivations, Observe, Pocket Watch, Soothing Voice, Therapy, Torture, Trauma, Unorthodox",
+          "name": "Alienist",
+          "id": "t17",
+          "type": "trait"
+     },
+     {
+          "full": "aristocrat: command, charm, etiquette, heraldry, soldiers, impeccable, politics, connections, dance, educated, history",
+          "description": "Command, Charm, Etiquette, Heraldry, Soldiers, Impeccable, Politics, Connections, Dance, Educated, History",
+          "name": "Aristocrat",
+          "id": "t20",
+          "type": "trait"
+     },
+     {
+          "full": "artist: appreciation, avant garde, backing, classic, creative, grand scale, in demand, literature, loans, painting, proficient, realism, refined, sculpture, style, unique",
+          "description": "Appreciation, Avant Garde, Backing, Classic, Creative, Grand Scale, In Demand, Literature, Loans, Painting, Proficient, Realism, Refined, Sculpture, Style, Unique",
+          "name": "Artist",
+          "id": "t24",
+          "type": "trait"
+     },
+     {
+          "full": "ascetic: acrobatics, alert, anecdotes, animal stance, austere, balance, brave, defend, disarm, endure, fast, fitness, humble, iron fist, martial arts, meditate, reaction, wisdom",
+          "description": "Acrobatics, Alert, Anecdotes, Animal Stance, Austere, Balance, Brave, Defend, Disarm, Endure, Fast, Fitness, Humble, Iron Fist, Martial Arts, Meditate, Reaction, Wisdom",
+          "name": "Ascetic",
+          "id": "t28",
+          "type": "trait"
+     },
+     {
+          "full": "assassin: ambush, backstab, cold stare, conceal, contracts, crossbow, deadly, feared, garrote, guild, poison, quick, ruthless, shadow, sniper, stealth, stiletto, trailing, unemotional",
+          "description": "Ambush, Backstab, Cold Stare, Conceal, Contracts, Crossbow, Deadly, Feared, Garrote, Guild, Poison, Quick, Ruthless, Shadow, Sniper, Stealth, Stiletto, Trailing, Unemotional",
+          "name": "Assassin",
+          "id": "t32",
+          "type": "trait"
+     },
+     {
+          "full": "athlete: acrobatics, run, brawn, strategy, endurance, tough, wrestling, contortion, barge, gymnastics, karate, boxing, fame, signature, rouse the Crowd",
+          "description": "Acrobatics, Run, Brawn, Strategy, Endurance, Tough, Wrestling, Contortion, Barge, Gymnastics, Karate, Boxing, Fame, Signature, Rouse the Crowd",
+          "name": "Athlete",
+          "id": "t34",
+          "type": "trait"
+     },
+     {
+          "full": "athletic: run, fencing, rapier, duels, shooting, pistol, acrobatics, endurance, sneak, hide, contortion, dodge, ass-whipping, quick, reflexes, Climbing",
+          "description": "Run, Fencing, Rapier, Duels, Shooting, Pistol, Acrobatics, Endurance, Sneak, Hide, Contortion, Dodge, Ass-Whipping, Quick, Reflexes, Climbing",
+          "name": "Athletic",
+          "id": "t38",
+          "type": "trait"
+     },
+     {
+          "full": "bandit: black market, blood money, dagger, dark cloak, drink, hardy, kidnap, odious, old pistol, racketeer, rotten breath, ruffian, scattergun, shooting, slash, sneer, treacherous",
+          "description": "Black Market, Blood Money, Dagger, Dark Cloak, Drink, Hardy, Kidnap, Odious, Old Pistol, Racketeer, Rotten Breath, Ruffian, Scattergun, Shooting, Slash, Sneer, Treacherous",
+          "name": "Bandit",
+          "id": "t42",
+          "type": "trait"
+     },
+     {
+          "full": "blacksmith: craft, cold iron, endure heat, muscles, bellowing voice, mastercraft, Starmetal",
+          "description": "Craft, Cold Iron, Endure Heat, Muscles, Bellowing Voice, Mastercraft, Starmetal",
+          "name": "Blacksmith",
+          "id": "t44",
+          "type": "trait"
+     },
+     {
+          "full": "bloodhunter: gather information, interrogate, intimidate, incognito, recognize blood, reflexes, authority, firefights",
+          "description": "Gather Information, Interrogate, Intimidate, Incognito, Recognize Blood, Reflexes, Authority, Firefights",
+          "name": "Bloodhunter",
+          "id": "t48",
+          "type": "trait"
+     },
+     {
+          "full": "bodyguard: awareness, threats, defend, disarm, restrain, carry, delay, security, First Aid",
+          "description": "Awareness, Threats, Defend, Disarm, Restrain, Carry, Delay, Security, First Aid",
+          "name": "Bodyguard",
+          "id": "t50",
+          "type": "trait"
+     },
+     {
+          "full": "bold: brave, daring, heroic, rescue, falling, fire, reckless, explosions, escapes, outnumbered, underdog, amputation, suicidal",
+          "description": "Brave, Daring, Heroic, Rescue, Falling, Fire, Reckless, Explosions, Escapes, Outnumbered, Underdog, Amputation, Suicidal",
+          "name": "Bold",
+          "id": "t53",
+          "type": "trait"
+     },
+     {
+          "full": "bookish: theology, history, first aid, languages, folklore",
+          "description": "Theology, History, First Aid, Languages, Folklore",
+          "name": "Bookish",
+          "id": "t55",
+          "type": "trait"
+     },
+     {
+          "full": "bounty hunter: demand, disarm, follow, intimidate, jobsworth, knock 'em down, manacles, no mercy, no nonsense, no use to me dead, heavy pistol, tireless, tracking, traps, tricks of the trade",
+          "description": "Demand, Disarm, Follow, Intimidate, Jobsworth, Knock 'Em Down, Manacles, No Mercy, No Nonsense, No Use to Me Dead, Heavy Pistol, Tireless, Tracking, Traps, Tricks of the Trade",
+          "name": "Bounty Hunter",
+          "id": "t59",
+          "type": "trait"
+     },
+     {
+          "full": "braggart: boast, confidence, ego, haughty, oblivious, pushy, reckless, sly smile, talk for hours, tall tales",
+          "description": "Boast, Confidence, Ego, Haughty, Oblivious, Pushy, Reckless, Sly Smile, Talk for Hours, Tall Tales",
+          "name": "Braggart",
+          "id": "t62",
+          "type": "trait"
+     },
+     {
+          "full": "brainy: think it through, informed, anticipate, portable wireless, surmise, Quick",
+          "description": "Think it Through, Informed, Anticipate, Portable Wireless, Surmise, Quick",
+          "name": "Brainy",
+          "id": "t64",
+          "type": "trait"
+     },
+     {
+          "full": "builder: construction, demolition, hiding spots, repair, hard work",
+          "description": "Construction, Demolition, Hiding Spots, Repair, Hard work",
+          "name": "Builder",
+          "id": "t67",
+          "type": "trait"
+     },
+     {
+          "full": "burglar: quiet, sneak, hide, dextrous, locks, perceptive, traps, darkness, alarms, distractions, appraise, avoid, bash 'em, break and enter, case the joint, climbing, crowbar, fence goods, lockpicks, sprint, tough",
+          "description": "Quiet, Sneak, Hide, Dextrous, Locks, Perceptive, Traps, Darkness, Alarms, Distractions, Appraise, Avoid, Bash 'Em, Break and Enter, Case the Joint, Climbing, Crowbar, Fence Goods, Lockpicks, Sprint, Tough",
+          "name": "Burglar",
+          "id": "t76",
+          "type": "trait"
+     },
+     {
+          "full": "carnie: animal trainer, balance, bizarre, clown, contortion, distract, escape, geek, juggling, midget, misfit, misshapen, one of us, pick pocket, prance, stunt, trained monkey, trick, tumbling, whip",
+          "description": "Animal Trainer, Balance, Bizarre, Clown, Contortion, Distract, Escape, Geek, Juggling, Midget, Misfit, Misshapen, One of Us, Pick Pocket, Prance, Stunt, Trained Monkey, Trick, Tumbling, Whip",
+          "name": "Carnie",
+          "id": "t80",
+          "type": "trait"
+     },
+     {
+          "full": "cavalier: affluence, brave, breastplate, charge, equestrian, etiquette, fealty, fencing, haughty, longsword, heraldry, loyal, manners, pistol, polished, rank, shooting, tactics, warhorse",
+          "description": "Affluence, Brave, Breastplate, Charge, Equestrian, Etiquette, Fealty, Fencing, Haughty, Longsword, Heraldry, Loyal, Manners, Pistol, Polished, Rank, Shooting, Tactics, Warhorse",
+          "name": "Cavalier",
+          "id": "t83",
+          "type": "trait"
+     },
+     {
+          "full": "changeling: amorphous, blending, convincing, dead man's face, diversion, feign ability, grow, imitate, indistinguishable, quick change, repeat, replace, shrink, steal form, steal memories",
+          "description": "Amorphous, Blending, Convincing, Dead Man's Face, Diversion, Feign Ability, Grow, Imitate, Indistinguishable, Quick Change, Repeat, Replace, Shrink, Steal Form, Steal Memories",
+          "name": "Changeling",
+          "id": "t86",
+          "type": "trait"
+     },
+     {
+          "full": "charlatan: alibi, attention, blackmail, bribery, charisma, counterfeit banknotes, cunning plan, deception, disguise, forged documents, excuses, forgery, misdirection, smooth talker",
+          "description": "Alibi, Attention, Blackmail, Bribery, Charisma, Counterfeit Banknotes, Cunning Plan, Deception, Disguise, Forged Documents, Excuses, Forgery, Misdirection, Smooth Talker",
+          "name": "Charlatan",
+          "id": "t88",
+          "type": "trait"
+     },
+     {
+          "full": "charm: charisma, presence, command, nobles, servants, soldiers, fast talk, deception, misdirection, seduce, enchant, sweet talk, impress, handshake, ladykiller, youthfulness, empathy, compassion, attractive",
+          "description": "Charisma, Presence, Command, Nobles, Servants, Soldiers, Fast Talk, Deception, Misdirection, Seduce, Enchant, Sweet Talk, Impress, Handshake, Ladykiller, Youthfulness, Empathy, Compassion, Attractive",
+          "name": "Charm",
+          "id": "t91",
+          "type": "trait"
+     },
+     {
+          "full": "city slicker: law and order, streetwise, sneak, haggle, petty crime, quiet, distractions, connections",
+          "description": "Law and Order, Streetwise, Sneak, Haggle, Petty Crime, Quiet, Distractions, Connections",
+          "name": "City Slicker",
+          "id": "t93",
+          "type": "trait"
+     },
+     {
+          "full": "clever: keen, planning, tactics, negotiations, tricks, notice flaws, observant",
+          "description": "Keen, Planning, Tactics, Negotiations, Tricks, Notice Flaws, Observant",
+          "name": "Clever",
+          "id": "t95",
+          "type": "trait"
+     },
+     {
+          "full": "clock-man: made of gears, oil, strength, reflexes, infravision, hidden gun, armored skin, inhuman, labor, follow orders, rebel, interface, encryption, technology",
+          "description": "Made of Gears, Oil, Strength, Reflexes, Infravision, Hidden Gun, Armored Skin, Inhuman, Labor, Follow Orders, Rebel, Interface, Encryption, Technology",
+          "name": "Clock-Man",
+          "id": "t97",
+          "type": "trait"
+     },
+     {
+          "full": "colonial: accent, combative, determined, forefathers, gruff, hardy, impatient, improvise, independent, land deed, scrounge, solidarity",
+          "description": "Accent, Combative, Determined, Forefathers, Gruff, Hardy, Impatient, Improvise, Independent, Land Deed, Scrounge, Solidarity",
+          "name": "Colonial",
+          "id": "t100",
+          "type": "trait"
+     },
+     {
+          "full": "colonist: hearty, resolved, patient, charitable, firearms, tough as leather",
+          "description": "Hearty, Resolved, Patient, Charitable, Firearms, Tough as Leather",
+          "name": "Colonist",
+          "id": "t102",
+          "type": "trait"
+     },
+     {
+          "full": "companion: charm, trickery, seduction, manners, misdirection, connections, command, gather information, arouse, eavesdrop, facade, infection, innuendo, intimate details, pander, pocket money, scandalous, Weave Tales",
+          "description": "Charm, Trickery, Seduction, Manners, Misdirection, Connections, Command, Gather Information, Arouse, Eavesdrop, Facade, Infection, Innuendo, Intimate Details, Pander, Pocket Money, Scandalous, Weave Tales",
+          "name": "Companion",
+          "id": "t105",
+          "type": "trait"
+     },
+     {
+          "full": "company man: resolute, gallows humor, medium clearance, politics, communications, scanner, bullshit artist, tough, access routes, loyal, proper, make it work, high-level clearance",
+          "description": "Resolute, Gallows Humor, Medium Clearance, Politics, Communications, Scanner, Bullshit Artist, Tough, Access Routes, Loyal, Proper, Make it Work, High-Level Clearance",
+          "name": "Company Man",
+          "id": "t109",
+          "type": "trait"
+     },
+     {
+          "full": "compassion: empathy, understanding, soothing, calming words",
+          "description": "Empathy, Understanding, Soothing, Calming words",
+          "name": "Compassion",
+          "id": "t111",
+          "type": "trait"
+     },
+     {
+          "full": "con artist: guile, deception, convincing, blather, double talk",
+          "description": "Guile, Deception, Convincing, Blather, Double Talk",
+          "name": "Con Artist",
+          "id": "t113",
+          "type": "trait"
+     },
+     {
+          "full": "conservative: argue, denial, grouchy, headstrong, intolerant, life savings, rally, religious, serious, suspicious, tradition",
+          "description": "Argue, Denial, Grouchy, Headstrong, Intolerant, Life Savings, Rally, Religious, Serious, Suspicious, Tradition",
+          "name": "Conservative",
+          "id": "t116",
+          "type": "trait"
+     },
+     {
+          "full": "constable: apprehend, brawl, careful, disarm, gruff, hardy, informants, interrogate, law, manacles, nightstick, pride, protect, revolver, solidarity, warrant, watchful, what's all this then?",
+          "description": "Apprehend, Brawl, Careful, Disarm, Gruff, Hardy, Informants, Interrogate, Law, Manacles, Nightstick, Pride, Protect, Revolver, Solidarity, Warrant, Watchful, What's All This Then?",
+          "name": "Constable",
+          "id": "t119",
+          "type": "trait"
+     },
+     {
+          "full": "construct: angry, boost, crush, hardened, immense, innocence, iron grip, leap, lonely, misunderstood, power source, rage, smash, stone skin, strong, unnatural",
+          "description": "Angry, Boost, Crush, Hardened, Immense, Innocence, Iron Grip, Leap, Lonely, Misunderstood, Power Source, Rage, Smash, Stone Skin, Strong, Unnatural",
+          "name": "Construct",
+          "id": "t123",
+          "type": "trait"
+     },
+     {
+          "full": "convict: bitter, cold stare, desperate, fight dirty, finish you but good!, fugitive, hardened, hatred, improvise, iron stomach, old cellmates, out for blood, reformed, scarred, tough",
+          "description": "Bitter, Cold Stare, Desperate, Fight Dirty, Finish You But Good!, Fugitive, Hardened, Hatred, Improvise, Iron Stomach, Old Cellmates, Out For Blood, Reformed, Scarred, Tough",
+          "name": "Convict",
+          "id": "t126",
+          "type": "trait"
+     },
+     {
+          "full": "corporate operative: backbone, cold-hearted, cutting stare, negotiator, sportsman's physique, wireless, loyal, deception, blend in",
+          "description": "Backbone, Cold-Hearted, Cutting Stare, Negotiator, Sportsman's Physique, Wireless, Loyal, Deception, Blend In",
+          "name": "Corporate Operative",
+          "id": "t129",
+          "type": "trait"
+     },
+     {
+          "full": "corrupt: betray, cunning, fraud, greedy, illicit, impatient, infamous, powerhungry, schemes, secrets, two-faced",
+          "description": "Betray, Cunning, Fraud, Greedy, Illicit, Impatient, Infamous, PowerHungry, Schemes, Secrets, Two-Faced",
+          "name": "Corrupt",
+          "id": "t131",
+          "type": "trait"
+     },
+     {
+          "full": "cosmopolitan: aloof, connections, culture, education, etiquette, gossip, openminded, spunky, style, tolerant, well-off",
+          "description": "Aloof, Connections, Culture, Education, Etiquette, Gossip, OpenMinded, Spunky, Style, Tolerant, Well-Off",
+          "name": "Cosmopolitan",
+          "id": "t133",
+          "type": "trait"
+     },
+     {
+          "full": "country girl: daring, clever, proud, intimidating, tough, run, lucky, impulsive, rifle, loud, ruthless, hero, bow",
+          "description": "Daring, Clever, Proud, Intimidating, Tough, Run, Lucky, Impulsive, Rifle, Loud, Ruthless, Hero, Bow",
+          "name": "Country Girl",
+          "id": "t136",
+          "type": "trait"
+     },
+     {
+          "full": "courtier: affluent, charisma, concealed dagger, deception, etiquette, exquisite derringer, favors, flattery, friends in high places, pillow talk, privilege, resentment, secrets, seduction, toadying, yes-man",
+          "description": "Affluent, Charisma, Concealed Dagger, Deception, Etiquette, Exquisite Derringer, Favors, Flattery, Friends in High Places, Pillow Talk, Privilege, Resentment, Secrets, Seduction, Toadying, Yes-Man",
+          "name": "Courtier",
+          "id": "t139",
+          "type": "trait"
+     },
+     {
+          "full": "cowardly: awareness, beg for mercy, bluff, cry for help, duck and cover, escape, excuses, hide, sprint, wary",
+          "description": "Awareness, Beg for Mercy, Bluff, Cry for Help, Duck and Cover, Escape, Excuses, Hide, Sprint, Wary",
+          "name": "Cowardly",
+          "id": "t142",
+          "type": "trait"
+     },
+     {
+          "full": "craftsman: armors, carpentry, detail, dirty, gruff, hammer, inspect, large hands, masonry, metals, pride, quality, repair, smelting, smithing, solidarity, strong, tradition, weapons",
+          "description": "Armors, Carpentry, Detail, Dirty, Gruff, Hammer, Inspect, Large Hands, Masonry, Metals, Pride, Quality, Repair, Smelting, Smithing, Solidarity, Strong, Tradition, Weapons",
+          "name": "Craftsman",
+          "id": "t146",
+          "type": "trait"
+     },
+     {
+          "full": "creepy: intimidate, terrifying, reputation, morbid, pale",
+          "description": "Intimidate, Terrifying, Reputation, Morbid, Pale",
+          "name": "Creepy",
+          "id": "t148",
+          "type": "trait"
+     },
+     {
+          "full": "crew: gunnery, aim, maintenance, damage control, observation, signals, the owl, cargo, supplies, first aid, boarding action",
+          "description": "Gunnery, Aim, Maintenance, Damage Control, Observation, Signals, The Owl, Cargo, Supplies, First Aid, Boarding Action",
+          "name": "Crew",
+          "id": "t151",
+          "type": "trait"
+     },
+     {
+          "full": "cruel: bitter, exploit, insult, offensive, ruthless, sadistic, salt in the wound, tough, turn the screws, unfeeling",
+          "description": "Bitter, Exploit, Insult, Offensive, Ruthless, Sadistic, Salt in the Wound, Tough, Turn the Screws, Unfeeling",
+          "name": "Cruel",
+          "id": "t154",
+          "type": "trait"
+     },
+     {
+          "full": "crusading: charge in, courage, headstrong, intimidate, intolerant, lofty goal, loyal, no mercy, overpower, rally",
+          "description": "Charge In, Courage, Headstrong, Intimidate, Intolerant, Lofty Goal, Loyal, No Mercy, Overpower, Rally",
+          "name": "Crusading",
+          "id": "t157",
+          "type": "trait"
+     },
+     {
+          "full": "cultist: blood pact, ceremonial dagger, chants, conspiracy, fearless, for the dark one!, gibbering, influence, occult lore, rituals, ruthless, sinister, stamina, strange artifact, unhinged",
+          "description": "Blood Pact, Ceremonial Dagger, Chants, Conspiracy, Fearless, For the Dark One!, Gibbering, Influence, Occult Lore, Rituals, Ruthless, Sinister, Stamina, Strange Artifact, Unhinged",
+          "name": "Cultist",
+          "id": "t160",
+          "type": "trait"
+     },
+     {
+          "full": "cunning: deception, misdirection, disguise, codes, sneak, hide, lies, trap, eavesdrop, honest face, can't fool a fool, seduction, bluff, trickery, haggle, sense motives, silver tongue",
+          "description": "Deception, Misdirection, Disguise, Codes, Sneak, Hide, Lies, Trap, Eavesdrop, Honest Face, Can't fool a fool, Seduction, Bluff, Trickery, Haggle, Sense Motives, Silver Tongue",
+          "name": "Cunning",
+          "id": "t164",
+          "type": "trait"
+     },
+     {
+          "full": "cutpurse: artful dodger, conceal, cunning, distract, duck for cover, hide, inconspicuous, keep your wits about you, pick pockets, pocket knife, quick, quiet, size them up, teamwork, trip",
+          "description": "Artful Dodger, Conceal, Cunning, Distract, Duck for Cover, Hide, Inconspicuous, Keep Your Wits About You, Pick Pockets, Pocket Knife, Quick, Quiet, Size Them Up, Teamwork, Trip",
+          "name": "Cutpurse",
+          "id": "t167",
+          "type": "trait"
+     },
+     {
+          "full": "cyborg: strength, reflexes, infravision, hidden gun, laser eye, backup organs, armored skin, inhuman, interface, encryption, technology",
+          "description": "Strength, Reflexes, Infravision, Hidden Gun, Laser Eye, Backup Organs, Armored Skin, Inhuman, Interface, Encryption, Technology",
+          "name": "Cyborg",
+          "id": "t169",
+          "type": "trait"
+     },
+     {
+          "full": "cynical: criticize, distaste, honest, ignore, irritable, notice flaws, observe, prepare for the worst, sarcasm",
+          "description": "Criticize, Distaste, Honest, Ignore, Irritable, Notice Flaws, Observe, Prepare for the Worst, Sarcasm",
+          "name": "Cynical",
+          "id": "t172",
+          "type": "trait"
+     },
+     {
+          "full": "daredevil: adrenalin, against all odds, athletic, brave, daring, face death, fearless, leap in, quick, reckless, strong, tough",
+          "description": "Adrenalin, Against All Odds, Athletic, Brave, Daring, Face Death, Fearless, Leap In, Quick, Reckless, Strong, Tough",
+          "name": "Daredevil",
+          "id": "t174",
+          "type": "trait"
+     },
+     {
+          "full": "dealer: antiquities, banknotes, black market, bookie, conceal, contraband, cover up, counterfeit, deception, forgery, haggle, hide, jewelry, lending, narcotics, sneaky, trafficking",
+          "description": "Antiquities, Banknotes, Black Market, Bookie, Conceal, Contraband, Cover Up, Counterfeit, Deception, Forgery, Haggle, Hide, Jewelry, Lending, Narcotics, Sneaky, Trafficking",
+          "name": "Dealer",
+          "id": "t178",
+          "type": "trait"
+     },
+     {
+          "full": "debauchee: iron stomach, fraternizer, witty, persuasive, fast friends, unfazed",
+          "description": "Iron Stomach, Fraternizer, Witty, Persuasive, Fast Friends, Unfazed",
+          "name": "Debauchee",
+          "id": "t180",
+          "type": "trait"
+     },
+     {
+          "full": "deceitful: backtalk, conman, convoluted, disguise, dishonest, hiding, lies, misdirection, opportunity, promises, scoundrel",
+          "description": "Backtalk, Conman, Convoluted, Disguise, Dishonest, Hiding, Lies, Misdirection, Opportunity, Promises, Scoundrel",
+          "name": "Deceitful",
+          "id": "t182",
+          "type": "trait"
+     },
+     {
+          "full": "dedicated: clear thinker, confidence, fast, friendly, hit the ground running, iron will, keen, reliable, resolve, vow",
+          "description": "Clear Thinker, Confidence, Fast, Friendly, Hit the Ground Running, Iron Will, Keen, Reliable, Resolve, Vow",
+          "name": "Dedicated",
+          "id": "t185",
+          "type": "trait"
+     },
+     {
+          "full": "defeatist: calm, exhausted, patient, persevere, pessimist, reserved, resigned, tough, vengeful, yielding",
+          "description": "Calm, Exhausted, Patient, Persevere, Pessimist, Reserved, Resigned, Tough, Vengeful, Yielding",
+          "name": "Defeatist",
+          "id": "t188",
+          "type": "trait"
+     },
+     {
+          "full": "deputy sheriff: the law, badge, watchful, handcuffs, pistol, taser, disarm, arrest, protect, careful, negotiate, command, undercover",
+          "description": "The Law, Badge, Watchful, Handcuffs, Pistol, Taser, Disarm, Arrest, Protect, Careful, Negotiate, Command, Undercover",
+          "name": "Deputy Sheriff",
+          "id": "t191",
+          "type": "trait"
+     },
+     {
+          "full": "detective: case files, deduction, determined, elementary!, fisticuffs, game is afoot!, informants, insight, investigate, law, magnifying glass, perceptive, pistol, questioning, research, search, warrant",
+          "description": "Case Files, Deduction, Determined, Elementary!, Fisticuffs, Game is Afoot!, Informants, Insight, Investigate, Law, Magnifying Glass, Perceptive, Pistol, Questioning, Research, Search, Warrant",
+          "name": "Detective",
+          "id": "t194",
+          "type": "trait"
+     },
+     {
+          "full": "deviant: betray, bloody, cold-blooded, dark, dishonest, icy stare, infamous, obsessed, perverted, psychopath, scandalous",
+          "description": "Betray, Bloody, Cold-Blooded, Dark, Dishonest, Icy Stare, Infamous, Obsessed, Perverted, Psychopath, Scandalous",
+          "name": "Deviant",
+          "id": "t197",
+          "type": "trait"
+     },
+     {
+          "full": "dilettante: attitude, borrow, carouse, connected, cultured, elitist, entitlement, excuses, fashion, favors, haughty, loans, privilege, repartee, seduction, wealth, winning smile",
+          "description": "Attitude, Borrow, Carouse, Connected, Cultured, Elitist, Entitlement, Excuses, Fashion, Favors, Haughty, Loans, Privilege, Repartee, Seduction, Wealth, Winning Smile",
+          "name": "Dilettante",
+          "id": "t200",
+          "type": "trait"
+     },
+     {
+          "full": "diviner: astral sight, astrological charts, comprehension, crystalmancy, destinies, doomsayer, dowsing, dreaming, extend senses, harbinger, omens, past lives, postcognition, precognition, prophesy, scrying",
+          "description": "Astral Sight, Astrological Charts, Comprehension, Crystalmancy, Destinies, Doomsayer, Dowsing, Dreaming, Extend Senses, Harbinger, Omens, Past Lives, Postcognition, Precognition, Prophesy, Scrying",
+          "name": "Diviner",
+          "id": "t203",
+          "type": "trait"
+     },
+     {
+          "full": "doctor: medicine, organs, tools, bedside manner, sewing, stop bleeding, 'dammit, i'm a doctor not a ...'",
+          "description": "Medicine, Organs, Tools, Bedside Manner, Sewing, Stop Bleeding, 'Dammit, I'm a doctor not a ...'",
+          "name": "Doctor",
+          "id": "t206",
+          "type": "trait"
+     },
+     {
+          "full": "dreamblood: sedate, manipulate dream, enter dream, hallucination, blind fighting, read mind",
+          "description": "Sedate, Manipulate Dream, Enter Dream, Hallucination, Blind Fighting, Read Mind",
+          "name": "Dreamblood",
+          "id": "t208",
+          "type": "trait"
+     },
+     {
+          "full": "drunk: drinking, liquor, brawling, drawling, insults, fighting, homebrew, bottles, tolerance, fortitude, alien liquor",
+          "description": "Drinking, Liquor, Brawling, Drawling, Insults, Fighting, Homebrew, Bottles, Tolerance, Fortitude, Alien Liquor",
+          "name": "Drunk",
+          "id": "t211",
+          "type": "trait"
+     },
+     {
+          "full": "dustblood: spellcaster, second-rate sorcerer, breeze, dirt, whispers, cover, impression, patient, small effect",
+          "description": "Spellcaster, Second-Rate Sorcerer, Breeze, Dirt, Whispers, Cover, Impression, Patient, Small Effect",
+          "name": "Dustblood",
+          "id": "t213",
+          "type": "trait"
+     },
+     {
+          "full": "elderly: anecdotes, can't feel a thing, demanding, grouchy, hard of hearing, i knew yer pa!, knobby cane, pushy, respect, senile, tall tales, thick spectacles, wise",
+          "description": "Anecdotes, Can't Feel a Thing, Demanding, Grouchy, Hard of Hearing, I Knew Yer Pa!, Knobby Cane, Pushy, Respect, Senile, Tall Tales, Thick Spectacles, Wise",
+          "name": "Elderly",
+          "id": "t217",
+          "type": "trait"
+     },
+     {
+          "full": "engineer: mechanic, repair, sabotage, invention, trains, rails, ships, engines, architecture, black powder, clockwork, devices, dynamite, eureka!, improvise, modification, salvage, spare parts, talented, tool kit, Wrench",
+          "description": "Mechanic, Repair, Sabotage, Invention, Trains, Rails, Ships, Engines, Architecture, Black Powder, Clockwork, Devices, Dynamite, Eureka!, Improvise, Modification, Salvage, Spare Parts, Talented, Tool Kit, Wrench",
+          "name": "Engineer",
+          "id": "t221",
+          "type": "trait"
+     },
+     {
+          "full": "entertainer: acrobatics, antics, contortion, distraction, escape, hidden knives, humor, juggling, keen aim, keep 'em occupied, mask, sleight of hand, theatrics, throwing knives, trickery, tumbling",
+          "description": "Acrobatics, Antics, Contortion, Distraction, Escape, Hidden Knives, Humor, Juggling, Keen Aim, Keep 'Em Occupied, Mask, Sleight of Hand, Theatrics, Throwing Knives, Trickery, Tumbling",
+          "name": "Entertainer",
+          "id": "t226",
+          "type": "trait"
+     },
+     {
+          "full": "escort: alert, blood bond, calm, conceal, defend, derringer, disguise, etiquette, fencing, loyal, rapier, reaction, search, serious, stipend, suspicion, tend wounds, to the death, watchful",
+          "description": "Alert, Blood Bond, Calm, Conceal, Defend, Derringer, Disguise, Etiquette, Fencing, Loyal, Rapier, Reaction, Search, Serious, Stipend, Suspicion, Tend Wounds, To the Death, Watchful",
+          "name": "Escort",
+          "id": "t228",
+          "type": "trait"
+     },
+     {
+          "full": "ex-imperial soldier: tactics, command, soldiers, rank, connections, maps, imperial war ships, uniform, code of conduct",
+          "description": "Tactics, Command, Soldiers, Rank, Connections, Maps, Imperial War Ships, Uniform, Code of Conduct",
+          "name": "Ex-Imperial Soldier",
+          "id": "t231",
+          "type": "trait"
+     },
+     {
+          "full": "ex-skyballer: olympian skyball, athletic, brawn, game plan, endurance, tough, wrestling, awareness, strategy",
+          "description": "Olympian Skyball, Athletic, Brawn, Game Plan, Endurance, Tough, Wrestling, Awareness, Strategy",
+          "name": "Ex-Skyballer",
+          "id": "t234",
+          "type": "trait"
+     },
+     {
+          "full": "ex-slave: sneak, hide, run, tough, endure, scrounge, nobles, hatred, iron will",
+          "description": "Sneak, Hide, Run, Tough, Endure, Scrounge, Nobles, Hatred, Iron Will",
+          "name": "Ex-Slave",
+          "id": "t236",
+          "type": "trait"
+     },
+     {
+          "full": "ex-soldier: swords, axes, rifles, tactics, command, rank, connections, uniform",
+          "description": "Swords, Axes, Rifles, Tactics, Command, Rank, Connections, Uniform",
+          "name": "Ex-Soldier",
+          "id": "t238",
+          "type": "trait"
+     },
+     {
+          "full": "ex-troublemaker: run, grab, b&e, dirty fighting, gunplay, dodge",
+          "description": "Run, Grab, B&E, Dirty Fighting, Gunplay, Dodge",
+          "name": "Ex-Troublemaker",
+          "id": "t240",
+          "type": "trait"
+     },
+     {
+          "full": "executive officer: that smile, that haircut, designer suit, wealth, high-level clearance, connections, combat simulator experience",
+          "description": "That Smile, That Haircut, Designer Suit, Wealth, High-Level Clearance, Connections, Combat Simulator Experience",
+          "name": "Executive Officer",
+          "id": "t242",
+          "type": "trait"
+     },
+     {
+          "full": "explorer: curious, aware, nimble, hardy, ancient lore, languages, ruins, monsters, myths, maps, appraise, decipher, excavate, funds, history, traps, treasures, whatever you can find",
+          "description": "Curious, Aware, Nimble, Hardy, Ancient Lore, Languages, Ruins, Monsters, Myths, Maps, Appraise, Decipher, Excavate, Funds, History, Traps, Treasures, Whatever you can find",
+          "name": "Explorer",
+          "id": "t245",
+          "type": "trait"
+     },
+     {
+          "full": "faith: calm, collected, pious, unyielding, assurances, truth",
+          "description": "Calm, Collected, Pious, Unyielding, Assurances, Truth",
+          "name": "Faith",
+          "id": "t247",
+          "type": "trait"
+     },
+     {
+          "full": "faithful: determined, honest, ignorant, iron will, loyal, patient, religious, spirited, stubborn, unyielding, uplifting",
+          "description": "Determined, Honest, Ignorant, Iron Will, Loyal, Patient, Religious, Spirited, Stubborn, Unyielding, Uplifting",
+          "name": "Faithful",
+          "id": "t250",
+          "type": "trait"
+     },
+     {
+          "full": "fallen aristocrat: educated, etiquette, music, dance, languages",
+          "description": "Educated, Etiquette, Music, Dance, Languages",
+          "name": "Fallen Aristocrat",
+          "id": "t252",
+          "type": "trait"
+     },
+     {
+          "full": "fanatic: angry, bomb, branded, combative, convert, fervent, flagellant, intolerant, molotov cocktail, religious, scarred, wild hair",
+          "description": "Angry, Bomb, Branded, Combative, Convert, Fervent, Flagellant, Intolerant, Molotov Cocktail, Religious, Scarred, Wild Hair",
+          "name": "Fanatic",
+          "id": "t254",
+          "type": "trait"
+     },
+     {
+          "full": "farmer: my land, my family, scrounge, endure, repair, lay of the land, hidey hole, barter, moonshine, trader",
+          "description": "My Land, My Family, Scrounge, Endure, Repair, Lay of the Land, Hidey Hole, Barter, Moonshine, Trader",
+          "name": "Farmer",
+          "id": "t257",
+          "type": "trait"
+     },
+     {
+          "full": "fingersmith: quiet, sneak, hide, dexterous, locks, traps, darkness, thievery",
+          "description": "Quiet, Sneak, Hide, Dexterous, Locks, Traps, Darkness, Thievery",
+          "name": "Fingersmith",
+          "id": "t259",
+          "type": "trait"
+     },
+     {
+          "full": "flamboyant: attention, colorful, exuberant, fine clothes, flashy, high spirits, high tension, interrupt, outgoing, prance, style",
+          "description": "Attention, Colorful, Exuberant, Fine Clothes, Flashy, High Spirits, High Tension, Interrupt, Outgoing, Prance, Style",
+          "name": "Flamboyant",
+          "id": "t262",
+          "type": "trait"
+     },
+     {
+          "full": "flameblood: spellcaster, channeling, master sorcerer, fire, blast, shield, heat, smoke, terrify, quench",
+          "description": "Spellcaster, Channeling, Master Sorcerer, Fire, Blast, Shield, Heat, Smoke, Terrify, Quench",
+          "name": "Flameblood",
+          "id": "t265",
+          "type": "trait"
+     },
+     {
+          "full": "foolish: annoy, barge in, cajole, curious, determined, ignore them, ill mannered, insult, jump to conclusions, stubborn, whine",
+          "description": "Annoy, Barge In, Cajole, Curious, Determined, Ignore Them, Ill Mannered, Insult, Jump to Conclusions, Stubborn, Whine",
+          "name": "Foolish",
+          "id": "t267",
+          "type": "trait"
+     },
+     {
+          "full": "foreign: allure, exotic, fresh perspective, incomprehensible, pidgin, strange mannerisms, surprising, unique habits, unknown, unreadable",
+          "description": "Allure, Exotic, Fresh Perspective, Incomprehensible, Pidgin, Strange Mannerisms, Surprising, Unique Habits, Unknown, Unreadable",
+          "name": "Foreign",
+          "id": "t270",
+          "type": "trait"
+     },
+     {
+          "full": "foreman: architecture, argue, bribes, carpentry, direction, double check, handy, intercede, management, negotiate, read plans, temper, tough, well-off former beauty queen aged beauty, charming, presence, dancing, swimming, beautiful Dress",
+          "description": "Architecture, Argue, Bribes, Carpentry, Direction, Double Check, Handy, Intercede, Management, Negotiate, Read Plans, Temper, Tough, Well-Off Former Beauty Queen Aged Beauty, Charming, Presence, Dancing, Swimming, Beautiful Dress",
+          "name": "Foreman",
+          "id": "t276",
+          "type": "trait"
+     },
+     {
+          "full": "former outlaw: knives, hidden weapons, thrown weapons, brawling, gouging, Avoiding Fire",
+          "description": "Knives, Hidden Weapons, Thrown Weapons, Brawling, Gouging, Avoiding Fire",
+          "name": "Former Outlaw",
+          "id": "t279",
+          "type": "trait"
+     },
+     {
+          "full": "free person: haven knowledge, pride, connections, law, trade, liberty, commerce",
+          "description": "Haven Knowledge, Pride, Connections, Law, Trade, Liberty, Commerce",
+          "name": "Free Person",
+          "id": "t282",
+          "type": "trait"
+     },
+     {
+          "full": "frontiersman: curious, aware, nimble, hardy, lore, birds and beasts, shooting, hunting, family, tracking, trapping, lay of the land, allies, brawling, camping, gold shares, gritty, hunting rifle, interpret, no nonsense, orienteering, riding, rugged pistol, scouting",
+          "description": "Curious, Aware, Nimble, Hardy, Lore, Birds and Beasts, Shooting, Hunting, Family, Tracking, Trapping, Lay of the Land, Allies, Brawling, Camping, Gold Shares, Gritty, Hunting Rifle, Interpret, No Nonsense, Orienteering, Riding, Rugged Pistol, Scouting",
+          "name": "Frontiersman",
+          "id": "t285",
+          "type": "trait"
+     },
+     {
+          "full": "gambler: cards, dice, sharp eye, hidden weapons, betting, bookie, distract, fast-talk, infamous, know the odds, loaded dice, lucky streak, marked cards, now you see it, palming, place the blame, poker face, shell game, up the sleeve",
+          "description": "Cards, Dice, Sharp Eye, Hidden Weapons, Betting, Bookie, Distract, Fast-Talk, Infamous, Know the Odds, Loaded Dice, Lucky Streak, Marked Cards, Now You See It, Palming, Place the Blame, Poker Face, Shell Game, Up the Sleeve",
+          "name": "Gambler",
+          "id": "t290",
+          "type": "trait"
+     },
+     {
+          "full": "gentleman: etiquette, persuasion, dueling, drinking, friendly wager, fisticuffs, noblesse oblige, towering rage, gravitas, seduction, education",
+          "description": "Etiquette, Persuasion, Dueling, Drinking, Friendly Wager, Fisticuffs, Noblesse Oblige, Towering Rage, Gravitas, Seduction, Education",
+          "name": "Gentleman",
+          "id": "t293",
+          "type": "trait"
+     },
+     {
+          "full": "ghostblood: fly, possess, insubstantial, control technology, electrical, dominate, terrify, sneak, overload",
+          "description": "Fly, Possess, Insubstantial, Control Technology, Electrical, Dominate, Terrify, Sneak, Overload",
+          "name": "Ghostblood",
+          "id": "t296",
+          "type": "trait"
+     },
+     {
+          "full": "goblin: warp shape, glide, nightvision, agile, quick, tumbler, teeth & claws, mimic shape, reckless, connections, spines, gills, mimic shape",
+          "description": "Warp shape, Glide, Nightvision, Agile, Quick, Tumbler, Teeth & Claws, Mimic Shape, Reckless, Connections, Spines, Gills, Mimic Shape",
+          "name": "Goblin",
+          "id": "t299",
+          "type": "trait"
+     },
+     {
+          "full": "goddamn crazy: cats, shotgun, more cats, paranoia, shooting, raving, reckless, unsteady, roadkill pie, shoot anything that moves, stir crazy",
+          "description": "Cats, Shotgun, More Cats, Paranoia, Shooting, Raving, Reckless, Unsteady, Roadkill Pie, Shoot Anything That Moves, Stir Crazy",
+          "name": "Goddamn Crazy",
+          "id": "t301",
+          "type": "trait"
+     },
+     {
+          "full": "good times: charisma, reassurance, diplomacy, presence, partying, drinking, persuasion, bargaining, locals",
+          "description": "Charisma, Reassurance, Diplomacy, Presence, Partying, Drinking, Persuasion, Bargaining, Locals",
+          "name": "Good Times",
+          "id": "t304",
+          "type": "trait"
+     },
+     {
+          "full": "guard: awareness, cudgel, defend, disarm, in the line of duty, leather coat, nobody's fool, notice, pistol, polearm, restrain, serious, take the hit, threaten, unflinching",
+          "description": "Awareness, Cudgel, Defend, Disarm, In the Line of Duty, Leather Coat, Nobody's Fool, Notice, Pistol, Polearm, Restrain, Serious, Take the Hit, Threaten, Unflinching",
+          "name": "Guard",
+          "id": "t308",
+          "type": "trait"
+     },
+     {
+          "full": "gunfighter: pistols, quick draw, gun in each hand, cover, show off",
+          "description": "Pistols, Quick Draw, Gun In Each Hand, Cover, Show Off",
+          "name": "Gunfighter",
+          "id": "t310",
+          "type": "trait"
+     },
+     {
+          "full": "gypsy: allies, by the stars, cackle, clan, dark tales, eerie stare, evil eye, legends, lore, myths, palmistry, pick pockets, riddles, secrets, tarot cards, the old ways, tricks, unsettling",
+          "description": "Allies, By the Stars, Cackle, Clan, Dark Tales, Eerie Stare, Evil Eye, Legends, Lore, Myths, Palmistry, Pick Pockets, Riddles, Secrets, Tarot Cards, The Old Ways, Tricks, Unsettling",
+          "name": "Gypsy",
+          "id": "t314",
+          "type": "trait"
+     },
+     {
+          "full": "handy: insightful, aware, practical, assess, repair, drive, vehicles, jury-rig, patch up, danger, explosives",
+          "description": "Insightful, Aware, Practical, Assess, Repair, Drive, Vehicles, Jury-Rig, Patch up, Danger, Explosives",
+          "name": "Handy",
+          "id": "t317",
+          "type": "trait"
+     },
+     {
+          "full": "hero: bold, daring, rescue, fire, reckless, brave, outnumbered, underdog, hometown, freedom, liberty",
+          "description": "Bold, Daring, Rescue, Fire, Reckless, Brave, Outnumbered, Underdog, Hometown, Freedom, Liberty",
+          "name": "Hero",
+          "id": "t320",
+          "type": "trait"
+     },
+     {
+          "full": "hidden knowledge: history, weaknesses, mysteries, arcane, folklore, religion, stone judges, the other side",
+          "description": "History, Weaknesses, Mysteries, Arcane, Folklore, Religion, Stone Judges, The Other Side",
+          "name": "Hidden Knowledge",
+          "id": "t323",
+          "type": "trait"
+     },
+     {
+          "full": "hoodlum: bash, blackjack, bottle of spirits, brawling, break, crass, criminal, cruel, destroy, dirty tricks, kick it in, menace, miscreant, mugging, pushy, revolver, strong, tough, ugly, violent",
+          "description": "Bash, Blackjack, Bottle of Spirits, Brawling, Break, Crass, Criminal, Cruel, Destroy, Dirty Tricks, Kick It In, Menace, Miscreant, Mugging, Pushy, Revolver, Strong, Tough, Ugly, Violent",
+          "name": "Hoodlum",
+          "id": "t327",
+          "type": "trait"
+     },
+     {
+          "full": "hunter: curious, aware, nimble, hardy, backworlds, trapping, birds & beasts, rifle, sneak, camouflage, wilderness survival, track, beasts, traps",
+          "description": "Curious, Aware, Nimble, Hardy, Backworlds, Trapping, Birds & Beasts, Rifle, Sneak, Camouflage, Wilderness Survival, Track, Beasts, Traps",
+          "name": "Hunter",
+          "id": "t330",
+          "type": "trait"
+     },
+     {
+          "full": "huntsman: animal mimicry, camouflage, dagger, endure, keen, lures, navigate, observation, predator, running, scrounge, shooting, shotgun, silent, snares, tough, tracking",
+          "description": "Animal Mimicry, Camouflage, Dagger, Endure, Keen, Lures, Navigate, Observation, Predator, Running, Scrounge, Shooting, Shotgun, Silent, Snares, Tough, Tracking",
+          "name": "Huntsman",
+          "id": "t334",
+          "type": "trait"
+     },
+     {
+          "full": "impassive: cool-headed, inconceivable!, informed, logical, surmise, think it through, unemotional, unyielding",
+          "description": "Cool-Headed, Inconceivable!, Informed, Logical, Surmise, Think It Through, Unemotional, Unyielding",
+          "name": "Impassive",
+          "id": "t337",
+          "type": "trait"
+     },
+     {
+          "full": "imperial noble: etiquette, dance, educated, history, science, wealth, connections, House Blackbird",
+          "description": "Etiquette, Dance, Educated, History, Science, Wealth, Connections, House Blackbird",
+          "name": "Imperial Noble",
+          "id": "t339",
+          "type": "trait"
+     },
+     {
+          "full": "initiate: ancient lore, awareness, brotherhood, conspiracy, history, initiation rites, influence, mysteries, rituals, secret handshake, solidarity, the Oath",
+          "description": "Ancient Lore, Awareness, Brotherhood, Conspiracy, History, Initiation Rites, Influence, Mysteries, Rituals, Secret Handshake, Solidarity, The Oath",
+          "name": "Initiate",
+          "id": "t343",
+          "type": "trait"
+     },
+     {
+          "full": "inventor: steam, gears, bulky, portable, grandiose, novel, it just might work, crackpot, patents",
+          "description": "Steam, Gears, Bulky, Portable, Grandiose, Novel, It Just Might Work, Crackpot, Patents",
+          "name": "Inventor",
+          "id": "t347",
+          "type": "trait"
+     },
+     {
+          "full": "investigator: search, deduction, perceptive, seduce, interrogate, bribe, coerce, contacts, sneak, deception, insight, logic, fisticuffs, pistol, gather information",
+          "description": "Search, Deduction, Perceptive, Seduce, Interrogate, Bribe, Coerce, Contacts, Sneak, Deception, Insight, Logic, Fisticuffs, Pistol, Gather information",
+          "name": "Investigator",
+          "id": "t350",
+          "type": "trait"
+     },
+     {
+          "full": "journalist: badger, camera, chutzpah, contacts, deception, disliked, ear for news, eavesdrop, fast-talk, gossip, headlines, inquiry, integrity, photography, scandal, stop the presses!",
+          "description": "Badger, Camera, Chutzpah, Contacts, Deception, Disliked, Ear for News, Eavesdrop, Fast-Talk, Gossip, Headlines, Inquiry, Integrity, Photography, Scandal, Stop the Presses!",
+          "name": "Journalist",
+          "id": "t354",
+          "type": "trait"
+     },
+     {
+          "full": "keen: insightful, aware, coiled, liars, traps, danger, sense motives, ready, anticipation, quick, perceptive, observant, watchful, common sense, understanding, distrustful, listen",
+          "description": "Insightful, Aware, Coiled, Liars, Traps, Danger, Sense Motives, Ready, Anticipation, Quick, Perceptive, Observant, Watchful, Common Sense, Understanding, Distrustful, Listen",
+          "name": "Keen",
+          "id": "t358",
+          "type": "trait"
+     },
+     {
+          "full": "kind: gentle, smile, sense of humor, listen, calm, negotiate, haggle, friendly, father, caring, good husband",
+          "description": "Gentle, Smile, Sense of Humor, Listen, Calm, Negotiate, Haggle, Friendly, Father, Caring, Good Husband",
+          "name": "Kind",
+          "id": "t361",
+          "type": "trait"
+     },
+     {
+          "full": "laborer: carouse, carpentry, distrust, endure, farming, fireman, follow directions, friends, gardener, handy, lumber, mining, pickaxe, plainspeaking, pummel, solidarity, strong, teamster",
+          "description": "Carouse, Carpentry, Distrust, Endure, Farming, Fireman, Follow Directions, Friends, Gardener, Handy, Lumber, Mining, Pickaxe, PlainSpeaking, Pummel, Solidarity, Strong, Teamster",
+          "name": "Laborer",
+          "id": "t363",
+          "type": "trait"
+     },
+     {
+          "full": "lady: etiquette, dance, educated, history, science, wealth, connections, self-preservation, courtesy, sense motive, throwing things very hard, Languages",
+          "description": "Etiquette, Dance, Educated, History, Science, Wealth, Connections, Self-Preservation, Courtesy, Sense Motive, Throwing things very hard, Languages",
+          "name": "Lady",
+          "id": "t366",
+          "type": "trait"
+     },
+     {
+          "full": "landlubber: airsick, ground beneath my feet, walk, outsider's perspective, community life of the party fast talk, pick-up lines, bar divination, charisma, casanova, a call in every port",
+          "description": "Airsick, Ground beneath my feet, Walk, Outsider's Perspective, Community Life of the Party Fast Talk, Pick-Up Lines, Bar Divination, Charisma, Casanova, A Call in Every Port",
+          "name": "Landlubber",
+          "id": "t372",
+          "type": "trait"
+     },
+     {
+          "full": "litigant: berate, chastise, convince, cross examine, debate, integrity, interrupt, investigate, law, legal briefs, objection!, oratory, prosperous, secrets, trusted",
+          "description": "Berate, Chastise, Convince, Cross Examine, Debate, Integrity, Interrupt, Investigate, Law, Legal Briefs, Objection!, Oratory, Prosperous, Secrets, Trusted",
+          "name": "Litigant",
+          "id": "t375",
+          "type": "trait"
+     },
+     {
+          "full": "lycanthrope: animal form, bestial hide, call animals, claws, deadly, fierce, full moon, hideous, howl, instinct, keen sense, lost humanity, nightvision, predator, ravenous, shred",
+          "description": "Animal Form, Bestial Hide, Call Animals, Claws, Deadly, Fierce, Full Moon, Hideous, Howl, Instinct, Keen Sense, Lost Humanity, Nightvision, Predator, Ravenous, Shred",
+          "name": "Lycanthrope",
+          "id": "t378",
+          "type": "trait"
+     },
+     {
+          "full": "magician: bluff, charisma, clever, distraction, endless ribbons, faster than the eye, fireworks, mirrors, prediction, sleight of hand, smoke bomb, top hat, trick cane, ventriloquist, you're getting sleepy",
+          "description": "Bluff, Charisma, Clever, Distraction, Endless Ribbons, Faster Than the Eye, Fireworks, Mirrors, Prediction, Sleight of Hand, Smoke Bomb, Top Hat, Trick Cane, Ventriloquist, You're Getting Sleepy",
+          "name": "Magician",
+          "id": "t382",
+          "type": "trait"
+     },
+     {
+          "full": "master sorcerer: spellcaster, channeling, stormblood, wind, lightning, fly, blast, sense, dustblood, hex, strain, haunt, winnow, terrify",
+          "description": "Spellcaster, Channeling, Stormblood, Wind, Lightning, Fly, Blast, Sense, Dustblood, Hex, Strain, Haunt, Winnow, Terrify",
+          "name": "Master Sorcerer",
+          "id": "t385",
+          "type": "trait"
+     },
+     {
+          "full": "mechanic: repair, engines, efficiency, spare parts, sabotage, enhancements, ship weapons, improvise tool, good with machines, perceptive, toolkit, dextrous",
+          "description": "Repair, Engines, Efficiency, Spare Parts, Sabotage, Enhancements, Ship Weapons, Improvise Tool, Good with Machines, Perceptive, Toolkit, Dextrous",
+          "name": "Mechanic",
+          "id": "t389",
+          "type": "trait"
+     },
+     {
+          "full": "meddlesome: advice, curious, gossip, inquire, listen, nonchalant, observe, peek, tinker, what does this do?",
+          "description": "Advice, Curious, Gossip, Inquire, Listen, Nonchalant, Observe, Peek, Tinker, What Does This Do?",
+          "name": "Meddlesome",
+          "id": "t392",
+          "type": "trait"
+     },
+     {
+          "full": "mercenary: battle-hardened, brawl, casual killing, shooting, pistol, long gun, tactics, broadsword, fencing, opportunistic, fast, disloyal, tough, callous, overkill, careful",
+          "description": "Battle-Hardened, Brawl, Casual Killing, Shooting, Pistol, Long Gun, Tactics, Broadsword, Fencing, Opportunistic, Fast, Disloyal, Tough, Callous, Overkill, Careful",
+          "name": "Mercenary",
+          "id": "t396",
+          "type": "trait"
+     },
+     {
+          "full": "merchant: accounting, appraise, arrange, bargain, budget, buying, conceal, connections, deals, evaluate, fast-talk, procure, profit, prosperous, selling, stocks, supply, trading",
+          "description": "Accounting, Appraise, Arrange, Bargain, Budget, Buying, Conceal, Connections, Deals, Evaluate, Fast-Talk, Procure, Profit, Prosperous, Selling, Stocks, Supply, Trading",
+          "name": "Merchant",
+          "id": "t400",
+          "type": "trait"
+     },
+     {
+          "full": "military science: gunnery, aim, maintenance, digging, observation, signals, supplies, healer, construction, damage control",
+          "description": "Gunnery, Aim, Maintenance, Digging, Observation, Signals, Supplies, Healer, Construction, Damage Control",
+          "name": "Military Science",
+          "id": "t403",
+          "type": "trait"
+     },
+     {
+          "full": "miner: tunnels, labor, strong, pickaxe, dim light, hold breath, ores, resist cold, endure, explosives, tight spots, rare metals, big damn explosions, shaped charges",
+          "description": "Tunnels, Labor, Strong, Pickaxe, Dim Light, Hold Breath, Ores, Resist Cold, Endure, Explosives, Tight Spots, Rare Metals, Big Damn Explosions, Shaped Charges",
+          "name": "Miner",
+          "id": "t406",
+          "type": "trait"
+     },
+     {
+          "full": "mischievous: bluff, distract, escape, humorous, impulsive, keen, quick, sharp, tricks, unpredictable, wide grin",
+          "description": "Bluff, Distract, Escape, Humorous, Impulsive, Keen, Quick, Sharp, Tricks, Unpredictable, Wide Grin",
+          "name": "Mischievous",
+          "id": "t409",
+          "type": "trait"
+     },
+     {
+          "full": "monstrous: abominable, bat wings, bizarre, claws, disembody, fangs, fierce, hideous, hunger, infection, mutation, regrow, scales, sting, strangle, strong, tentacles, terrible, venom, wall crawl",
+          "description": "Abominable, Bat Wings, Bizarre, Claws, Disembody, Fangs, Fierce, Hideous, Hunger, Infection, Mutation, Regrow, Scales, Sting, Strangle, Strong, Tentacles, Terrible, Venom, Wall Crawl",
+          "name": "Monstrous",
+          "id": "t412",
+          "type": "trait"
+     },
+     {
+          "full": "nobility: coat of arms, culture, education, etiquette, favors, heirloom, history, inbreeding, inheritance, lineage, majesty, paragon, presence, privilege, royalty, title, tradition, wealthy",
+          "description": "Coat of Arms, Culture, Education, Etiquette, Favors, Heirloom, History, Inbreeding, Inheritance, Lineage, Majesty, Paragon, Presence, Privilege, Royalty, Title, Tradition, Wealthy",
+          "name": "Nobility",
+          "id": "t415",
+          "type": "trait"
+     },
+     {
+          "full": "officer: soldiers, form a square, on my signal, tactics, fortifications, connections, guns, maps, loyalty, sacrifice, duty and honor",
+          "description": "Soldiers, Form a square, On my signal, Tactics, Fortifications, Connections, Guns, Maps, Loyalty, Sacrifice, Duty and Honor",
+          "name": "Officer",
+          "id": "t417",
+          "type": "trait"
+     },
+     {
+          "full": "officer: bureaucracy, chain of command, confidence, etiquette, fencing, groomed, heavy pistol, history, intel, leadership, medals, military, orders, rank, respect, saber, shooting, stand tall, tactics, wages",
+          "description": "Bureaucracy, Chain of Command, Confidence, Etiquette, Fencing, Groomed, Heavy Pistol, History, Intel, Leadership, Medals, Military, Orders, Rank, Respect, Saber, Shooting, Stand Tall, Tactics, Wages",
+          "name": "Officer",
+          "id": "t421",
+          "type": "trait"
+     },
+     {
+          "full": "old lady: strict, caring, 'medicine', cookies, knitting, baking, pumpkin pie, grand-niece, grand-nephew, frying",
+          "description": "Strict, Caring, 'Medicine', Cookies, Knitting, Baking, Pumpkin Pie, Grand-Niece, Grand-Nephew, Frying",
+          "name": "Old Lady",
+          "id": "t424",
+          "type": "trait"
+     },
+     {
+          "full": "old man: fists, tough skin, dead nerves, hard, improvised weapons",
+          "description": "Fists, Tough Skin, Dead Nerves, Hard, Improvised Weapons",
+          "name": "Old Man",
+          "id": "t426",
+          "type": "trait"
+     },
+     {
+          "full": "olympian: drinking, brawling, drawling, hunting, shotgun, pride, hometown hero, heritage, olympic charm",
+          "description": "Drinking, Brawling, Drawling, Hunting, Shotgun, Pride, Hometown Hero, Heritage, Olympic Charm",
+          "name": "Olympian",
+          "id": "t429",
+          "type": "trait"
+     },
+     {
+          "full": "olympian warrior: honor, might, combat trained, thunder sword, leadership, superiority, war drinking, loyalty, battle rage, poetry",
+          "description": "Honor, Might, Combat Trained, Thunder Sword, Leadership, Superiority, War Drinking, Loyalty, Battle Rage, Poetry",
+          "name": "Olympian Warrior",
+          "id": "t431",
+          "type": "trait"
+     },
+     {
+          "full": "optimist: calm, compliment, confidence, energetic, honest, inspire, polite, positive, tenacious, unrealistic",
+          "description": "Calm, Compliment, Confidence, Energetic, Honest, Inspire, Polite, Positive, Tenacious, Unrealistic",
+          "name": "Optimist",
+          "id": "t433",
+          "type": "trait"
+     },
+     {
+          "full": "orator: convincing, censure, command, charisma, hope, inspiration, rebuke",
+          "description": "Convincing, Censure, Command, Charisma, Hope, Inspiration, Rebuke",
+          "name": "Orator",
+          "id": "t435",
+          "type": "trait"
+     },
+     {
+          "full": "outcast: alcoholic, branded, contacts, convict, creepy stare, infamous, loner, misanthrope, outlaw, scrounge",
+          "description": "Alcoholic, Branded, Contacts, Convict, Creepy Stare, Infamous, Loner, Misanthrope, Outlaw, Scrounge",
+          "name": "Outcast",
+          "id": "t438",
+          "type": "trait"
+     },
+     {
+          "full": "parent: loving, caring, protective, over-protective, deadbeat, diapers, estranged, worrisome, strict, sleepless nights",
+          "description": "Loving, Caring, Protective, Over-Protective, Deadbeat, Diapers, Estranged, Worrisome, Strict, Sleepless Nights",
+          "name": "Parent",
+          "id": "t440",
+          "type": "trait"
+     },
+     {
+          "full": "pastor: advice, authority, calm, ceremony, comfort, community, confession, educated, flock, holy book, holy symbol, inspire, level-headed, respected, sacrament, stipend, temptation, trusted",
+          "description": "Advice, Authority, Calm, Ceremony, Comfort, Community, Confession, Educated, Flock, Holy Book, Holy Symbol, Inspire, Level-Headed, Respected, Sacrament, Stipend, Temptation, Trusted",
+          "name": "Pastor",
+          "id": "t443",
+          "type": "trait"
+     },
+     {
+          "full": "perfectionist: critical, details, effort, expertise, frustration, hard work, irritable, stress, studious, tireless",
+          "description": "Critical, Details, Effort, Expertise, Frustration, Hard Work, Irritable, Stress, Studious, Tireless",
+          "name": "Perfectionist",
+          "id": "t446",
+          "type": "trait"
+     },
+     {
+          "full": "performer: acting, charming, composition, dancing, direct, disguise, famous, influence, luxury, memorable, musician, opera, opinions, poetic, seduction, singing, sway",
+          "description": "Acting, Charming, Composition, Dancing, Direct, Disguise, Famous, Influence, Luxury, Memorable, Musician, Opera, Opinions, Poetic, Seduction, Singing, Sway",
+          "name": "Performer",
+          "id": "t449",
+          "type": "trait"
+     },
+     {
+          "full": "petty criminal: sneak, pickpocket, crowbar, hotwire, sly, running, getaway, vanishing, space crime, firearms",
+          "description": "Sneak, Pickpocket, Crowbar, Hotwire, Sly, Running, Getaway, Vanishing, Space Crime, Firearms",
+          "name": "Petty Criminal",
+          "id": "t451",
+          "type": "trait"
+     },
+     {
+          "full": "petty magic (use one spell tag at a time): light spell, dark spell, jump spell, shatter spell, channeling, spellcaster",
+          "description": "Light spell, Dark spell, Jump spell, Shatter spell, Channeling, Spellcaster",
+          "name": "Petty Magic (use one spell tag at a time)",
+          "id": "t453",
+          "type": "trait"
+     },
+     {
+          "full": "philosopher: grim determination, big picture, calm, supportive, quote philosophy, perfect clarity, abolition, argue, crackpot, educated, ethics, heretical, morality, ponder, reasoning, religion, revolutionary, spurious logic, stubborn, temperance, thoughtful",
+          "description": "Grim Determination, Big Picture, Calm, Supportive, Quote Philosophy, Perfect Clarity, Abolition, Argue, Crackpot, Educated, Ethics, Heretical, Morality, Ponder, Reasoning, Religion, Revolutionary, Spurious Logic, Stubborn, Temperance, Thoughtful",
+          "name": "Philosopher",
+          "id": "t457",
+          "type": "trait"
+     },
+     {
+          "full": "physician: anatomy, bedside manner, dentistry, diagnose, diseases, dissection, educated, examine, healing, medical bag, pharmacy, prosperous, remedies, sedatives, surgery, unnerving",
+          "description": "Anatomy, Bedside Manner, Dentistry, Diagnose, Diseases, Dissection, Educated, Examine, Healing, Medical Bag, Pharmacy, Prosperous, Remedies, Sedatives, Surgery, Unnerving",
+          "name": "Physician",
+          "id": "t461",
+          "type": "trait"
+     },
+     {
+          "full": "pilot: daring, steady, maneuvering, evasion, tricky flying, navigation, maps, atmospherics, battle, ramming, stay awake, wireless, repair, modifications, cargo, warp drive, stunts, alert, drive",
+          "description": "Daring, Steady, Maneuvering, Evasion, Tricky Flying, Navigation, Maps, Atmospherics, Battle, Ramming, Stay Awake, Wireless, Repair, Modifications, Cargo, Warp Drive, Stunts, Alert, Drive",
+          "name": "Pilot",
+          "id": "t465",
+          "type": "trait"
+     },
+     {
+          "full": "pit-fighter: combat tested, brutal, living weapon, fast, hard, strong, bonebreaking, scary look",
+          "description": "Combat Tested, Brutal, Living Weapon, Fast, Hard, Strong, Bonebreaking, Scary Look",
+          "name": "Pit-Fighter",
+          "id": "t467",
+          "type": "trait"
+     },
+     {
+          "full": "politician: above reproach, argue, authority, connected, contributions, convince, elected, exaggerate, hogwash, hyperbole, law, lobby, pillar of the community, rants, the game, trusted, wealthy",
+          "description": "Above Reproach, Argue, Authority, Connected, Contributions, Convince, Elected, Exaggerate, Hogwash, Hyperbole, Law, Lobby, Pillar of the Community, Rants, The Game, Trusted, Wealthy",
+          "name": "Politician",
+          "id": "t470",
+          "type": "trait"
+     },
+     {
+          "full": "polymath: obscure fact, hidden knowledge, healer, maps, construction, flash of insight, practical solution, handy almanac, friends, strange notions, Elegant Thinking",
+          "description": "Obscure Fact, Hidden Knowledge, Healer, Maps, Construction, Flash of Insight, Practical Solution, Handy Almanac, Friends, Strange Notions, Elegant Thinking",
+          "name": "Polymath",
+          "id": "t473",
+          "type": "trait"
+     },
+     {
+          "full": "priest: prayer, evangelize, defender of the faith, comfort, condemn, rouse, calming, respected, kindly, helpful, confessions",
+          "description": "Prayer, Evangelize, Defender of the Faith, Comfort, Condemn, Rouse, Calming, Respected, Kindly, Helpful, Confessions",
+          "name": "Priest",
+          "id": "t477",
+          "type": "trait"
+     },
+     {
+          "full": "printer's devil: script, ink, propaganda, machinery, deadlines, scramble, contracts",
+          "description": "Script, Ink, Propaganda, Machinery, Deadlines, Scramble, Contracts",
+          "name": "Printer's Devil",
+          "id": "t479",
+          "type": "trait"
+     },
+     {
+          "full": "private investigator: careful, deduction, connections, sense motives, gather information, informants, careful listener, slippery tongue",
+          "description": "Careful, Deduction, Connections, Sense Motives, Gather Information, Informants, Careful Listener, Slippery Tongue",
+          "name": "Private Investigator",
+          "id": "t482",
+          "type": "trait"
+     },
+     {
+          "full": "protect: awareness, threats, defend, disarm, restrain, carry, delay, healer",
+          "description": "Awareness, Threats, Defend, Disarm, Restrain, Carry, Delay, Healer",
+          "name": "Protect",
+          "id": "t484",
+          "type": "trait"
+     },
+     {
+          "full": "pugilist: fisticuffs, clean fighting, dukes up, right cross, dirty fighting, bad temper, bone-breaking, brass knuckles, brutal, crush, fancy footwork, fast, hard, menacing, reputation, suckerpunch, sure bet, Thick-Skinned",
+          "description": "Fisticuffs, Clean Fighting, Dukes Up, Right Cross, Dirty Fighting, Bad Temper, Bone-Breaking, Brass Knuckles, Brutal, Crush, Fancy Footwork, Fast, Hard, Menacing, Reputation, Suckerpunch, Sure Bet, Thick-Skinned",
+          "name": "Pugilist",
+          "id": "t487",
+          "type": "trait"
+     },
+     {
+          "full": "questions: 'who am i?', 'where do i come from?', 'is what i feel real?', 'who can i trust?', 'what is love?', 'are my deeds righteous?', 'am i a thing worth saving?', 'can i live up to my destiny?'",
+          "description": "'Who am I?', 'Where do I come from?', 'Is what I feel real?', 'Who can I trust?', 'What is love?', 'Are my deeds righteous?', 'Am I a thing worth saving?', 'Can I live up to my destiny?'",
+          "name": "Questions",
+          "id": "t492",
+          "type": "trait"
+     },
+     {
+          "full": "quick: fast hands, smart, first to act, run",
+          "description": "Fast Hands, Smart, First To Act, Run",
+          "name": "Quick",
+          "id": "t494",
+          "type": "trait"
+     },
+     {
+          "full": "rebel agent: stealthy, subterfuge, innuendo, silent, contacts, sabotage, double agent, identities, assassinate, bombs, ray guns, double cross, codes",
+          "description": "Stealthy, Subterfuge, Innuendo, Silent, Contacts, Sabotage, Double Agent, Identities, Assassinate, Bombs, Ray Guns, Double Cross, Codes",
+          "name": "Rebel Agent",
+          "id": "t497",
+          "type": "trait"
+     },
+     {
+          "full": "rebellious: antisocial, argue, brash, bring it!, daring, headstrong, impatient, insubordinate, take advantage, tough",
+          "description": "Antisocial, Argue, Brash, Bring It!, Daring, Headstrong, Impatient, Insubordinate, Take Advantage, Tough",
+          "name": "Rebellious",
+          "id": "t499",
+          "type": "trait"
+     },
+     {
+          "full": "reclusive: antisocial, emotional wounds, extreme, hateful, hide, leave me alone!, misunderstood, quiet, shy",
+          "description": "Antisocial, Emotional Wounds, Extreme, Hateful, Hide, Leave Me Alone!, Misunderstood, Quiet, Shy",
+          "name": "Reclusive",
+          "id": "t502",
+          "type": "trait"
+     },
+     {
+          "full": "redsmith: craft, haggle, copper, amber, ambronics, wires, jewelery, beauty",
+          "description": "Craft, Haggle, Copper, Amber, Ambronics, Wires, Jewelery, Beauty",
+          "name": "Redsmith",
+          "id": "t504",
+          "type": "trait"
+     },
+     {
+          "full": "regulator: connections, infamy, safe houses, stashes, weathered",
+          "description": "Connections, Infamy, Safe Houses, Stashes, Weathered",
+          "name": "Regulator",
+          "id": "t506",
+          "type": "trait"
+     },
+     {
+          "full": "religiosity: baptist, bible, prayer, disapproval, letter writing, reverend willy, evangelist, preaching, turn the other cheek, love thy neighbor",
+          "description": "Baptist, Bible, Prayer, Disapproval, Letter Writing, Reverend Willy, Evangelist, Preaching, Turn the other cheek, Love thy neighbor",
+          "name": "Religiosity",
+          "id": "t509",
+          "type": "trait"
+     },
+     {
+          "full": "reputation: trustworthy, reliable, fearless, reckless, ruthless, underhanded, dangerous, deadly, cruel, unpredictable, heroic, honorable, compassionate",
+          "description": "Trustworthy, Reliable, Fearless, Reckless, Ruthless, Underhanded, Dangerous, Deadly, Cruel, Unpredictable, Heroic, Honorable, Compassionate",
+          "name": "Reputation",
+          "id": "t512",
+          "type": "trait"
+     },
+     {
+          "full": "resilient: iron will, tough, relentless, escape",
+          "description": "Iron Will, Tough, Relentless, Escape",
+          "name": "Resilient",
+          "id": "t514",
+          "type": "trait"
+     },
+     {
+          "full": "ruffian: lying, stealing, hiding, connections",
+          "description": "Lying, Stealing, Hiding, Connections",
+          "name": "Ruffian",
+          "id": "t516",
+          "type": "trait"
+     },
+     {
+          "full": "rustic: aware, backwoods, curious, family, hardy, in your blood, intolerant, lay of the land, nimble, plain, temper, the way it's always done, Traps",
+          "description": "Aware, Backwoods, Curious, Family, Hardy, In Your Blood, Intolerant, Lay of the Land, Nimble, Plain, Temper, The Way It's Always Done, Traps",
+          "name": "Rustic",
+          "id": "t519",
+          "type": "trait"
+     },
+     {
+          "full": "sailor: cudgel, fishing, gunnery, iron stomach, navigate, pistol, rank, rowboat, sailboat, scrimshaw, sea legs, sea shanties, signals, stamina, steamer, warship, whaling, woman in every port",
+          "description": "Cudgel, Fishing, Gunnery, Iron Stomach, Navigate, Pistol, Rank, Rowboat, Sailboat, Scrimshaw, Sea Legs, Sea Shanties, Signals, Stamina, Steamer, Warship, Whaling, Woman In Every Port",
+          "name": "Sailor",
+          "id": "t523",
+          "type": "trait"
+     },
+     {
+          "full": "saintly: religious lore, faith, presence, inspiring prayer, righteousness, resolve, self-sacrifice, aura",
+          "description": "Religious Lore, Faith, Presence, Inspiring Prayer, Righteousness, Resolve, Self-Sacrifice, Aura",
+          "name": "Saintly",
+          "id": "t525",
+          "type": "trait"
+     },
+     {
+          "full": "savage: alertness, berserker, bow, brother wolf, calm, fasting, fierce, hatchet, hunting, legends, quick, scrounge, silent, sister falcon, snares, survival, talisman, tracking, wilderness",
+          "description": "Alertness, Berserker, Bow, Brother Wolf, Calm, Fasting, Fierce, Hatchet, Hunting, Legends, Quick, Scrounge, Silent, Sister Falcon, Snares, Survival, Talisman, Tracking, Wilderness",
+          "name": "Savage",
+          "id": "t529",
+          "type": "trait"
+     },
+     {
+          "full": "scarred: memorable, frightening, intimidating, missing teeth",
+          "description": "Memorable, Frightening, Intimidating, Missing Teeth",
+          "name": "Scarred",
+          "id": "t531",
+          "type": "trait"
+     },
+     {
+          "full": "scholar: literacy, history, culture, cosmology, science, mathematics, haven, heraldry, ancient, argument, colleagues, cultures, curator, debate, dissertation, old school song, philosophy, research, studious, stiff, Tenure",
+          "description": "Literacy, History, Culture, Cosmology, Science, Mathematics, Haven, Heraldry, Ancient, Argument, Colleagues, Cultures, Curator, Debate, Dissertation, Old School Song, Philosophy, Research, Studious, Stiff, Tenure",
+          "name": "Scholar",
+          "id": "t535",
+          "type": "trait"
+     },
+     {
+          "full": "scientist: investigate, reveal, geometry, employ device, analyze, explosion, impressive display, natural science, distraction, thrilling discovery, maths, rational, systematic, selfless, acids, backing, crackpot, detached from reality, explosives, stipend, theory, untested",
+          "description": "Investigate, Reveal, Geometry, Employ Device, Analyze, Explosion, Impressive Display, Natural Science, Distraction, Thrilling Discovery, Maths, Rational, Systematic, Selfless, Acids, Backing, Crackpot, Detached from Reality, Explosives, Stipend, Theory, Untested",
+          "name": "Scientist",
+          "id": "t540",
+          "type": "trait"
+     },
+     {
+          "full": "scout: quiet, sneak, hide, dextrous, climb, perceptive, traps, darkness, maps , distractions",
+          "description": "Quiet, Sneak, Hide, Dextrous, Climb, Perceptive, Traps, Darkness, Maps , Distractions",
+          "name": "Scout",
+          "id": "t543",
+          "type": "trait"
+     },
+     {
+          "full": "secretive: arcane, blackmail, in the shadows, observant, paranoid, quiet, stubborn, suspicious, tight-lipped, unknown",
+          "description": "Arcane, Blackmail, In the Shadows, Observant, Paranoid, Quiet, Stubborn, Suspicious, Tight-Lipped, Unknown",
+          "name": "Secretive",
+          "id": "t545",
+          "type": "trait"
+     },
+     {
+          "full": "sensible: anecdotes, big picture, calm, clarity, consider, cool-headed, humility, supportive, unflappable",
+          "description": "Anecdotes, Big Picture, Calm, Clarity, Consider, Cool-Headed, Humility, Supportive, Unflappable",
+          "name": "Sensible",
+          "id": "t547",
+          "type": "trait"
+     },
+     {
+          "full": "sharpshooter: steady hand, long shot, trick shot, ambush, rifles, sharp eye",
+          "description": "Steady Hand, Long Shot, Trick Shot, Ambush, Rifles, Sharp Eye",
+          "name": "Sharpshooter",
+          "id": "t549",
+          "type": "trait"
+     },
+     {
+          "full": "sheriff: badge, honorable, law, disarm, arrest, protect, serve, calm, undercover",
+          "description": "Badge, Honorable, Law, Disarm, Arrest, Protect, Serve, Calm, Undercover",
+          "name": "Sheriff",
+          "id": "t551",
+          "type": "trait"
+     },
+     {
+          "full": "sky pirate: vicious, hack & slash, cutlass, knife, shooting, boomstick, gunner, boarding action, crew, loot, capture, drink, hardy, treacherous, intimidating, contacts, underworld, pilot, navigate, close quarters, Cruel",
+          "description": "Vicious, Hack & Slash, Cutlass, Knife, Shooting, Boomstick, Gunner, Boarding Action, Crew, Loot, Capture, Drink, Hardy, Treacherous, Intimidating, Contacts, Underworld, Pilot, Navigate, Close Quarters, Cruel",
+          "name": "Sky Pirate",
+          "id": "t555",
+          "type": "trait"
+     },
+     {
+          "full": "sky sailor: gunnery, aim, maintenance, observation, signals, empire, pirates, free worlds, haven, repair, connections",
+          "description": "Gunnery, Aim, Maintenance, Observation, Signals, Empire, Pirates, Free Worlds, Haven, Repair, Connections",
+          "name": "Sky Sailor",
+          "id": "t559",
+          "type": "trait"
+     },
+     {
+          "full": "skyship officer: drive, ship systems, power loader, repair, clamber, pilot, orders",
+          "description": "Drive, Ship Systems, Power Loader, Repair, Clamber, Pilot, Orders",
+          "name": "Skyship Officer",
+          "id": "t561",
+          "type": "trait"
+     },
+     {
+          "full": "slayer: cold-hearted, crossbow, defy evil, demonology, hatred, holy symbol, holy water, hunting, iron will, know the signs, know thy enemy, monsters, patience, silver, sniper, tracking, tooth and nail, wooden Stake",
+          "description": "Cold-Hearted, Crossbow, Defy Evil, Demonology, Hatred, Holy Symbol, Holy Water, Hunting, Iron Will, Know the Signs, Know Thy Enemy, Monsters, Patience, Silver, Sniper, Tracking, Tooth and Nail, Wooden Stake",
+          "name": "Slayer",
+          "id": "t565",
+          "type": "trait"
+     },
+     {
+          "full": "slippery: backup plan, aliases, deception, escape route",
+          "description": "Backup Plan, Aliases, Deception, Escape Route",
+          "name": "Slippery",
+          "id": "t568",
+          "type": "trait"
+     },
+     {
+          "full": "sly: crafty, sneaky, distractions, bluff, languages, trade speak, sharp, disguise, deception, wheeling & dealing, shadows, artful",
+          "description": "Crafty, Sneaky, Distractions, Bluff, Languages, Trade Speak, Sharp, Disguise, Deception, Wheeling & Dealing, Shadows, Artful",
+          "name": "Sly",
+          "id": "t571",
+          "type": "trait"
+     },
+     {
+          "full": "smoothtalker: smile, soothing lies, doubletalk, innuendo, handsome",
+          "description": "Smile, Soothing Lies, Doubletalk, Innuendo, Handsome",
+          "name": "Smoothtalker",
+          "id": "t573",
+          "type": "trait"
+     },
+     {
+          "full": "smuggler: haggle, deception, sneak, hide, camouflage, forgery, pilot, navigation, repair, gunnery, bribes, contacts, bruisers",
+          "description": "Haggle, Deception, Sneak, Hide, Camouflage, Forgery, Pilot, Navigation, Repair, Gunnery, Bribes, Contacts, Bruisers",
+          "name": "Smuggler",
+          "id": "t575",
+          "type": "trait"
+     },
+     {
+          "full": "sneak: shadows, quiet, camouflage, forgery, accomplice",
+          "description": "Shadows, Quiet, Camouflage, Forgery, Accomplice",
+          "name": "Sneak",
+          "id": "t577",
+          "type": "trait"
+     },
+     {
+          "full": "sociable: approachable, carouse, connections, friendly, inspire, nonchalant, positive, talkative, well-mannered",
+          "description": "Approachable, Carouse, Connections, Friendly, Inspire, Nonchalant, Positive, Talkative, Well-Mannered",
+          "name": "Sociable",
+          "id": "t580",
+          "type": "trait"
+     },
+     {
+          "full": "soldier: discipline, rifle, pistol, sabre, command, tactics, fraternity, strategy, all for one, bitter, fierce, flashbacks, grim, grisly tales, gritty, march, scarred, shooting, spit and polish, tough, uniform jacket, veteran, war stories",
+          "description": "Discipline, Rifle, Pistol, Sabre, Command, Tactics, Fraternity, Strategy, All For One, Bitter, Fierce, Flashbacks, Grim, Grisly Tales, Gritty, March, Scarred, Shooting, Spit and Polish, Tough, Uniform Jacket, Veteran, War Stories",
+          "name": "Soldier",
+          "id": "t584",
+          "type": "trait"
+     },
+     {
+          "full": "spiritualist: calm, crystal ball, deception, distraction, hauntings, improvise, knocking, lore, misleading, observation, palmistry, parlor tricks, rituals, secrets, tragedy",
+          "description": "Calm, Crystal Ball, Deception, Distraction, Hauntings, Improvise, Knocking, Lore, Misleading, Observation, Palmistry, Parlor Tricks, Rituals, Secrets, Tragedy",
+          "name": "Spiritualist",
+          "id": "t588",
+          "type": "trait"
+     },
+     {
+          "full": "sportsman: archery, champion, fair play, famous, fencing, fitness, golf, jumping, longbow, olympics, rapier, rules, running, strength, swimming, tennis, throwing, training, unbeaten, vigorous, wrestling",
+          "description": "Archery, Champion, Fair Play, Famous, Fencing, Fitness, Golf, Jumping, Longbow, Olympics, Rapier, Rules, Running, Strength, Swimming, Tennis, Throwing, Training, Unbeaten, Vigorous, Wrestling",
+          "name": "Sportsman",
+          "id": "t590",
+          "type": "trait"
+     },
+     {
+          "full": "spy: deception, disguise, codes, sneak, hide, misdirection, assassinate, impersonate, camouflaged pistol, collapsible dagger, conceal, cunning, cyanide pill, gain trust, infiltrate, iron will, lies, military, observe, politics, propaganda, secrets, subversion, surreptitious",
+          "description": "Deception, Disguise, Codes, Sneak, Hide, Misdirection, Assassinate, Impersonate, Camouflaged Pistol, Collapsible Dagger, Conceal, Cunning, Cyanide Pill, Gain Trust, Infiltrate, Iron Will, Lies, Military, Observe, Politics, Propaganda, Secrets, Subversion, Surreptitious",
+          "name": "Spy",
+          "id": "t593",
+          "type": "trait"
+     },
+     {
+          "full": "squid biology: eats anything, mighty strong, odd smells, squid senses, ink glands, breathe in the depths, additional organs",
+          "description": "Eats Anything, Mighty Strong, Odd Smells, Squid Senses, Ink Glands, Breathe in the Depths, Additional Organs",
+          "name": "Squid Biology",
+          "id": "t596",
+          "type": "trait"
+     },
+     {
+          "full": "steadfast: honorable, reliable, oath-keeper, brave, tough",
+          "description": "Honorable, Reliable, Oath-keeper, Brave, Tough",
+          "name": "Steadfast",
+          "id": "t598",
+          "type": "trait"
+     },
+     {
+          "full": "steward: at the master's side, blackmail, convincing, eavesdrop, efficient, endure, etiquette, inform, intrigue, loyal, patience, secrets, servant, Tradition",
+          "description": "At the Master's Side, Blackmail, Convincing, Eavesdrop, Efficient, Endure, Etiquette, Inform, Intrigue, Loyal, Patience, Secrets, Servant, Tradition",
+          "name": "Steward",
+          "id": "t600",
+          "type": "trait"
+     },
+     {
+          "full": "stoneblood: harden, make heavy, meld into stone, petrify, immovable, mauler, move through stone, shape rock, tough",
+          "description": "Harden, Make Heavy, Meld Into Stone, Petrify, Immovable, Mauler, Move Through Stone, Shape Rock, Tough",
+          "name": "Stoneblood",
+          "id": "t604",
+          "type": "trait"
+     },
+     {
+          "full": "stormblood: spellcaster, channeling, master sorcerer, wind, lightning, fly, blast, sense, hex, strain, haunt, winnow, terrify",
+          "description": "Spellcaster, Channeling, Master Sorcerer, Wind, Lightning, Fly, Blast, Sense, Hex, Strain, Haunt, Winnow, Terrify",
+          "name": "Stormblood",
+          "id": "t607",
+          "type": "trait"
+     },
+     {
+          "full": "strongback: heave, steady hands, high pain threshold, brawl, grip, crush, unshakeable",
+          "description": "Heave, Steady Hands, High Pain Threshold, Brawl, Grip, Crush, Unshakeable",
+          "name": "Strongback",
+          "id": "t609",
+          "type": "trait"
+     },
+     {
+          "full": "student: contraband, drinking games, history, literature, lollygag, old school song, pranks, research, scholarship, school colors, science, studious, take notes, teacher's pet, truancy summer camp counsellor survival, campfires, ghost stories, archery, bows, hunting, the woods, other worlds, counseling",
+          "description": "Contraband, Drinking Games, History, Literature, Lollygag, Old School Song, Pranks, Research, Scholarship, School Colors, Science, Studious, Take Notes, Teacher's Pet, Truancy Summer Camp Counsellor Survival, Campfires, Ghost Stories, Archery, Bows, Hunting, The Woods, Other Worlds, Counseling",
+          "name": "Student",
+          "id": "t616",
+          "type": "trait"
+     },
+     {
+          "full": "superstitious: careful, details, folklore, good luck charm, legends, lucky number, myths, nervous, observant, reaction, suspicious",
+          "description": "Careful, Details, Folklore, Good Luck Charm, Legends, Lucky Number, Myths, Nervous, Observant, Reaction, Suspicious",
+          "name": "Superstitious",
+          "id": "t619",
+          "type": "trait"
+     },
+     {
+          "full": "survivor: tough, run, scrounge, endure, creepy stare, intimidate, medic, trap, cunning, bravery, keen, hunt, axe",
+          "description": "Tough, Run, Scrounge, Endure, Creepy Stare, Intimidate, Medic, Trap, Cunning, Bravery, Keen, Hunt, Axe",
+          "name": "Survivor",
+          "id": "t622",
+          "type": "trait"
+     },
+     {
+          "full": "tale spinner: teacher, 'that's how they do it in the bigs', drills, war wounds, i know a guy",
+          "description": "Teacher, 'That's how they do it in the bigs', Drills, War Wounds, I Know a Guy",
+          "name": "Tale Spinner",
+          "id": "t625",
+          "type": "trait"
+     },
+     {
+          "full": "target: flee, hide, notice, perseverance, dash, shake it off",
+          "description": "Flee, Hide, Notice, Perseverance, Dash, Shake it off",
+          "name": "Target",
+          "id": "t627",
+          "type": "trait"
+     },
+     {
+          "full": "theurgist: atonement, blessing, consecrate, convert, divinity, exorcise, fire and brimstone, healing, holy fury, holy light, holy spirit, miracles, purification, rebuke, retribution, righteous, word of god",
+          "description": "Atonement, Blessing, Consecrate, Convert, Divinity, Exorcise, Fire and Brimstone, Healing, Holy Fury, Holy Light, Holy Spirit, Miracles, Purification, Rebuke, Retribution, Righteous, Word of God",
+          "name": "Theurgist",
+          "id": "t630",
+          "type": "trait"
+     },
+     {
+          "full": "thief: alarms, appraise, balance, bluff, conceal, etiquette, eye for detail, intrude, lockpicks, locks, prosperous, sleight of hand, stealth, trailing, traps, unassuming, winning smile",
+          "description": "Alarms, Appraise, Balance, Bluff, Conceal, Etiquette, Eye for Detail, Intrude, Lockpicks, Locks, Prosperous, Sleight of Hand, Stealth, Trailing, Traps, Unassuming, Winning Smile",
+          "name": "Thief",
+          "id": "t633",
+          "type": "trait"
+     },
+     {
+          "full": "tradesman: barman, brewing, coachman, conductor, cooking, efficient, grooming, hard work, husbandry, organized, patient, professional, reliable, service, spit and polish, tailor, undertaker",
+          "description": "Barman, Brewing, Coachman, Conductor, Cooking, Efficient, Grooming, Hard Work, Husbandry, Organized, Patient, Professional, Reliable, Service, Spit and Polish, Tailor, Undertaker",
+          "name": "Tradesman",
+          "id": "t635",
+          "type": "trait"
+     },
+     {
+          "full": "trash: inconspicuous, endurance, low blow, mean, escape, sucker punch, intimidation, hard man, gunplay",
+          "description": "Inconspicuous, Endurance, Low Blow, Mean, Escape, Sucker Punch, Intimidation, Hard Man, Gunplay",
+          "name": "Trash",
+          "id": "t638",
+          "type": "trait"
+     },
+     {
+          "full": "traveller: weathered, pathfinding, directions, customs",
+          "description": "Weathered, Pathfinding, Directions, Customs",
+          "name": "Traveller",
+          "id": "t640",
+          "type": "trait"
+     },
+     {
+          "full": "tricky: quick, dirty fighting, tumbler, escape, contortionist, sleight of hand, acrobatics, deadly knife, find weakness, contortionist, agile, sneaky, unexpected strike, scrambling, wriggling, martial arts, ambush",
+          "description": "Quick, Dirty Fighting, Tumbler, Escape, Contortionist, Sleight of Hand, Acrobatics, Deadly Knife, Find Weakness, Contortionist, Agile, Sneaky, Unexpected Strike, Scrambling, Wriggling, Martial arts, Ambush",
+          "name": "Tricky",
+          "id": "t644",
+          "type": "trait"
+     },
+     {
+          "full": "trucker: driving, wakefulness, radio, repair, big rig, pickup, pilot, steam drive, stunt driving, navigation",
+          "description": "Driving, Wakefulness, Radio, Repair, Big Rig, Pickup, Pilot, Steam Drive, Stunt Driving, Navigation",
+          "name": "Trucker",
+          "id": "t647",
+          "type": "trait"
+     },
+     {
+          "full": "undead: bite, break through, claw, dead gaze, feel no pain, fierce, horrific, hunger, lunge, memento, memories of life, nightmares, pass through, relentless, rot, shriveled, smell their life, tireless",
+          "description": "Bite, Break Through, Claw, Dead Gaze, Feel No Pain, Fierce, Horrific, Hunger, Lunge, Memento, Memories of Life, Nightmares, Pass Through, Relentless, Rot, Shriveled, Smell Their Life, Tireless",
+          "name": "Undead",
+          "id": "t650",
+          "type": "trait"
+     },
+     {
+          "full": "underworld: haggle, deception, forgery, hideouts, contacts, criminals",
+          "description": "Haggle, Deception, Forgery, Hideouts, Contacts, Criminals",
+          "name": "Underworld",
+          "id": "t652",
+          "type": "trait"
+     },
+     {
+          "full": "unflappable: fast, reliable, good eye, clear-thinking, 'shit that's fast', serene",
+          "description": "Fast, Reliable, Good Eye, Clear-Thinking, 'Shit that's fast', Serene",
+          "name": "Unflappable",
+          "id": "t654",
+          "type": "trait"
+     },
+     {
+          "full": "urbanite: bargain, contacts, directions, favors, feel of the streets, gossip, know someone who knows someone, rivalry, streetwise",
+          "description": "Bargain, Contacts, Directions, Favors, Feel of the Streets, Gossip, Know Someone Who Knows Someone, Rivalry, Streetwise",
+          "name": "Urbanite",
+          "id": "t657",
+          "type": "trait"
+     },
+     {
+          "full": "vagrant: alms, begging, bitter, feign injury, hoboknife, hungry, iron stomach, pathetic, poor, scrounge, stamina, unnoticed, unwashed",
+          "description": "Alms, Begging, Bitter, Feign Injury, Hoboknife, Hungry, Iron Stomach, Pathetic, Poor, Scrounge, Stamina, Unnoticed, Unwashed",
+          "name": "Vagrant",
+          "id": "t660",
+          "type": "trait"
+     },
+     {
+          "full": "valiant: calm, charge in, courage, ethical, feel their pain, heroic, inspire, mercy, protect, righting wrongs",
+          "description": "Calm, Charge In, Courage, Ethical, Feel Their Pain, Heroic, Inspire, Mercy, Protect, Righting Wrongs",
+          "name": "Valiant",
+          "id": "t663",
+          "type": "trait"
+     },
+     {
+          "full": "vengeful: anger, determined, gritty, headstrong, ignore the pain, menacing, no mercy, righting wrongs, tough",
+          "description": "Anger, Determined, Gritty, Headstrong, Ignore the Pain, Menacing, No Mercy, Righting Wrongs, Tough",
+          "name": "Vengeful",
+          "id": "t666",
+          "type": "trait"
+     },
+     {
+          "full": "veteran: combat tested, brutal, patrol, rifle, fast, hard, strong, bonebreaking, scary look, first aid, fearless, weaponry, riding",
+          "description": "Combat Tested, Brutal, Patrol, Rifle, Fast, Hard, Strong, BoneBreaking, Scary Look, First Aid, Fearless, Weaponry, Riding",
+          "name": "Veteran",
+          "id": "t668",
+          "type": "trait"
+     },
+     {
+          "full": "victim: resigned, angry, tough, vengeful, brash, brutal, fearless",
+          "description": "Resigned, Angry, Tough, Vengeful, Brash, Brutal, Fearless",
+          "name": "Victim",
+          "id": "t670",
+          "type": "trait"
+     },
+     {
+          "full": "visionary: ambitious, creative, curious, dreamer, hopeful, ideals, inspiration, progressive, unrealistic",
+          "description": "Ambitious, Creative, Curious, Dreamer, Hopeful, Ideals, Inspiration, Progressive, Unrealistic",
+          "name": "Visionary",
+          "id": "t673",
+          "type": "trait"
+     },
+     {
+          "full": "voidblood: invisibility, vacuum, make weightless, pass through, erase mind, counterspell, disintegrate",
+          "description": "Invisibility, Vacuum, Make Weightless, Pass Through, Erase Mind, Counterspell, Disintegrate",
+          "name": "Voidblood",
+          "id": "t676",
+          "type": "trait"
+     },
+     {
+          "full": "wanton: excitement, masochist, obsession, perverted, scandalous, sensual, temptation, tickle, unflappable",
+          "description": "Excitement, Masochist, Obsession, Perverted, Scandalous, Sensual, Temptation, Tickle, Unflappable",
+          "name": "Wanton",
+          "id": "t679",
+          "type": "trait"
+     },
+     {
+          "full": "war leader: command, strategy, soldiers, intimidating, combat tested, send men to die, tactics, training exercises, fast, hard, strong, scary look",
+          "description": "Command, Strategy, Soldiers, Intimidating, Combat Tested, Send men to die, Tactics, Training Exercises, Fast, Hard, Strong, Scary Look",
+          "name": "War Leader",
+          "id": "t682",
+          "type": "trait"
+     },
+     {
+          "full": "warrior: battle-hardened, shooting, two-gun style, pistol, brawl, hail of lead, cool-headed, cuirass, dagger, dangerous, daring, disarm, duelist, feint, flanking, keep fighting, longsword, parry, rapier, shortsword, steady gaze, surprise, two-handed, unpredictable",
+          "description": "Battle-Hardened, Shooting, Two-Gun Style, Pistol, Brawl, Hail of Lead, Cool-Headed, Cuirass, Dagger, Dangerous, Daring, Disarm, Duelist, Feint, Flanking, Keep Fighting, Longsword, Parry, Rapier, Shortsword, Steady Gaze, Surprise, Two-Handed, Unpredictable",
+          "name": "Warrior",
+          "id": "t687",
+          "type": "trait"
+     },
+     {
+          "full": "weapon scrounger: improvise, imperial, gunnery, pistols, axes, search, swords, explosives",
+          "description": "Improvise, Imperial, Gunnery, Pistols, Axes, Search, Swords, Explosives",
+          "name": "Weapon Scrounger",
+          "id": "t689",
+          "type": "trait"
+     },
+     {
+          "full": "whispblood (one spell tag at a time): float spell, thin spell, whisper spell, pale spell, spellcasting, channelling, hypnotism spell, spark spell",
+          "description": "Float spell, Thin spell, Whisper spell, Pale spell, Spellcasting, Channelling, Hypnotism spell, Spark spell",
+          "name": "Whispblood (one spell tag at a time)",
+          "id": "t691",
+          "type": "trait"
+     },
+     {
+          "full": "woodsman: tough, run, scrounge, endure, languages, lay of the land, barter, Trader",
+          "description": "Tough, Run, Scrounge, Endure, Languages, Lay of the Land, Barter, Trader",
+          "name": "Woodsman",
+          "id": "t693",
+          "type": "trait"
+     },
+     {
+          "full": "worldly: adventurous, alert, been there done that, cultures, curious, hardy, improvise, languages, open-minded, shrewd",
+          "description": "Adventurous, Alert, Been There Done That, Cultures, Curious, Hardy, Improvise, Languages, Open-Minded, Shrewd",
+          "name": "Worldly",
+          "id": "t697",
+          "type": "trait"
+     }
+]

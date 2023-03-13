@@ -1,0 +1,700 @@
+Activist
+Accusation, Anarchist, Communist, Conspiracy, Contacts, Criminal,
+Determined, Factions, Honest, Inspire, Leaflets, Organize, Propaganda, Rabble, Radical, Speech, Yell
+Administrator
+Accounting, Banking, Bureaucracy, Carbon Paper, Credit, Details,
+Double Check, Finance, Irritable, Loopholes, Organization, Politics,
+Research, Stingy, Stocks, Taxes
+Adventuress
+Scandal, Excitement, Danger, Disaster, Escape, Lack of Decorum,
+Wilderness, Aborigines, Fire, Justice Served, True Love, Curiosity,
+Heart’s Desire, Mojo
+Alchemist
+Bleeding, Brewing, Curatives, Folklore, Formulas, Hallucinogens,
+Healing, Herbs, Humours, Leech Jar, Legends, Natural, Old Ways, Poisoning, Potions, Research, Strange
+Alienist
+Analyze, Behavior, Crackpot, Delusions, Ground-breaking, Inured,
+Mesmerise, Methodical, Motivations, Observe, Pocket Watch, Soothing Voice, Therapy, Torture, Trauma, Unorthodox
+Aristocrat
+Command, Charm, Etiquette, Heraldry, Soldiers, Impeccable, Politics,
+Connections, Dance, Educated, History
+Artist
+Appreciation, Avant Garde, Backing, Classic, Creative, Grand Scale,
+In Demand, Literature, Loans, Painting, Proficient, Realism, Refined,
+Sculpture, Style, Unique
+Ascetic
+Acrobatics, Alert, Anecdotes, Animal Stance, Austere, Balance, Brave,
+Defend, Disarm, Endure, Fast, Fitness, Humble, Iron Fist, Martial Arts,
+Meditate, Reaction, Wisdom
+Assassin
+Ambush, Backstab, Cold Stare, Conceal, Contracts, Crossbow, Deadly,
+Feared, Garrote, Guild, Poison, Quick, Ruthless, Shadow, Sniper,
+Stealth, Stiletto, Trailing, Unemotional
+Athlete
+Acrobatics, Run, Brawn, Strategy, Endurance, Tough, Wrestling, Contortion, Barge, Gymnastics, Karate, Boxing, Fame, Signature, Rouse
+the Crowd
+Athletic
+Run, Fencing, Rapier, Duels, Shooting, Pistol, Acrobatics, Endurance,
+Sneak, Hide, Contortion, Dodge, Ass-Whipping, Quick, Reflexes,
+Climbing
+Bandit
+Black Market, Blood Money, Dagger, Dark Cloak, Drink, Hardy, Kidnap, Odious, Old Pistol, Racketeer, Rotten Breath, Ruffian, Scattergun,
+Shooting, Slash, Sneer, Treacherous
+Blacksmith
+Craft, Cold Iron, Endure Heat, Muscles, Bellowing Voice, Mastercraft,
+Starmetal
+Bloodhunter
+Gather Information, Interrogate, Intimidate, Incognito, Recognize
+Blood, Reflexes, Authority, Firefights
+Bodyguard
+Awareness, Threats, Defend, Disarm, Restrain, Carry, Delay, Security,
+First Aid
+Bold
+Brave, Daring, Heroic, Rescue, Falling, Fire, Reckless, Explosions, Escapes, Outnumbered, Underdog, Amputation, Suicidal
+Bookish
+Theology, History, First Aid, Languages, Folklore
+Bounty Hunter
+Demand, Disarm, Follow, Intimidate, Jobsworth, Knock ’Em Down,
+Manacles, No Mercy, No Nonsense, No Use to Me Dead, Heavy Pistol,
+Tireless, Tracking, Traps, Tricks of the Trade
+Braggart
+Boast, Confidence, Ego, Haughty, Oblivious, Pushy, Reckless, Sly
+Smile, Talk for Hours, Tall Tales
+Brainy
+Think it Through, Informed, Anticipate, Portable Wireless, Surmise,
+Quick
+Builder
+Construction, Demolition, Hiding Spots, Repair, Hard work
+Burglar
+Quiet, Sneak, Hide,
+Dextrous, Locks, Perceptive, Traps, Darkness,
+Alarms, Distractions,
+Appraise, Avoid, Bash
+’Em, Break and Enter,
+Case the Joint, Climbing,
+Crowbar, Fence Goods,
+Lockpicks, Sprint, Tough
+Carnie
+Animal Trainer, Balance, Bizarre, Clown, Contortion, Distract, Escape,
+Geek, Juggling, Midget, Misfit, Misshapen, One of Us, Pick Pocket,
+Prance, Stunt, Trained Monkey, Trick, Tumbling, Whip
+Cavalier
+Affluence, Brave, Breastplate, Charge, Equestrian, Etiquette, Fealty,
+Fencing, Haughty, Longsword, Heraldry, Loyal, Manners, Pistol, Polished, Rank, Shooting, Tactics, Warhorse
+Changeling
+Amorphous, Blending, Convincing, Dead Man’s Face, Diversion, Feign
+Ability, Grow, Imitate, Indistinguishable, Quick Change, Repeat, Replace, Shrink, Steal Form, Steal Memories
+Charlatan
+Alibi, Attention, Blackmail, Bribery, Charisma, Counterfeit Banknotes, Cunning Plan, Deception, Disguise, Forged Documents, Excuses, Forgery, Misdirection, Smooth Talker
+Charm
+Charisma, Presence, Command, Nobles, Servants, Soldiers, Fast Talk,
+Deception, Misdirection, Seduce, Enchant, Sweet Talk, Impress, Handshake, Ladykiller, Youthfulness, Empathy, Compassion, Attractive
+City Slicker
+Law and Order, Streetwise, Sneak, Haggle, Petty Crime, Quiet, Distractions, Connections
+Clever
+Keen, Planning, Tactics, Negotiations, Tricks, Notice Flaws, Observant
+Clock-Man
+Made of Gears, Oil, Strength, Reflexes, Infravision, Hidden Gun, Armored Skin, Inhuman, Labor, Follow Orders, Rebel, Interface, Encryption, Technology
+Colonial
+Accent, Combative, Determined, Forefathers, Gruff, Hardy, Impatient,
+Improvise, Independent, Land Deed, Scrounge, Solidarity
+Colonist
+Hearty, Resolved, Patient, Charitable, Firearms, Tough as Leather
+Companion
+Charm, Trickery, Seduction, Manners, Misdirection, Connections,
+Command, Gather Information, Arouse, Eavesdrop, Facade, Infection, Innuendo, Intimate Details, Pander, Pocket Money, Scandalous,
+Weave Tales
+Company Man
+Resolute, Gallows Humor, Medium Clearance, Politics, Communications, Scanner, Bullshit Artist, Tough, Access Routes, Loyal, Proper,
+Make it Work, High-Level Clearance
+Compassion
+Empathy, Understanding, Soothing, Calming words
+Con Artist
+Guile, Deception, Convincing, Blather, Double Talk
+Conservative
+Argue, Denial, Grouchy, Headstrong, Intolerant, Life Savings, Rally,
+Religious, Serious, Suspicious, Tradition
+Constable
+Apprehend, Brawl, Careful, Disarm, Gruff, Hardy, Informants, Interrogate, Law, Manacles, Nightstick, Pride, Protect, Revolver, Solidarity,
+Warrant, Watchful, What’s All This Then?
+Construct
+Angry, Boost, Crush, Hardened, Immense, Innocence, Iron Grip, Leap,
+Lonely, Misunderstood, Power Source, Rage, Smash, Stone Skin,
+Strong, Unnatural
+Convict
+Bitter, Cold Stare, Desperate, Fight Dirty, Finish You But Good!, Fugitive, Hardened, Hatred, Improvise, Iron Stomach, Old Cellmates, Out
+For Blood, Reformed, Scarred, Tough
+Corporate Operative
+Backbone, Cold-Hearted, Cutting Stare, Negotiator, Sportsman’s
+Physique, Wireless, Loyal, Deception, Blend In
+Corrupt
+Betray, Cunning, Fraud, Greedy, Illicit, Impatient, Infamous, PowerHungry, Schemes, Secrets, Two-Faced
+Cosmopolitan
+Aloof, Connections, Culture, Education, Etiquette, Gossip, OpenMinded, Spunky, Style, Tolerant, Well-Off
+Country Girl
+Daring, Clever, Proud, Intimidating, Tough, Run, Lucky, Impulsive,
+Rifle, Loud, Ruthless, Hero, Bow
+Courtier
+Affluent, Charisma, Concealed Dagger, Deception, Etiquette, Exquisite
+Derringer, Favors, Flattery, Friends in High Places, Pillow Talk, Privilege, Resentment, Secrets, Seduction, Toadying, Yes-Man
+Cowardly
+Awareness, Beg for Mercy, Bluff, Cry for Help, Duck and Cover, Escape,
+Excuses, Hide, Sprint, Wary
+Craftsman
+Armors, Carpentry, Detail, Dirty, Gruff, Hammer, Inspect, Large
+Hands, Masonry, Metals, Pride, Quality, Repair, Smelting, Smithing,
+Solidarity, Strong, Tradition, Weapons
+Creepy
+Intimidate, Terrifying, Reputation, Morbid, Pale
+Crew
+Gunnery, Aim, Maintenance, Damage Control, Observation, Signals,
+The Owl, Cargo, Supplies, First Aid, Boarding Action
+Cruel
+Bitter, Exploit, Insult, Offensive, Ruthless, Sadistic, Salt in the Wound,
+Tough, Turn the Screws, Unfeeling
+Crusading
+Charge In, Courage, Headstrong, Intimidate, Intolerant, Lofty Goal,
+Loyal, No Mercy, Overpower, Rally
+Cultist
+Blood Pact, Ceremonial Dagger, Chants, Conspiracy, Fearless, For the
+Dark One!, Gibbering, Influence, Occult Lore, Rituals, Ruthless, Sinister, Stamina, Strange Artifact, Unhinged
+Cunning
+Deception, Misdirection, Disguise, Codes, Sneak, Hide, Lies, Trap,
+Eavesdrop, Honest Face, Can’t fool a fool, Seduction, Bluff, Trickery,
+Haggle, Sense Motives, Silver Tongue
+Cutpurse
+Artful Dodger, Conceal, Cunning, Distract, Duck for Cover, Hide, Inconspicuous, Keep Your Wits About You, Pick Pockets, Pocket Knife,
+Quick, Quiet, Size Them Up, Teamwork, Trip
+Cyborg
+Strength, Reflexes, Infravision, Hidden Gun, Laser Eye, Backup Organs, Armored Skin, Inhuman, Interface, Encryption, Technology
+Cynical
+Criticize, Distaste, Honest, Ignore, Irritable, Notice Flaws, Observe,
+Prepare for the Worst, Sarcasm
+Daredevil
+Adrenalin, Against All Odds, Athletic, Brave, Daring, Face Death, Fearless, Leap In, Quick, Reckless, Strong, Tough
+Dealer
+Antiquities, Banknotes, Black Market, Bookie, Conceal, Contraband,
+Cover Up, Counterfeit, Deception, Forgery, Haggle, Hide, Jewelry,
+Lending, Narcotics, Sneaky, Trafficking
+Debauchee
+Iron Stomach, Fraternizer, Witty, Persuasive, Fast Friends, Unfazed
+Deceitful
+Backtalk, Conman, Convoluted, Disguise, Dishonest, Hiding, Lies, Misdirection, Opportunity, Promises, Scoundrel
+Dedicated
+Clear Thinker, Confidence, Fast, Friendly, Hit the Ground Running,
+Iron Will, Keen, Reliable, Resolve, Vow
+Defeatist
+Calm, Exhausted, Patient, Persevere, Pessimist, Reserved, Resigned,
+Tough, Vengeful, Yielding
+Deputy Sheriff
+The Law, Badge, Watchful, Handcuffs, Pistol, Taser, Disarm, Arrest,
+Protect, Careful, Negotiate, Command, Undercover
+Detective
+Case Files, Deduction, Determined, Elementary!, Fisticuffs, Game is
+Afoot!, Informants, Insight, Investigate, Law, Magnifying Glass, Perceptive, Pistol, Questioning, Research, Search, Warrant
+Deviant
+Betray, Bloody, Cold-Blooded, Dark, Dishonest, Icy Stare, Infamous,
+Obsessed, Perverted, Psychopath, Scandalous
+Dilettante
+Attitude, Borrow, Carouse, Connected, Cultured, Elitist, Entitlement,
+Excuses, Fashion, Favors, Haughty, Loans, Privilege, Repartee, Seduction, Wealth, Winning Smile
+Diviner
+Astral Sight, Astrological Charts, Comprehension, Crystalmancy, Destinies, Doomsayer, Dowsing, Dreaming, Extend Senses, Harbinger,
+Omens, Past Lives, Postcognition, Precognition, Prophesy, Scrying
+Doctor
+Medicine, Organs, Tools, Bedside Manner, Sewing, Stop Bleeding,
+“Dammit, I’m a doctor not a …”
+Dreamblood
+Sedate, Manipulate Dream, Enter Dream, Hallucination, Blind Fighting, Read Mind
+Drunk
+Drinking, Liquor, Brawling, Drawling, Insults, Fighting, Homebrew,
+Bottles, Tolerance, Fortitude, Alien Liquor
+Dustblood
+Spellcaster, Second-Rate Sorcerer, Breeze, Dirt, Whispers, Cover, Impression, Patient, Small Effect
+Elderly
+Anecdotes, Can’t Feel a Thing, Demanding, Grouchy, Hard of Hearing,
+I Knew Yer Pa!, Knobby Cane, Pushy, Respect, Senile, Tall Tales, Thick
+Spectacles, Wise
+Engineer
+Mechanic, Repair, Sabotage, Invention, Trains, Rails, Ships, Engines,
+Architecture, Black Powder, Clockwork, Devices, Dynamite, Eureka!,
+Improvise, Modification, Salvage, Spare Parts, Talented, Tool Kit,
+Wrench
+Entertainer
+Acrobatics, Antics, Contortion, Distraction, Escape, Hidden Knives,
+Humor, Juggling, Keen Aim, Keep ’Em Occupied, Mask, Sleight of
+Hand, Theatrics, Throwing Knives, Trickery, Tumbling
+Escort
+Alert, Blood Bond, Calm, Conceal, Defend, Derringer, Disguise, Etiquette, Fencing, Loyal, Rapier, Reaction, Search, Serious, Stipend, Suspicion, Tend Wounds, To the Death, Watchful
+Ex-Imperial Soldier
+Tactics, Command, Soldiers, Rank, Connections, Maps, Imperial War
+Ships, Uniform, Code of Conduct
+Ex-Skyballer
+Olympian Skyball, Athletic, Brawn, Game Plan, Endurance, Tough,
+Wrestling, Awareness, Strategy
+Ex-Slave
+Sneak, Hide, Run, Tough, Endure, Scrounge, Nobles, Hatred, Iron Will
+Ex-Soldier
+Swords, Axes, Rifles, Tactics, Command, Rank, Connections, Uniform
+Ex-Troublemaker
+Run, Grab, B&E, Dirty Fighting, Gunplay, Dodge
+Executive Officer
+That Smile, That Haircut, Designer Suit, Wealth, High-Level Clearance, Connections, Combat Simulator Experience
+Explorer
+Curious, Aware, Nimble, Hardy, Ancient Lore, Languages, Ruins, Monsters, Myths, Maps, Appraise, Decipher, Excavate, Funds, History,
+Traps, Treasures, Whatever you can find
+Faith
+Calm, Collected, Pious, Unyielding, Assurances, Truth
+Faithful
+Determined, Honest, Ignorant, Iron Will, Loyal, Patient, Religious,
+Spirited, Stubborn, Unyielding, Uplifting
+Fallen Aristocrat
+Educated, Etiquette, Music, Dance, Languages
+Fanatic
+Angry, Bomb, Branded, Combative, Convert, Fervent, Flagellant, Intolerant, Molotov Cocktail, Religious, Scarred, Wild Hair
+Farmer
+My Land, My Family, Scrounge, Endure, Repair, Lay of the Land,
+Hidey Hole, Barter, Moonshine, Trader
+Fingersmith
+Quiet, Sneak, Hide, Dexterous, Locks, Traps, Darkness, Thievery
+Flamboyant
+Attention, Colorful, Exuberant, Fine Clothes, Flashy, High Spirits,
+High Tension, Interrupt, Outgoing, Prance, Style
+Flameblood
+Spellcaster, Channeling, Master Sorcerer, Fire, Blast, Shield, Heat,
+Smoke, Terrify, Quench
+Foolish
+Annoy, Barge In, Cajole, Curious, Determined, Ignore Them, Ill Mannered, Insult, Jump to Conclusions, Stubborn, Whine
+Foreign
+Allure, Exotic, Fresh Perspective, Incomprehensible, Pidgin, Strange
+Mannerisms, Surprising, Unique Habits, Unknown, Unreadable
+Foreman
+Architecture, Argue, Bribes, Carpentry, Direction, Double Check,
+Handy, Intercede, Management, Negotiate, Read Plans, Temper,
+Tough, Well-Off
+Former Beauty Queen
+Aged Beauty, Charming, Presence, Dancing, Swimming, Beautiful
+Dress
+Former Outlaw
+Knives, Hidden Weapons, Thrown Weapons, Brawling, Gouging,
+Avoiding Fire
+Free Person
+Haven Knowledge, Pride, Connections, Law, Trade, Liberty, Commerce
+Frontiersman
+Curious, Aware, Nimble, Hardy, Lore, Birds and Beasts, Shooting,
+Hunting, Family, Tracking, Trapping, Lay of the Land, Allies, Brawling, Camping, Gold Shares, Gritty, Hunting Rifle, Interpret, No Nonsense, Orienteering, Riding, Rugged Pistol, Scouting
+Gambler
+Cards, Dice, Sharp Eye, Hidden Weapons, Betting, Bookie, Distract,
+Fast-Talk, Infamous, Know the Odds, Loaded Dice, Lucky Streak,
+Marked Cards, Now You See It, Palming, Place the Blame, Poker Face,
+Shell Game, Up the Sleeve
+Gentleman
+Etiquette, Persuasion, Dueling, Drinking, Friendly Wager, Fisticuffs,
+Noblesse Oblige, Towering Rage, Gravitas, Seduction, Education
+Ghostblood
+Fly, Possess, Insubstantial, Control Technology, Electrical, Dominate,
+Terrify, Sneak, Overload
+Goblin
+Warp shape, Glide, Nightvision, Agile, Quick, Tumbler, Teeth & Claws,
+Mimic Shape, Reckless, Connections, Spines, Gills, Mimic Shape
+Goddamn Crazy
+Cats, Shotgun, More Cats, Paranoia, Shooting, Raving, Reckless, Unsteady, Roadkill Pie, Shoot Anything That Moves, Stir Crazy
+Good Times
+Charisma, Reassurance, Diplomacy, Presence, Partying, Drinking,
+Persuasion, Bargaining, Locals
+Guard
+Awareness, Cudgel, Defend, Disarm, In the Line of Duty, Leather Coat,
+Nobody’s Fool, Notice, Pistol, Polearm, Restrain, Serious, Take the Hit,
+Threaten, Unflinching
+Gunfighter
+Pistols, Quick Draw, Gun In Each Hand, Cover, Show Off
+Gypsy
+Allies, By the Stars, Cackle, Clan, Dark Tales, Eerie Stare, Evil Eye,
+Legends, Lore, Myths, Palmistry, Pick Pockets, Riddles, Secrets, Tarot
+Cards, The Old Ways, Tricks, Unsettling
+Handy
+Insightful, Aware, Practical, Assess, Repair, Drive, Vehicles, Jury-Rig,
+Patch up, Danger, Explosives
+Hero
+Bold, Daring, Rescue, Fire, Reckless, Brave, Outnumbered, Underdog,
+Hometown, Freedom, Liberty
+Hidden Knowledge
+History, Weaknesses, Mysteries, Arcane, Folklore, Religion, Stone
+Judges, The Other Side
+Hoodlum
+Bash, Blackjack, Bottle of Spirits, Brawling, Break, Crass, Criminal,
+Cruel, Destroy, Dirty Tricks, Kick It In, Menace, Miscreant, Mugging,
+Pushy, Revolver, Strong, Tough, Ugly, Violent
+Hunter
+Curious, Aware, Nimble, Hardy, Backworlds, Trapping, Birds & Beasts,
+Rifle, Sneak, Camouflage, Wilderness Survival, Track, Beasts, Traps
+Huntsman
+Animal Mimicry, Camouflage, Dagger, Endure, Keen, Lures, Navigate,
+Observation, Predator, Running, Scrounge, Shooting, Shotgun, Silent,
+Snares, Tough, Tracking
+Impassive
+Cool-Headed, Inconceivable!, Informed, Logical, Surmise, Think It
+Through, Unemotional, Unyielding
+Imperial Noble
+Etiquette, Dance, Educated, History, Science, Wealth, Connections,
+House Blackbird
+Initiate
+Ancient Lore, Awareness, Brotherhood, Conspiracy, History, Initiation
+Rites, Influence, Mysteries, Rituals, Secret Handshake, Solidarity, The
+Oath
+Inventor
+Steam, Gears, Bulky, Portable, Grandiose, Novel, It Just Might Work,
+Crackpot, Patents
+Investigator
+Search, Deduction, Perceptive, Seduce, Interrogate, Bribe, Coerce,
+Contacts, Sneak, Deception, Insight, Logic, Fisticuffs, Pistol, Gather information
+Journalist
+Badger, Camera, Chutzpah, Contacts, Deception, Disliked, Ear for
+News, Eavesdrop, Fast-Talk, Gossip, Headlines, Inquiry, Integrity,
+Photography, Scandal, Stop the Presses!
+Keen
+Insightful, Aware, Coiled, Liars, Traps, Danger, Sense Motives, Ready,
+Anticipation, Quick, Perceptive, Observant, Watchful, Common Sense,
+Understanding, Distrustful, Listen
+Kind
+Gentle, Smile, Sense of Humor, Listen, Calm, Negotiate, Haggle,
+Friendly, Father, Caring, Good Husband
+Laborer
+Carouse, Carpentry, Distrust, Endure, Farming, Fireman, Follow Directions, Friends, Gardener, Handy, Lumber, Mining, Pickaxe, PlainSpeaking, Pummel, Solidarity, Strong, Teamster
+Lady
+Etiquette, Dance, Educated, History, Science, Wealth, Connections,
+Self-Preservation, Courtesy, Sense Motive, Throwing things very hard,
+Languages
+Landlubber
+Airsick, Ground beneath my feet, Walk, Outsider’s Perspective, Community
+Life of the Party
+Fast Talk, Pick-Up Lines, Bar Divination, Charisma, Casanova, A Call
+in Every Port
+Litigant
+Berate, Chastise, Convince, Cross Examine, Debate, Integrity, Interrupt, Investigate, Law, Legal Briefs, Objection!, Oratory, Prosperous,
+Secrets, Trusted
+Lycanthrope
+Animal Form, Bestial Hide, Call Animals, Claws, Deadly, Fierce, Full
+Moon, Hideous, Howl, Instinct, Keen Sense, Lost Humanity, Nightvision, Predator, Ravenous, Shred
+Magician
+Bluff, Charisma, Clever, Distraction, Endless Ribbons, Faster Than the
+Eye, Fireworks, Mirrors, Prediction, Sleight of Hand, Smoke Bomb, Top
+Hat, Trick Cane, Ventriloquist, You’re Getting Sleepy
+Master Sorcerer
+Spellcaster, Channeling, Stormblood, Wind, Lightning, Fly, Blast,
+Sense, Dustblood, Hex, Strain, Haunt, Winnow, Terrify
+Mechanic
+Repair, Engines, Efficiency, Spare Parts, Sabotage, Enhancements,
+Ship Weapons, Improvise Tool, Good with Machines, Perceptive,
+Toolkit, Dextrous
+Meddlesome
+Advice, Curious, Gossip, Inquire, Listen, Nonchalant, Observe, Peek,
+Tinker, What Does This Do?
+Mercenary
+Battle-Hardened, Brawl, Casual Killing, Shooting, Pistol, Long Gun,
+Tactics, Broadsword, Fencing, Opportunistic, Fast, Disloyal, Tough,
+Callous, Overkill, Careful
+Merchant
+Accounting, Appraise, Arrange, Bargain, Budget, Buying, Conceal,
+Connections, Deals, Evaluate, Fast-Talk, Procure, Profit, Prosperous,
+Selling, Stocks, Supply, Trading
+Military Science
+Gunnery, Aim, Maintenance, Digging, Observation, Signals, Supplies,
+Healer, Construction, Damage Control
+Miner
+Tunnels, Labor, Strong, Pickaxe, Dim Light, Hold Breath, Ores, Resist
+Cold, Endure, Explosives, Tight Spots, Rare Metals, Big Damn Explosions, Shaped Charges
+Mischievous
+Bluff, Distract, Escape, Humorous, Impulsive, Keen, Quick, Sharp,
+Tricks, Unpredictable, Wide Grin
+Monstrous
+Abominable, Bat Wings, Bizarre, Claws, Disembody, Fangs, Fierce,
+Hideous, Hunger, Infection, Mutation, Regrow, Scales, Sting, Strangle, Strong, Tentacles, Terrible, Venom, Wall Crawl
+Nobility
+Coat of Arms, Culture, Education, Etiquette, Favors, Heirloom, History, Inbreeding, Inheritance, Lineage, Majesty, Paragon, Presence,
+Privilege, Royalty, Title, Tradition, Wealthy
+Officer
+Soldiers, Form a square, On my signal, Tactics, Fortifications, Connections, Guns, Maps, Loyalty, Sacrifice, Duty and Honor
+Officer
+Bureaucracy, Chain of Command, Confidence, Etiquette, Fencing,
+Groomed, Heavy Pistol, History, Intel, Leadership, Medals, Military,
+Orders, Rank, Respect, Saber, Shooting, Stand Tall, Tactics, Wages
+Old Lady
+Strict, Caring, “Medicine”, Cookies, Knitting, Baking, Pumpkin Pie,
+Grand-Niece, Grand-Nephew, Frying
+Old Man
+Fists, Tough Skin, Dead Nerves, Hard, Improvised Weapons
+Olympian
+Drinking, Brawling, Drawling, Hunting, Shotgun, Pride, Hometown
+Hero, Heritage, Olympic Charm
+Olympian Warrior
+Honor, Might, Combat Trained, Thunder Sword, Leadership, Superiority, War Drinking, Loyalty, Battle Rage, Poetry
+Optimist
+Calm, Compliment, Confidence, Energetic, Honest, Inspire, Polite, Positive, Tenacious, Unrealistic
+Orator
+Convincing, Censure, Command, Charisma, Hope, Inspiration, Rebuke
+Outcast
+Alcoholic, Branded, Contacts, Convict, Creepy Stare, Infamous, Loner,
+Misanthrope, Outlaw, Scrounge
+Parent
+Loving, Caring, Protective, Over-Protective, Deadbeat, Diapers, Estranged, Worrisome, Strict, Sleepless Nights
+Pastor
+Advice, Authority, Calm, Ceremony, Comfort, Community, Confession, Educated, Flock, Holy Book, Holy Symbol, Inspire, Level-Headed,
+Respected, Sacrament, Stipend, Temptation, Trusted
+Perfectionist
+Critical, Details, Effort, Expertise, Frustration, Hard Work, Irritable,
+Stress, Studious, Tireless
+Performer
+Acting, Charming, Composition, Dancing, Direct, Disguise, Famous,
+Influence, Luxury, Memorable, Musician, Opera, Opinions, Poetic, Seduction, Singing, Sway
+Petty Criminal
+Sneak, Pickpocket, Crowbar, Hotwire, Sly, Running, Getaway, Vanishing, Space Crime, Firearms
+Petty Magic (use one spell tag at a time)
+Light spell, Dark spell, Jump spell, Shatter spell, Channeling, Spellcaster
+Philosopher
+Grim Determination, Big Picture, Calm, Supportive, Quote Philosophy,
+Perfect Clarity, Abolition, Argue, Crackpot, Educated, Ethics, Heretical, Morality, Ponder, Reasoning, Religion, Revolutionary, Spurious
+Logic, Stubborn, Temperance, Thoughtful
+Physician
+Anatomy, Bedside Manner, Dentistry, Diagnose, Diseases, Dissection,
+Educated, Examine, Healing, Medical Bag, Pharmacy, Prosperous,
+Remedies, Sedatives, Surgery, Unnerving
+Pilot
+Daring, Steady, Maneuvering, Evasion, Tricky Flying, Navigation,
+Maps, Atmospherics, Battle, Ramming, Stay Awake, Wireless, Repair,
+Modifications, Cargo, Warp Drive, Stunts, Alert, Drive
+Pit-Fighter
+Combat Tested, Brutal, Living Weapon, Fast, Hard, Strong, Bonebreaking, Scary Look
+Politician
+Above Reproach, Argue, Authority, Connected, Contributions, Convince, Elected, Exaggerate, Hogwash, Hyperbole, Law, Lobby, Pillar
+of the Community, Rants, The Game, Trusted, Wealthy
+Polymath
+Obscure Fact, Hidden Knowledge, Healer, Maps, Construction, Flash of
+Insight, Practical Solution, Handy Almanac, Friends, Strange Notions,
+Elegant Thinking
+Priest
+Prayer, Evangelize, Defender of the Faith, Comfort, Condemn, Rouse,
+Calming, Respected, Kindly, Helpful, Confessions
+Printer’s Devil
+Script, Ink, Propaganda, Machinery, Deadlines, Scramble, Contracts
+Private Investigator
+Careful, Deduction, Connections, Sense Motives, Gather Information,
+Informants, Careful Listener, Slippery Tongue
+Protect
+Awareness, Threats, Defend, Disarm, Restrain, Carry, Delay, Healer
+Pugilist
+Fisticuffs, Clean Fighting, Dukes Up, Right Cross, Dirty Fighting, Bad
+Temper, Bone-Breaking, Brass Knuckles, Brutal, Crush, Fancy Footwork, Fast, Hard, Menacing, Reputation, Suckerpunch, Sure Bet,
+Thick-Skinned
+Questions
+“Who am I?”, “Where do I come from?”, “Is what I feel real?”, “Who
+can I trust?”, “What is love?”, “Are my deeds righteous?”, “Am I a
+thing worth saving?”, “Can I live up to my destiny?”
+Quick
+Fast Hands, Smart, First To Act, Run
+Rebel Agent
+Stealthy, Subterfuge, Innuendo, Silent, Contacts, Sabotage, Double
+Agent, Identities, Assassinate, Bombs, Ray Guns, Double Cross, Codes
+Rebellious
+Antisocial, Argue, Brash, Bring It!, Daring, Headstrong, Impatient, Insubordinate, Take Advantage, Tough
+Reclusive
+Antisocial, Emotional Wounds, Extreme, Hateful, Hide, Leave Me
+Alone!, Misunderstood, Quiet, Shy
+Redsmith
+Craft, Haggle, Copper, Amber, Ambronics, Wires, Jewelery, Beauty
+Regulator
+Connections, Infamy, Safe Houses, Stashes, Weathered
+Religiosity
+Baptist, Bible, Prayer, Disapproval, Letter Writing, Reverend Willy,
+Evangelist, Preaching, Turn the other cheek, Love thy neighbor
+Reputation
+Trustworthy, Reliable, Fearless, Reckless, Ruthless, Underhanded,
+Dangerous, Deadly, Cruel, Unpredictable, Heroic, Honorable, Compassionate
+Resilient
+Iron Will, Tough, Relentless, Escape
+Ruffian
+Lying, Stealing, Hiding, Connections
+Rustic
+Aware, Backwoods, Curious, Family, Hardy, In Your Blood, Intolerant,
+Lay of the Land, Nimble, Plain, Temper, The Way It’s Always Done,
+Traps
+Sailor
+Cudgel, Fishing, Gunnery, Iron Stomach, Navigate, Pistol, Rank, Rowboat, Sailboat, Scrimshaw, Sea Legs, Sea Shanties, Signals, Stamina,
+Steamer, Warship, Whaling, Woman In Every Port
+Saintly
+Religious Lore, Faith, Presence, Inspiring Prayer, Righteousness, Resolve, Self-Sacrifice, Aura
+Savage
+Alertness, Berserker, Bow, Brother Wolf, Calm, Fasting, Fierce,
+Hatchet, Hunting, Legends, Quick, Scrounge, Silent, Sister Falcon,
+Snares, Survival, Talisman, Tracking, Wilderness
+Scarred
+Memorable, Frightening, Intimidating, Missing Teeth
+Scholar
+Literacy, History, Culture, Cosmology, Science, Mathematics, Haven,
+Heraldry, Ancient, Argument, Colleagues, Cultures, Curator, Debate,
+Dissertation, Old School Song, Philosophy, Research, Studious, Stiff,
+Tenure
+Scientist
+Investigate, Reveal, Geometry, Employ Device, Analyze, Explosion,
+Impressive Display, Natural Science, Distraction, Thrilling Discovery,
+Maths, Rational, Systematic, Selfless, Acids, Backing, Crackpot, Detached from Reality, Explosives, Stipend, Theory, Untested
+Scout
+Quiet, Sneak, Hide, Dextrous, Climb, Perceptive, Traps, Darkness,
+Maps , Distractions
+Secretive
+Arcane, Blackmail, In the Shadows, Observant, Paranoid, Quiet, Stubborn, Suspicious, Tight-Lipped, Unknown
+Sensible
+Anecdotes, Big Picture, Calm, Clarity, Consider, Cool-Headed, Humility, Supportive, Unflappable
+Sharpshooter
+Steady Hand, Long Shot, Trick Shot, Ambush, Rifles, Sharp Eye
+Sheriff
+Badge, Honorable, Law, Disarm, Arrest, Protect, Serve, Calm, Undercover
+Sky Pirate
+Vicious, Hack & Slash, Cutlass, Knife, Shooting, Boomstick, Gunner,
+Boarding Action, Crew, Loot, Capture, Drink, Hardy, Treacherous,
+Intimidating, Contacts, Underworld, Pilot, Navigate, Close Quarters,
+Cruel
+Sky Sailor
+Gunnery, Aim, Maintenance, Observation, Signals, Empire, Pirates,
+Free Worlds, Haven, Repair, Connections
+Skyship Officer
+Drive, Ship Systems, Power Loader, Repair, Clamber, Pilot, Orders
+Slayer
+Cold-Hearted, Crossbow, Defy Evil, Demonology, Hatred, Holy Symbol,
+Holy Water, Hunting, Iron Will, Know the Signs, Know Thy Enemy,
+Monsters, Patience, Silver, Sniper, Tracking, Tooth and Nail, Wooden
+Stake
+Slippery
+Backup Plan, Aliases, Deception, Escape Route
+Sly
+Crafty, Sneaky, Distractions, Bluff, Languages, Trade Speak, Sharp,
+Disguise, Deception, Wheeling & Dealing, Shadows, Artful
+Smoothtalker
+Smile, Soothing Lies, Doubletalk, Innuendo, Handsome
+Smuggler
+Haggle, Deception, Sneak, Hide, Camouflage, Forgery, Pilot, Navigation, Repair, Gunnery, Bribes, Contacts, Bruisers
+Sneak
+Shadows, Quiet, Camouflage, Forgery, Accomplice
+Sociable
+Approachable, Carouse, Connections, Friendly, Inspire, Nonchalant,
+Positive, Talkative, Well-Mannered
+Soldier
+Discipline, Rifle, Pistol, Sabre, Command, Tactics, Fraternity, Strategy, All For One, Bitter, Fierce, Flashbacks, Grim, Grisly Tales, Gritty,
+March, Scarred, Shooting, Spit and Polish, Tough, Uniform Jacket,
+Veteran, War Stories
+Spiritualist
+Calm, Crystal Ball, Deception, Distraction, Hauntings, Improvise,
+Knocking, Lore, Misleading, Observation, Palmistry, Parlor Tricks,
+Rituals, Secrets, Tragedy
+Sportsman
+Archery, Champion, Fair Play, Famous, Fencing, Fitness, Golf, Jumping, Longbow, Olympics, Rapier, Rules, Running, Strength, Swimming, Tennis, Throwing, Training, Unbeaten, Vigorous, Wrestling
+Spy
+Deception, Disguise, Codes, Sneak, Hide, Misdirection, Assassinate,
+Impersonate, Camouflaged Pistol, Collapsible Dagger, Conceal, Cunning, Cyanide Pill, Gain Trust, Infiltrate, Iron Will, Lies, Military, Observe, Politics, Propaganda, Secrets, Subversion, Surreptitious
+Squid Biology
+Eats Anything, Mighty Strong, Odd Smells, Squid Senses, Ink Glands,
+Breathe in the Depths, Additional Organs
+Steadfast
+Honorable, Reliable, Oath-keeper, Brave, Tough
+Steward
+At the Master’s Side, Blackmail, Convincing, Eavesdrop, Efficient, Endure, Etiquette, Inform, Intrigue, Loyal, Patience, Secrets, Servant,
+Tradition
+Stoneblood
+Harden, Make Heavy, Meld Into Stone, Petrify, Immovable, Mauler,
+Move Through Stone, Shape Rock, Tough
+Stormblood
+Spellcaster, Channeling, Master Sorcerer, Wind, Lightning, Fly, Blast,
+Sense, Hex, Strain, Haunt, Winnow, Terrify
+Strongback
+Heave, Steady Hands, High Pain Threshold, Brawl, Grip, Crush, Unshakeable
+Student
+Contraband, Drinking Games, History, Literature, Lollygag, Old
+School Song, Pranks, Research, Scholarship, School Colors, Science,
+Studious, Take Notes, Teacher’s Pet, Truancy
+Summer Camp Counsellor
+Survival, Campfires, Ghost Stories, Archery, Bows, Hunting, The
+Woods, Other Worlds, Counseling
+Superstitious
+Careful, Details, Folklore, Good Luck Charm, Legends, Lucky Number,
+Myths, Nervous, Observant, Reaction, Suspicious
+Survivor
+Tough, Run, Scrounge, Endure, Creepy Stare, Intimidate, Medic, Trap,
+Cunning, Bravery, Keen, Hunt, Axe
+Tale Spinner
+Teacher, “That’s how they do it in the bigs”, Drills, War Wounds, I
+Know a Guy
+Target
+Flee, Hide, Notice, Perseverance, Dash, Shake it off
+Theurgist
+Atonement, Blessing, Consecrate, Convert, Divinity, Exorcise, Fire and
+Brimstone, Healing, Holy Fury, Holy Light, Holy Spirit, Miracles, Purification, Rebuke, Retribution, Righteous, Word of God
+Thief
+Alarms, Appraise, Balance, Bluff, Conceal, Etiquette, Eye for Detail, Intrude, Lockpicks, Locks, Prosperous, Sleight of Hand, Stealth, Trailing,
+Traps, Unassuming, Winning Smile
+Tradesman
+Barman, Brewing, Coachman, Conductor, Cooking, Efficient, Grooming, Hard Work, Husbandry, Organized, Patient, Professional, Reliable, Service, Spit and Polish, Tailor, Undertaker
+Trash
+Inconspicuous, Endurance, Low Blow, Mean, Escape, Sucker Punch,
+Intimidation, Hard Man, Gunplay
+Traveller
+Weathered, Pathfinding, Directions, Customs
+Tricky
+Quick, Dirty Fighting, Tumbler, Escape, Contortionist, Sleight of
+Hand, Acrobatics, Deadly Knife, Find Weakness, Contortionist, Agile,
+Sneaky, Unexpected Strike, Scrambling, Wriggling, Martial arts, Ambush
+Trucker
+Driving, Wakefulness, Radio, Repair, Big Rig, Pickup, Pilot, Steam
+Drive, Stunt Driving, Navigation
+Undead
+Bite, Break Through, Claw, Dead Gaze, Feel No Pain, Fierce, Horrific, Hunger, Lunge, Memento, Memories of Life, Nightmares, Pass
+Through, Relentless, Rot, Shriveled, Smell Their Life, Tireless
+Underworld
+Haggle, Deception, Forgery, Hideouts, Contacts, Criminals
+Unflappable
+Fast, Reliable, Good Eye, Clear-Thinking, “Shit that’s fast”, Serene
+Urbanite
+Bargain, Contacts, Directions, Favors, Feel of the Streets, Gossip, Know
+Someone Who Knows Someone, Rivalry, Streetwise
+Vagrant
+Alms, Begging, Bitter, Feign Injury, Hoboknife, Hungry, Iron Stomach,
+Pathetic, Poor, Scrounge, Stamina, Unnoticed, Unwashed
+Valiant
+Calm, Charge In, Courage, Ethical, Feel Their Pain, Heroic, Inspire,
+Mercy, Protect, Righting Wrongs
+Vengeful
+Anger, Determined, Gritty, Headstrong, Ignore the Pain, Menacing, No
+Mercy, Righting Wrongs, Tough
+Veteran
+Combat Tested, Brutal, Patrol, Rifle, Fast, Hard, Strong, BoneBreaking, Scary Look, First Aid, Fearless, Weaponry, Riding
+Victim
+Resigned, Angry, Tough, Vengeful, Brash, Brutal, Fearless
+Visionary
+Ambitious, Creative, Curious, Dreamer, Hopeful, Ideals, Inspiration,
+Progressive, Unrealistic
+Voidblood
+Invisibility, Vacuum, Make Weightless, Pass Through, Erase Mind,
+Counterspell, Disintegrate
+Wanton
+Excitement, Masochist, Obsession, Perverted, Scandalous, Sensual,
+Temptation, Tickle, Unflappable
+War Leader
+Command, Strategy, Soldiers, Intimidating, Combat Tested, Send men
+to die, Tactics, Training Exercises, Fast, Hard, Strong, Scary Look
+Warrior
+Battle-Hardened, Shooting, Two-Gun Style, Pistol, Brawl, Hail of Lead,
+Cool-Headed, Cuirass, Dagger, Dangerous, Daring, Disarm, Duelist,
+Feint, Flanking, Keep Fighting, Longsword, Parry, Rapier, Shortsword,
+Steady Gaze, Surprise, Two-Handed, Unpredictable
+Weapon Scrounger
+Improvise, Imperial, Gunnery, Pistols, Axes, Search, Swords, Explosives
+Whispblood (one spell tag at a time)
+Float spell, Thin spell, Whisper spell, Pale spell, Spellcasting, Channelling, Hypnotism spell, Spark spell
+Woodsman
+Tough, Run, Scrounge, Endure, Languages, Lay of the Land, Barter,
+Trader
+Worldly
+Adventurous, Alert, Been There Done That, Cultures, Curious, Hardy,
+Improvise, Languages, Open-Minded, Shrewd
+Youth
+Annoy, Curious, Exuberant, Innocent, Pester, Slingshot, Small,
+Tantrum, Whine, Wriggle
