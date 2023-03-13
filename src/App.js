@@ -4,7 +4,6 @@ import keys from "./data/keys.json"
 import secrets from "./data/secrets.json"
 import traits from "./data/traits.json"
 import { useState, useEffect, useRef } from 'react';
-import Downloader from './Downloader';
 //Component imports
 import Block from './Block';
 
