@@ -1,16 +1,13 @@
 {
   "files": {
-    "main.css": "/blackbrew/static/css/main.073c9b0a.css",
-    "main.js": "/blackbrew/static/js/main.e9999eb9.js",
-    "static/js/787.dbdf13b9.chunk.js": "/blackbrew/static/js/787.dbdf13b9.chunk.js",
-    "static/media/logo.svg": "/blackbrew/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.css": "/blackbrew/static/css/main.d057bf3d.css",
+    "main.js": "/blackbrew/static/js/main.7266b91c.js",
     "index.html": "/blackbrew/index.html",
-    "main.073c9b0a.css.map": "/blackbrew/static/css/main.073c9b0a.css.map",
-    "main.e9999eb9.js.map": "/blackbrew/static/js/main.e9999eb9.js.map",
-    "787.dbdf13b9.chunk.js.map": "/blackbrew/static/js/787.dbdf13b9.chunk.js.map"
+    "main.d057bf3d.css.map": "/blackbrew/static/css/main.d057bf3d.css.map",
+    "main.7266b91c.js.map": "/blackbrew/static/js/main.7266b91c.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.e9999eb9.js"
+    "static/css/main.d057bf3d.css",
+    "static/js/main.7266b91c.js"
   ]
 }
