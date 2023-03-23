@@ -154,7 +154,7 @@ const App = () => {
         <div className="f">secrets: {secretCount}/2</div>
       </div>
       <div className="navbar">
-        <button className="nav" onClick={() => setViewSaved(true)}>Edit Character</button>
+        <button className="nav" onClick={() => setViewSaved(true)}>Your Character</button>
         <button className="nav" onClick={() => click(keys)}>Generate Keys</button>
         <button className="nav" onClick={() => click(traits)}>Generate Traits</button>
         <button className="nav" onClick={() => click(secrets)}>Generate Secrets</button>
