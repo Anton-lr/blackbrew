@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/blackbrew/static/css/main.d057bf3d.css",
-    "main.js": "/blackbrew/static/js/main.7266b91c.js",
+    "main.css": "/blackbrew/static/css/main.408be600.css",
+    "main.js": "/blackbrew/static/js/main.a34697e0.js",
     "index.html": "/blackbrew/index.html",
-    "main.d057bf3d.css.map": "/blackbrew/static/css/main.d057bf3d.css.map",
-    "main.7266b91c.js.map": "/blackbrew/static/js/main.7266b91c.js.map"
+    "main.408be600.css.map": "/blackbrew/static/css/main.408be600.css.map",
+    "main.a34697e0.js.map": "/blackbrew/static/js/main.a34697e0.js.map"
   },
   "entrypoints": [
-    "static/css/main.d057bf3d.css",
-    "static/js/main.7266b91c.js"
+    "static/css/main.408be600.css",
+    "static/js/main.a34697e0.js"
   ]
 }
