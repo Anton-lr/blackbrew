@@ -4,6 +4,7 @@ import keys from "./data/keys.json"
 import secrets from "./data/secrets.json"
 import traits from "./data/traits.json"
 import { useState, useEffect, useRef } from 'react';
+import { saveAs } from 'file-saver';
 //Component imports
 import Block from './Block';
 
@@ -12,14 +13,21 @@ const App = () => {
 
   const [saved, setSaved] = useState([]);
   const [preview, setPreview] = useState([])
-  const inputRef = useRef(null)
+
   const [input, setInput] = useState('')
   const [viewSaved, setViewSaved] = useState(false)
   const [currentType, setCurrentType] = useState()
-
   const [keyCount, setKeyCount] = useState(0)
   const [traitCount, setTraitCount] = useState(0)
   const [secretCount, setSecretCount] = useState(0)
+
+  const inputRef = useRef(null)
+  const fileRef = useRef(null)
+
+  useEffect(() => {
+    console.log("hiii")
+    console.log(fileRef)
+  }, [fileRef])
 
   useEffect(() => {
     if (input != "") {
@@ -115,31 +123,52 @@ const App = () => {
     setSaved(b)
   }
 
+  function saveToFile() {
+    var blob = new Blob([JSON.stringify(saved)], { type: "text/plain;charset=utf-8" })
+    saveAs(blob, "character.json")
+  }
+
+  const handleChange = (e) => {
+    const file = e.target.files[0]
+    const reader = new FileReader()
+    reader.readAsText(file)
+    reader.onload = () => {
+      setSaved(JSON.parse(reader.result))
+    }
+    reader.onerror = () => {
+      console.log("file error", reader.error)
+    }
+  }
+
   return (
     <div className="main">
+      <div className="fileManager">
+        <input className="cfp" type="file" onChange={handleChange} placeholder="Upload Character"></input>
+        <button className="nav" onClick={() => saveToFile()}>Download Character</button>
+      </div>
       <div className="overview">
-          <div className="f">keys: {keyCount}/3</div>
-          <div className="f">secrets: {secretCount}/2</div>
-          <div className="f">traits: {traitCount}/4</div>
-          <input className="nav" ref={inputRef} placeholder="Search"></input>
-          <button className="nav" onClick={() => search()}>Search</button>
+        <input className="nav" ref={inputRef} placeholder="Search"></input>
+        <button className="nav" onClick={() => search()}>Search</button>
+        <div className="f">keys: {keyCount}/3</div>
+        <div className="f">traits: {traitCount}/4</div>
+        <div className="f">secrets: {secretCount}/2</div>
       </div>
       <div className="navbar">
-        <button className="nav" onClick={() => setViewSaved(true)}>View saved</button>
+        <button className="nav" onClick={() => setViewSaved(true)}>Edit Character</button>
         <button className="nav" onClick={() => click(keys)}>Generate Keys</button>
         <button className="nav" onClick={() => click(traits)}>Generate Traits</button>
         <button className="nav" onClick={() => click(secrets)}>Generate Secrets</button>
       </div>
       {viewSaved == false &&
         <div className="saved">
-          <p>Click on an item to save</p>
+          <p>Click on an item to add it to your character</p>
           {preview.slice(0, Math.ceil(preview.length / 2)).map(i => (
             <Block data={i} func={addToSaved} setting={"discover"} key={i.id} />
         ))}
         </div>}
       {viewSaved == false &&
         <div className="discover">
-          <p>saving an item will reveal a new one</p>
+          <p>Saving an item will reveal a new one</p>
           {preview.slice(-Math.ceil(preview.length / 2)).map(i => (
             <Block data={i} func={addToSaved} setting={"discover"} key={i.id} />
           ))}
@@ -151,8 +180,6 @@ const App = () => {
               <Block data={i} func={handleDelete} setting={"saved"} key={i.id} />
           ))}
         </div>}
-      
-
       {viewSaved == true &&
         <div className="discover">
           <p>Your traits (click trait to remove)</p>
@@ -160,8 +187,6 @@ const App = () => {
             <Block data={i} func={handleDelete} setting={"saved"} key={i.id} />
           ))}
         </div>}
-
-    
     </div>
   );
 }

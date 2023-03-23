@@ -22,9 +22,24 @@ code {
   gap: 20px;
   padding: 30px;
   grid-template-areas:
+    "fileManager fileManager"
     "overview overview"
     "header header"
     "saved discover";
+}
+
+.fileManager {
+  padding-top: 0;
+  grid-area: fileManager;
+  display: flex;
+  justify-content: center;
+}
+
+input[type="file"] {
+    border: 1px solid #ccc;
+      display: inline-block;
+      padding: 6px 12px;
+      cursor: pointer;
 }
 
 .overview {
