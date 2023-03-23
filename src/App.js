@@ -22,12 +22,6 @@ const App = () => {
   const [secretCount, setSecretCount] = useState(0)
 
   const inputRef = useRef(null)
-  const fileRef = useRef(null)
-
-  useEffect(() => {
-    console.log("hiii")
-    console.log(fileRef)
-  }, [fileRef])
 
   useEffect(() => {
     if (input != "") {
@@ -134,6 +128,7 @@ const App = () => {
     reader.readAsText(file)
     reader.onload = () => {
       setSaved(JSON.parse(reader.result))
+      setViewSaved(true)
     }
     reader.onerror = () => {
       console.log("file error", reader.error)
